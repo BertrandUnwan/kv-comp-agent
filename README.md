@@ -355,7 +355,7 @@ Because of that, I proceeded using the written brief and scoped the solution aro
 
 ## Demo video
 
-Demo video link: `<add Loom link here>`
+Demo video link: `<(https://www.loom.com/share/2b11a2003b654ecc989a54ecc178c10a)>`
 
 ## Submission
 
