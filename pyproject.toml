@@ -1,0 +1,9 @@
+[project]
+name = "kv-comp-agent"
+version = "0.1.0"
+description = "AI-assisted comparable property analysis prototype for Alberta residential lending."
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

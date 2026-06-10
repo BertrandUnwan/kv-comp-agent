@@ -1,0 +1,1201 @@
+property_id,address,city,neighborhood,latitude,longitude,property_type,year_built,sale_date,condition,finished_basement,renovated,near_transit,backs_onto_park,bedrooms,bathrooms,living_area_sqft,lot_size_sqft,garage_spaces,sale_price
+AB-00001,620 Maple St,Calgary,Beltline,51.067369,-114.003364,Duplex,1971.0,2025-01-07,Average,False,False,False,False,3,1.5,1589,2703.0,0,500000
+AB-00002,2647 River Rd,Calgary,Auburn Bay,51.07156,-114.093026,Townhouse,2014.0,2025-05-15,Average,True,False,False,False,3,1.5,1291,2589.0,2,481000
+AB-00003,1239 Maple Ave,St. Albert,Riverside,53.638969,-113.711698,Detached,2006.0,2026-03-19,Average,False,False,False,False,5,2.0,1741,4641.0,2,605000
+AB-00004,2903 Aspen Ave,Sherwood Park,Emerald Hills,53.552199,-113.336561,Detached,1969.0,2025-05-16,Good,True,False,False,False,3,2.5,1696,3984.0,3,566000
+AB-00005,9392 Prairie Rd,Calgary,Beltline,51.047063,-114.136014,Detached,1987.0,2025-01-13,Excellent,True,False,False,False,3,2.5,2609,4929.0,2,1200000
+AB-00006,1589 Maple St,Edmonton,Terwillegar,53.559249,-113.520829,Duplex,1977.0,2025-12-27,Average,False,False,True,False,3,2.5,1481,1994.0,1,448000
+AB-00007,8897 Park Rd,Fort McMurray,Beacon Hill,56.726228,-111.426597,Detached,1974.0,2025-03-20,Good,True,True,False,False,4,4.0,1679,7422.0,2,650000
+AB-00008,2604 Park Ave,Fort McMurray,Thickwood,56.658112,-111.438768,Semi-Detached,2024.0,2024-12-12,Good,False,False,False,True,2,2.5,1183,3367.0,2,420000
+AB-00009,8827 River Ave,Calgary,Aspen Woods,51.040652,-114.08545,Detached,2022.0,2024-11-23,Good,True,False,False,False,3,3.0,2282,5405.0,1,1200000
+AB-00010,3781 Maple Rd,Airdrie,Kings Heights,51.328699,-113.998937,Townhouse,2017.0,2024-11-18,Fair,True,True,True,False,3,2.5,1170,1569.0,1,320000
+AB-00011,9455 Aspen Blvd,Edmonton,Glenora,53.532622,-113.524261,Condo,1987.0,2025-02-09,Average,False,True,True,False,1,1.0,921,,1,322000
+AB-00012,5659 Maple Ave,Calgary,Auburn Bay,51.077295,-114.109665,Condo,1967.0,2024-12-06,Average,False,False,True,False,1,1.5,1076,,1,288000
+AB-00013,3972 River Blvd,Airdrie,Reunion,51.274929,-114.022755,Duplex,1961.0,2025-11-02,Excellent,False,False,True,True,4,1.5,1542,3482.0,1,456000
+AB-00014,4961 River St,Calgary,Auburn Bay,51.092168,-114.07514,Detached,2022.0,2024-11-30,Fair,True,False,True,False,4,3.5,1411,6175.0,2,653000
+AB-00015,3953 Cedar St,Airdrie,Hillcrest,51.304349,-113.945188,Detached,1968.0,2022-11-03,Good,True,False,False,False,6,2.0,2112,4425.0,2,709000
+AB-00016,5015 Cedar Rd,Calgary,Seton,50.953009,-114.034914,Condo,2010.0,2024-03-26,Fair,True,False,False,True,1,2.0,1194,,0,348000
+AB-00017,9000 Prairie Rd,Calgary,Aspen Woods,50.975135,-114.081785,Detached,1996.0,2024-08-08,Fair,False,False,False,False,4,2.0,1815,5310.0,2,845000
+AB-00018,5717 River Rd,Edmonton,Oliver,53.517803,-113.516379,Detached,1996.0,2025-09-24,Good,False,False,True,False,5,3.5,2615,4578.0,2,1117000
+AB-00019,7107 Aspen St,Edmonton,Glenora,53.564064,-113.489432,Detached,2016.0,2024-07-01,Average,False,False,False,False,3,4.0,2097,4564.0,2,1005000
+AB-00020,3541 Prairie Ave,Edmonton,Oliver,53.532376,-113.559658,Detached,1965.0,2025-06-11,Good,False,False,False,False,4,4.0,1634,4806.0,3,608000
+AB-00021,5542 Cedar Ave,Edmonton,Summerside,53.546279,-113.504356,Condo,1963.0,2024-06-20,Average,True,False,False,False,3,2.0,907,,1,215000
+AB-00022,4664 Maple Rd,Sherwood Park,Nottingham,53.51312,-113.302958,Detached,1984.0,2025-01-03,Average,True,False,False,False,5,3.5,1760,4788.0,2,648000
+AB-00023,5239 Cedar Way,Edmonton,Terwillegar,53.555114,-113.49715,Detached,2015.0,2024-02-11,Average,True,False,True,False,6,2.5,2798,5409.0,1,1056000
+AB-00024,2141 Prairie Rd,Edmonton,Summerside,53.632313,-113.502456,Detached,2000.0,2024-07-26,Good,True,False,True,False,3,3.0,1938,5272.0,2,842000
+AB-00025,3543 Cedar Way,Calgary,Inglewood,51.084699,-114.038063,Townhouse,1960.0,2025-07-14,Average,False,False,True,False,4,2.5,1341,1215.0,1,449000
+AB-00026,3948 Prairie Rd,Leduc,Southfork,53.210335,-113.522891,Townhouse,1971.0,2025-11-17,Good,True,True,False,False,3,2.5,1122,2501.0,1,345000
+AB-00027,2517 Prairie St,St. Albert,Mission,53.633988,-113.648256,Detached,2023.0,2024-02-20,Average,False,True,False,False,4,2.5,1504,4520.0,2,589000
+AB-00028,7351 Aspen Way,Calgary,Bridgeland,51.007519,-114.050588,Condo,2000.0,2024-11-24,Excellent,False,True,False,False,1,1.0,865,,1,332000
+AB-00029,3941 Park Rd,St. Albert,Oakmont,53.619228,-113.588992,Duplex,1969.0,2024-12-02,Good,True,True,False,False,3,2.5,1883,2251.0,1,581000
+AB-00030,9669 Prairie St,Edmonton,Rutherford,53.489838,-113.485491,Detached,2013.0,2022-10-28,Average,True,True,False,False,4,3.0,2052,6768.0,2,845000
+AB-00031,7240 Cedar St,Sherwood Park,Nottingham,53.494984,-113.272213,Semi-Detached,2022.0,2024-07-24,Average,False,False,True,False,3,2.5,1784,2210.0,2,639000
+AB-00032,7664 River St,Edmonton,Glenora,53.558226,-113.524401,Condo,2014.0,2025-07-08,Fair,True,False,False,False,2,1.5,905,,0,302000
+AB-00033,1224 Prairie St,St. Albert,Mission,53.695802,-113.604278,Detached,2004.0,2025-09-28,Average,True,True,True,False,3,2.0,2081,4342.0,2,819000
+AB-00034,2783 Park St,Red Deer,Lancaster,52.233986,-113.775781,Condo,1974.0,2025-07-24,Good,False,False,False,False,2,1.0,994,,0,234000
+AB-00035,9372 Maple Rd,Edmonton,Summerside,53.560547,-113.456807,Detached,1975.0,2024-07-31,Good,True,False,True,False,5,3.5,1580,6356.0,2,704000
+AB-00036,8648 Prairie Rd,Sherwood Park,Summerwood,53.510067,-113.332411,Semi-Detached,1979.0,2024-12-04,Average,False,False,False,False,3,3.0,1476,2597.0,1,430000
+AB-00037,6309 Park St,Calgary,Bridgeland,51.054384,-114.034677,Condo,2019.0,2025-07-11,Average,True,True,False,False,1,2.0,925,,0,359000
+AB-00038,4037 Prairie Blvd,Leduc,Black Stone,53.354606,-113.521145,Townhouse,2012.0,2025-01-22,Average,False,True,True,False,3,1.5,1713,1667.0,0,473000
+AB-00039,7534 Park Rd,Edmonton,Laurel,53.538279,-113.46167,Semi-Detached,2002.0,2026-02-05,Average,False,False,False,False,3,2.0,1228,3585.0,2,409000
+AB-00040,3280 Park Ave,Red Deer,Timberlands,52.21508,-113.831293,Detached,1996.0,2025-08-03,Excellent,True,False,True,False,4,3.5,1917,4183.0,3,729000
+AB-00041,7316 Park Ave,Calgary,Mahogany,51.050761,-114.054561,Townhouse,1996.0,2023-09-24,Average,False,False,False,False,3,1.5,1403,1177.0,0,443000
+AB-00042,6918 Aspen Way,Edmonton,Glenora,53.506096,-113.4777,Detached,1991.0,2025-10-20,Fair,False,False,False,False,5,4.0,2019,5269.0,1,807000
+AB-00043,4435 Prairie St,Calgary,Inglewood,50.996482,-114.114102,Detached,1986.0,2025-12-13,Good,False,True,False,False,4,3.0,2437,6464.0,2,1182000
+AB-00044,9763 Prairie Ave,Calgary,Beltline,51.179546,-114.04621,Detached,1989.0,2024-11-28,Excellent,True,True,True,False,5,3.5,2181,5818.0,2,1205000
+AB-00045,6694 Park Way,Edmonton,Terwillegar,53.535066,-113.459646,Townhouse,2019.0,2025-03-17,Good,True,True,False,False,3,3.0,1588,,1,597000
+AB-00046,4515 Aspen St,Edmonton,Windermere,53.548966,-113.38964,Detached,1962.0,2025-12-11,Excellent,False,False,False,False,4,3.5,1843,4617.0,2,704000
+AB-00047,5503 Cedar Blvd,Calgary,Auburn Bay,50.988255,-114.093137,Condo,1973.0,2025-04-24,Good,False,False,False,False,2,1.0,1000,,0,308000
+AB-00048,3173 Aspen Rd,Calgary,Inglewood,51.006979,-114.104089,Condo,2019.0,2025-01-14,Average,False,False,True,False,2,1.0,864,,1,316000
+AB-00049,5191 Aspen St,Airdrie,Reunion,51.299276,-114.012349,Condo,1990.0,2026-03-05,Good,True,False,True,False,2,1.0,689,,1,185000
+AB-00050,4093 Cedar Way,Red Deer,Timberlands,52.19722,-113.80281,Semi-Detached,2021.0,2025-11-25,Excellent,False,False,False,False,3,2.5,2193,,1,694000
+AB-00051,9601 Prairie Blvd,Edmonton,Rutherford,53.542084,-113.471076,Detached,1998.0,2023-03-09,Good,False,False,False,False,5,2.5,2333,4248.0,1,866000
+AB-00052,7849 Prairie Blvd,Calgary,Seton,51.032992,-114.093273,Condo,2012.0,2024-07-29,Fair,False,False,True,False,3,1.0,585,,0,157000
+AB-00053,2461 Cedar Ave,Edmonton,Laurel,53.560274,-113.55054,Condo,2018.0,2025-09-10,Poor,True,False,False,False,3,1.0,1238,,1,324000
+AB-00054,3946 Prairie Rd,Sherwood Park,Davidson Creek,53.488022,-113.317491,Detached,1964.0,2024-03-08,Good,False,True,False,False,4,3.5,2904,6438.0,2,1144000
+AB-00055,4100 Aspen Blvd,Calgary,Aspen Woods,51.060234,-114.037041,Condo,2007.0,2025-12-06,Average,True,True,False,False,1,2.0,694,,0,273000
+AB-00056,9055 River St,Edmonton,Oliver,53.510246,-113.505166,Detached,2019.0,2025-06-20,Excellent,False,False,False,False,4,3.0,1923,1310.0,2,804000
+AB-00057,4937 Maple Blvd,Calgary,Aspen Woods,51.029298,-114.066017,Detached,2005.0,2024-11-06,Average,False,False,False,False,4,3.0,2684,3483.0,2,1418000
+AB-00058,2340 Prairie St,St. Albert,Oakmont,53.630858,-113.669768,Duplex,1984.0,2022-08-17,Good,True,False,True,False,3,2.5,1047,3614.0,0,376000
+AB-00059,4565 River Rd,Edmonton,Terwillegar,53.548543,-113.511139,Detached,2006.0,2023-02-01,Average,False,False,False,False,4,2.5,2039,,2,807000
+AB-00060,9231 Park St,Calgary,Kensington,51.001376,-113.975913,Detached,2010.0,2026-05-25,Excellent,True,True,False,False,6,3.5,2247,7103.0,2,1189000
+AB-00061,9298 Park Way,Edmonton,Rutherford,53.555935,-113.521821,Duplex,1963.0,2026-04-05,Good,False,False,False,False,4,1.5,1407,3211.0,0,391000
+AB-00062,6178 Prairie Way,Edmonton,Glenora,53.525472,-113.455568,Condo,1977.0,2026-01-01,Average,False,False,False,False,1,1.0,741,,0,228000
+AB-00063,6118 Aspen Rd,Airdrie,Bayside,51.302455,-113.977821,Detached,2006.0,2025-08-30,Fair,True,True,False,False,4,3.0,1638,6279.0,3,621000
+AB-00064,9180 River Way,Red Deer,Lancaster,52.248494,-113.777572,Condo,1986.0,2025-10-13,Fair,True,True,False,True,1,1.0,667,,2,160000
+AB-00065,5969 River Way,Sherwood Park,Emerald Hills,53.545306,-113.238205,Condo,1963.0,2025-12-12,Fair,True,True,False,True,2,2.0,845,,0,208000
+AB-00066,8643 Park Blvd,Edmonton,Westmount,53.538481,-113.444355,Duplex,1965.0,2026-05-08,Good,True,False,False,False,3,1.5,1603,2658.0,1,555000
+AB-00067,9690 Aspen Rd,Calgary,Auburn Bay,51.045435,-114.041212,Detached,1995.0,2024-10-05,Good,False,False,False,True,3,3.0,2316,6766.0,1,985000
+AB-00068,6632 Cedar St,Red Deer,Lancaster,52.271495,-113.784418,Townhouse,2003.0,2025-07-23,Good,False,False,True,False,2,2.0,1431,1734.0,0,372000
+AB-00069,9301 Aspen Rd,Edmonton,Windermere,53.503603,-113.441685,Detached,1967.0,2025-04-14,Average,True,False,False,False,3,3.5,2891,3992.0,2,1141000
+AB-00070,1873 Park Way,St. Albert,Oakmont,53.630071,-113.665976,Townhouse,,2025-08-27,Average,False,False,False,False,3,2.5,1506,2114.0,0,489000
+AB-00071,4577 Prairie Rd,Sherwood Park,Davidson Creek,53.536053,-113.332847,Townhouse,1994.0,2023-06-15,Poor,True,False,False,False,3,2.5,1180,2287.0,1,299000
+AB-00072,5414 Aspen Way,Edmonton,Glenora,53.517322,-113.482834,Detached,1980.0,2026-04-16,Average,True,False,True,True,4,3.0,2135,4523.0,2,961000
+AB-00073,1916 Park Way,Calgary,Inglewood,51.052822,-114.137064,Semi-Detached,1974.0,2024-07-25,Average,True,True,False,True,3,2.0,1397,2823.0,2,517000
+AB-00074,2978 River Blvd,Edmonton,Summerside,53.556982,-113.427409,Duplex,2023.0,2025-10-16,Good,False,False,False,True,3,2.0,1248,2650.0,0,488000
+AB-00075,6943 Park St,Leduc,Meadowview,53.224311,-113.550133,Semi-Detached,2014.0,2025-07-11,Average,True,False,False,False,3,1.5,1502,3184.0,1,448000
+AB-00076,5662 River Rd,Calgary,Inglewood,51.015747,-114.048529,Condo,2010.0,2026-03-22,Good,False,True,False,False,1,1.5,920,,1,378000
+AB-00077,8195 Cedar Way,Calgary,Mahogany,51.068855,-114.089955,Detached,1969.0,2025-03-06,Average,False,False,False,False,3,2.5,1901,5682.0,2,731000
+AB-00078,5866 Aspen St,Calgary,Seton,51.017645,-114.070797,Detached,1995.0,2025-03-03,Average,True,False,True,False,3,3.0,1955,5317.0,2,798000
+AB-00079,9466 Prairie Ave,Fort McMurray,Timberlea,56.802061,-111.413531,Townhouse,1965.0,2025-02-06,Average,False,False,False,False,3,2.0,1712,2279.0,1,420000
+AB-00080,2700 Park Rd,Sherwood Park,Summerwood,53.51291,-113.333487,Semi-Detached,2016.0,2023-05-09,Average,True,False,False,False,3,2.0,1605,4951.0,1,562000
+AB-00081,9647 Prairie Ave,Red Deer,Clearview,52.24153,-113.804432,Detached,1979.0,2023-07-27,Average,False,False,False,False,4,3.0,994,4569.0,2,301000
+AB-00082,7037 Aspen Rd,Airdrie,Bayside,51.271508,-114.054829,Townhouse,1971.0,2025-07-27,Good,True,True,False,False,3,2.0,1819,2275.0,0,546000
+AB-00083,2247 Aspen Blvd,Edmonton,Oliver,53.58738,-113.514913,Detached,1964.0,2025-12-05,Good,False,False,False,False,4,3.5,1355,7397.0,2,488000
+AB-00084,4018 Park Blvd,Calgary,Inglewood,51.088024,-114.143649,Detached,2017.0,2023-11-23,Average,True,False,False,False,5,4.0,2559,5062.0,2,1167000
+AB-00085,954 Prairie Blvd,Edmonton,Rutherford,53.530348,-113.465772,Semi-Detached,1977.0,2022-11-19,Good,False,False,False,False,3,2.0,1551,3237.0,0,440000
+AB-00086,5827 Maple Blvd,Edmonton,Oliver,53.564105,-113.461777,Detached,1988.0,2025-01-10,Good,True,False,True,False,5,2.0,1885,5344.0,2,745000
+AB-00087,7840 Prairie Ave,Edmonton,Windermere,53.590819,-113.478846,Condo,1996.0,2025-02-13,Excellent,False,True,True,False,2,2.0,512,,0,187000
+AB-00088,882 River Blvd,Sherwood Park,Davidson Creek,53.545249,-113.242632,Condo,1990.0,2024-09-09,Average,False,True,False,False,2,1.0,1191,,1,332000
+AB-00089,1502 Aspen Rd,Edmonton,Summerside,53.537386,-113.450079,Townhouse,2013.0,2024-12-17,Average,False,False,False,True,3,1.5,1865,2677.0,1,633000
+AB-00090,1798 Aspen Rd,Leduc,Meadowview,53.283412,-113.501671,Townhouse,1968.0,2025-06-13,Average,False,False,True,False,4,2.0,1692,1317.0,0,361000
+AB-00091,3402 Maple Ave,Calgary,Auburn Bay,51.035271,-114.039611,Townhouse,2018.0,2023-07-21,Poor,False,False,False,False,3,1.5,1054,900.0,1,337000
+AB-00092,6129 Cedar Blvd,Edmonton,Summerside,53.497796,-113.570452,Detached,1994.0,2025-05-09,Fair,True,True,False,False,5,2.0,1983,7154.0,2,769000
+AB-00093,5362 Maple St,Sherwood Park,Clarkdale,53.46884,-113.29971,Duplex,1983.0,2025-08-10,Average,True,False,False,False,3,1.5,1557,2777.0,1,435000
+AB-00094,6755 Park Way,Calgary,Beltline,51.011804,-114.095024,Townhouse,1967.0,2024-07-13,Fair,True,True,False,False,4,2.5,1517,1983.0,1,443000
+AB-00095,7471 Park Rd,Calgary,Mahogany,51.0102,-114.049218,Detached,1964.0,2026-03-22,Good,False,False,False,False,5,3.0,1921,6346.0,2,757000
+AB-00096,4364 Prairie Blvd,Edmonton,Windermere,53.509867,-113.518714,Detached,1975.0,2024-09-20,Average,True,False,False,False,3,3.0,1593,5071.0,3,601000
+AB-00097,1163 Aspen Way,Sherwood Park,Nottingham,53.51671,-113.286071,Detached,2000.0,2025-08-05,Good,False,False,False,False,5,4.0,2834,5242.0,2,1089000
+AB-00098,9177 Aspen Rd,Sherwood Park,Davidson Creek,53.567713,-113.319573,Detached,2023.0,2024-11-21,Poor,True,False,True,False,6,3.5,1850,5937.0,2,658000
+AB-00099,7472 Cedar Way,Red Deer,Anders,52.215068,-113.749691,Semi-Detached,2000.0,2024-11-21,Good,False,True,False,False,3,3.0,1467,1358.0,0,475000
+AB-00100,8601 Park St,Airdrie,Coopers Crossing,51.311879,-114.000394,Condo,1988.0,2024-08-27,Average,False,True,False,False,2,1.0,795,,0,239000
+AB-00101,9334 Maple St,Edmonton,Oliver,53.512656,-113.56609,Townhouse,2003.0,2024-08-21,Good,False,True,True,False,3,1.5,1629,1736.0,1,596000
+AB-00102,6753 Park Blvd,Calgary,Beltline,51.02207,-114.12057,Semi-Detached,2021.0,2026-04-08,Average,True,False,False,False,3,2.0,1323,,2,595000
+AB-00103,1839 Park Ave,Edmonton,Laurel,53.597898,-113.490318,Duplex,2007.0,2025-09-08,Average,False,True,True,False,4,3.0,1696,2794.0,0,533000
+AB-00104,2710 Cedar Way,Leduc,Tribute,53.223096,-113.557865,Detached,2000.0,2025-07-28,Average,False,True,False,False,5,2.5,2635,5846.0,2,853000
+AB-00105,233 Maple Blvd,Edmonton,Laurel,53.61293,-113.556736,Detached,2020.0,2025-09-11,Average,False,False,False,False,4,3.0,1327,6311.0,2,541000
+AB-00106,2046 River St,Calgary,Bridgeland,51.023966,-114.11078,Detached,1995.0,2025-06-26,Good,False,False,True,False,4,3.0,1657,4615.0,2,796000
+AB-00107,8546 River Rd,Calgary,Beltline,51.042942,-114.082653,Detached,2018.0,2023-07-18,Fair,True,False,False,False,3,2.5,1576,5524.0,2,655000
+AB-00108,9663 Park St,Calgary,Auburn Bay,51.062232,-114.11589,Townhouse,1974.0,2025-09-10,Excellent,False,False,False,False,3,2.5,1205,2177.0,1,413000
+AB-00109,4068 Maple Way,St. Albert,Riverside,53.649518,-113.655418,Semi-Detached,2008.0,2024-02-17,Fair,True,False,False,False,3,2.5,1775,1864.0,2,600000
+AB-00110,7937 Aspen Blvd,Edmonton,Westmount,53.482929,-113.567039,Condo,1986.0,2025-12-13,Average,False,False,False,False,2,1.0,682,,0,194000
+AB-00111,4976 Park Ave,Leduc,Black Stone,53.281751,-113.624068,Townhouse,1988.0,2025-01-24,Excellent,True,False,False,False,2,2.0,1414,1347.0,1,417000
+AB-00112,2499 Park St,Edmonton,Windermere,53.547759,-113.532519,Townhouse,2004.0,2026-03-20,Excellent,True,False,True,False,3,3.0,1047,1474.0,1,429000
+AB-00113,8800 River Ave,Edmonton,Terwillegar,53.525909,-113.456194,Condo,1990.0,2025-04-11,Average,True,False,False,False,2,1.0,1071,,1,292000
+AB-00114,4806 Park Rd,Fort McMurray,Thickwood,56.640192,-111.41486,Detached,1985.0,2026-03-09,Good,False,True,False,False,5,3.5,2188,6929.0,2,814000
+AB-00115,3152 Prairie Rd,Edmonton,Oliver,53.524961,-113.489903,Detached,2010.0,2024-05-30,Good,True,False,False,False,5,4.0,1858,5645.0,1,796000
+AB-00116,7618 Prairie Rd,Calgary,Auburn Bay,51.053605,-114.056708,Condo,1974.0,2026-05-25,Average,False,False,False,False,1,1.0,1106,,0,295000
+AB-00117,7922 Park Ave,Edmonton,Rutherford,53.559906,-113.512744,Duplex,1983.0,2025-05-12,Excellent,True,False,False,False,3,1.5,1313,2497.0,1,436000
+AB-00118,6742 Prairie Way,St. Albert,Erin Ridge,53.619089,-113.571545,Detached,2019.0,2022-06-19,Average,False,False,False,False,4,2.5,2883,6245.0,2,1124000
+AB-00119,9098 Cedar Way,Calgary,Bridgeland,50.979222,-114.087718,Detached,2007.0,2025-10-28,Average,False,False,False,False,3,2.5,1032,3990.0,2,472000
+AB-00120,8892 River Ave,Calgary,Seton,51.037031,-114.034577,Detached,2024.0,2024-12-23,Average,False,False,False,False,4,2.0,2704,5592.0,2,969000
+AB-00121,5149 Prairie St,Leduc,Tribute,53.207649,-113.497831,Duplex,1967.0,2026-06-05,Average,False,False,True,False,3,2.5,1515,3339.0,1,385000
+AB-00122,2318 Prairie Blvd,Edmonton,Glenora,53.568247,-113.391619,Condo,2012.0,2025-05-13,Average,False,False,False,True,1,2.0,758,,0,268000
+AB-00123,3748 Maple St,Fort McMurray,Beacon Hill,56.696955,-111.341635,Detached,2010.0,2023-02-20,Average,False,False,False,False,5,2.0,2061,4648.0,3,660000
+AB-00124,6968 Aspen St,Edmonton,Laurel,53.562864,-113.478785,Detached,1964.0,2026-04-01,Good,True,True,False,False,3,3.5,1982,4626.0,2,770000
+AB-00125,4839 River Way,Edmonton,Glenora,53.511843,-113.513793,Detached,1967.0,2024-10-04,Fair,False,False,True,False,3,2.5,1720,4876.0,3,658000
+AB-00126,7099 Aspen Blvd,Fort McMurray,Beacon Hill,56.757136,-111.317996,Detached,1982.0,2025-06-21,Good,False,False,False,False,4,2.0,2290,4093.0,3,758000
+AB-00127,2465 Cedar St,Calgary,Mahogany,51.001137,-114.151942,Detached,1988.0,2025-04-08,Average,False,True,True,False,3,3.0,2794,4271.0,2,1282000
+AB-00128,9978 Maple St,Red Deer,Anders,52.266155,-113.798601,Condo,1994.0,2024-10-15,Average,False,False,False,False,1,2.0,993,,0,206000
+AB-00129,3450 Cedar Ave,Calgary,Beltline,51.048529,-114.039241,Detached,2021.0,2025-08-23,Excellent,True,False,False,False,3,3.5,3050,5355.0,2,1650000
+AB-00130,6173 Park Blvd,Calgary,Auburn Bay,51.061201,-113.987209,Semi-Detached,2000.0,2025-10-25,Excellent,False,True,False,False,4,2.5,1617,2567.0,2,748000
+AB-00131,5630 Park Blvd,St. Albert,Oakmont,53.595864,-113.63126,Detached,2023.0,2022-08-21,Average,False,False,False,False,4,3.0,2666,4586.0,2,1062000
+AB-00132,1317 Prairie St,Edmonton,Westmount,53.599634,-113.50091,Detached,1964.0,2025-04-12,Good,True,False,True,False,5,4.0,2442,3169.0,3,936000
+AB-00133,357 Maple Way,Edmonton,Westmount,53.574911,-113.490501,Detached,2021.0,2026-05-27,Good,True,False,False,False,4,3.0,1494,3214.0,2,642000
+AB-00134,8725 Park Rd,Calgary,Inglewood,51.103116,-114.083582,Duplex,1979.0,2025-04-28,Average,True,False,False,False,4,1.5,1087,2564.0,0,352000
+AB-00135,6313 Cedar Way,Red Deer,West Park,52.173709,-113.813643,Townhouse,1964.0,2024-08-25,Fair,True,True,False,False,3,2.5,1288,1663.0,2,291000
+AB-00136,9386 Cedar Rd,St. Albert,Riverside,53.695213,-113.574905,Condo,1989.0,2026-03-24,Average,False,False,False,False,3,2.0,1003,,2,272000
+AB-00137,5003 River Way,Edmonton,Laurel,53.548173,-113.493173,Detached,2010.0,2025-05-06,Excellent,False,False,False,False,3,2.0,1452,8288.0,2,655000
+AB-00138,9858 Cedar Rd,Sherwood Park,Summerwood,53.521122,-113.320309,Semi-Detached,1969.0,2025-09-02,Average,False,False,True,False,4,1.5,1609,3084.0,1,471000
+AB-00139,1444 Park Ave,Calgary,Mahogany,51.048425,-114.083374,Townhouse,1991.0,2024-08-28,Good,True,False,False,True,3,1.5,1214,1443.0,1,494000
+AB-00140,8495 Cedar St,Airdrie,Reunion,51.335313,-114.107703,Detached,2017.0,2025-06-11,Average,False,False,False,False,4,2.0,757,6509.0,2,304000
+AB-00141,2878 Prairie Blvd,Edmonton,Rutherford,53.518876,-113.543776,Detached,1991.0,2025-09-06,Average,True,False,True,False,3,4.0,1782,3510.0,3,685000
+AB-00142,3303 Cedar St,Calgary,Auburn Bay,51.069959,-114.122707,Duplex,2023.0,2026-06-02,Average,False,False,False,False,3,3.0,1711,3690.0,2,627000
+AB-00143,3390 Cedar Rd,Calgary,Seton,51.069655,-114.082715,Semi-Detached,1998.0,2025-04-27,Average,False,False,False,False,4,2.5,1696,2222.0,1,537000
+AB-00144,9039 River Way,Calgary,Bridgeland,51.032066,-114.01973,Detached,1985.0,2025-02-21,Average,False,True,False,False,4,3.5,2269,5733.0,2,963000
+AB-00145,6276 Maple Blvd,Edmonton,Rutherford,53.535266,-113.479124,Townhouse,1979.0,2023-02-04,Good,False,False,False,False,2,2.0,1503,2096.0,1,391000
+AB-00146,4167 Prairie Rd,Calgary,Beltline,51.026405,-114.024695,Duplex,1970.0,2024-09-19,Fair,True,False,False,False,3,3.0,1708,2670.0,1,504000
+AB-00147,6508 Cedar Way,St. Albert,Mission,53.65171,-113.683219,Detached,1988.0,2026-01-05,Average,True,True,True,False,3,2.5,1316,3332.0,2,571000
+AB-00148,5806 Cedar St,Fort McMurray,Timberlea,56.786076,-111.369504,Condo,1986.0,2024-06-25,Average,False,True,True,False,2,1.0,450,,0,112000
+AB-00149,9142 River Rd,Edmonton,Laurel,53.544783,-113.444151,Townhouse,1991.0,2025-02-20,Average,True,False,True,False,3,1.5,1213,1999.0,2,369000
+AB-00150,3471 Park St,Calgary,Beltline,51.042707,-114.058049,Duplex,1960.0,2024-12-06,Good,True,False,False,False,4,2.0,1492,2545.0,1,469000
+AB-00151,7601 Aspen Ave,Leduc,West Haven,53.285414,-113.541611,Condo,1974.0,2024-06-16,Average,False,False,False,False,1,1.0,553,,0,119000
+AB-00152,9517 Cedar Blvd,Edmonton,Summerside,53.527208,-113.528824,Detached,2013.0,2024-08-27,Average,False,False,False,False,3,3.0,1958,5617.0,2,781000
+AB-00153,8039 River Ave,Edmonton,Terwillegar,53.48651,-113.447488,Detached,2005.0,2024-11-10,Excellent,False,False,False,False,4,3.0,1509,5689.0,1,699000
+AB-00154,8908 Park Ave,Sherwood Park,Nottingham,53.599492,-113.250053,Detached,1964.0,2024-11-06,Average,False,False,False,True,4,3.5,2065,6379.0,2,645000
+AB-00155,1777 Prairie Ave,Edmonton,Laurel,53.547013,-113.470505,Semi-Detached,1987.0,2026-05-06,Excellent,False,False,False,False,3,2.5,1166,2700.0,1,378000
+AB-00156,2381 River Ave,Fort McMurray,Thickwood,56.705297,-111.4423,Detached,2014.0,2024-11-02,Fair,True,False,False,False,5,3.0,2034,4293.0,3,632000
+AB-00157,6843 Maple Rd,Red Deer,West Park,52.304977,-113.853923,Townhouse,1972.0,2024-01-31,Fair,False,True,True,False,4,2.5,1012,1312.0,2,267000
+AB-00158,1625 Cedar Way,Edmonton,Rutherford,53.516057,-113.462286,Semi-Detached,2017.0,2024-06-27,Fair,False,False,False,False,3,2.0,1697,3347.0,1,491000
+AB-00159,6616 River Blvd,Edmonton,Windermere,53.542738,-113.442083,Duplex,1968.0,2025-01-18,Good,True,False,True,False,3,2.5,1484,4592.0,1,532000
+AB-00160,2688 Cedar Blvd,Calgary,Auburn Bay,51.022756,-113.99034,Duplex,2018.0,2025-03-27,Poor,True,False,True,False,4,2.5,1440,4039.0,0,504000
+AB-00161,5105 Prairie Ave,Edmonton,Terwillegar,53.580139,-113.465819,Detached,1981.0,2026-03-07,Fair,False,True,False,False,4,2.0,1696,5958.0,2,577000
+AB-00162,7926 Maple Ave,Edmonton,Westmount,53.543495,-113.46587,Detached,2014.0,2026-02-24,Good,True,False,True,False,4,3.5,1622,4902.0,3,778000
+AB-00163,3590 Prairie Ave,Sherwood Park,Emerald Hills,53.562571,-113.270509,Townhouse,1981.0,2022-09-17,Average,False,False,True,True,3,1.5,1016,1990.0,1,315000
+AB-00164,1480 River Way,St. Albert,Riverside,53.628044,-113.700343,Duplex,1991.0,2024-09-24,Average,True,False,True,False,3,2.0,1683,3121.0,2,578000
+AB-00165,4021 Cedar Blvd,Leduc,Southfork,53.214714,-113.597948,Semi-Detached,1966.0,2025-01-13,Good,False,True,False,True,3,2.5,1612,3417.0,1,498000
+AB-00166,1295 Maple Way,Calgary,Seton,51.045691,-114.070561,Detached,1982.0,2025-09-13,Good,True,False,False,False,5,3.0,1932,6017.0,2,816000
+AB-00167,5177 Maple Way,Edmonton,Rutherford,53.52992,-113.513352,Detached,1979.0,2024-01-01,Average,False,False,False,False,4,3.0,1717,5315.0,2,558000
+AB-00168,7218 Maple Blvd,Red Deer,Clearview,52.312051,-113.851457,Detached,1991.0,2026-04-13,Fair,True,False,False,True,4,4.0,2049,4625.0,2,600000
+AB-00169,2179 Prairie Rd,Red Deer,Clearview,52.274979,-113.764767,Detached,1993.0,2026-02-08,Fair,False,True,False,False,6,3.0,1752,6936.0,2,506000
+AB-00170,4279 Maple Way,Edmonton,Windermere,53.54898,-113.445853,Semi-Detached,1981.0,2026-02-10,Average,True,False,True,False,3,1.5,1630,3911.0,2,598000
+AB-00171,6970 River Rd,Edmonton,Westmount,53.533401,-113.513848,Detached,1964.0,2025-07-16,Average,True,True,False,False,5,2.5,2584,,3,1113000
+AB-00172,5190 Park St,Leduc,Southfork,53.244693,-113.56198,Detached,2019.0,2026-05-31,Good,True,False,False,False,4,2.0,2660,4572.0,2,915000
+AB-00173,6818 Maple Ave,Edmonton,Laurel,53.519227,-113.495361,Townhouse,1991.0,2024-08-26,Fair,False,False,False,True,3,2.5,1120,1297.0,0,303000
+AB-00174,2432 Prairie Rd,Red Deer,West Park,52.302551,-113.820829,Detached,1967.0,2025-10-14,Excellent,False,False,False,False,4,2.5,2647,4001.0,2,811000
+AB-00175,2241 River Rd,Fort McMurray,Timberlea,56.740084,-111.37151,Townhouse,1967.0,2025-07-21,Average,False,False,False,False,3,2.5,1518,1238.0,1,366000
+AB-00176,7465 Cedar Rd,Calgary,Bridgeland,51.022379,-114.095795,Detached,1979.0,2024-12-07,Fair,True,False,False,False,3,3.5,2080,8146.0,2,845000
+AB-00177,5470 River St,Sherwood Park,Summerwood,53.582816,-113.231777,Detached,1965.0,2025-06-09,Average,True,True,True,False,4,3.5,1700,4435.0,2,599000
+AB-00178,2390 Maple St,Edmonton,Rutherford,53.5626,-113.51865,Condo,1973.0,2025-10-24,Good,True,False,False,False,2,1.5,666,,0,180000
+AB-00179,7365 River St,Red Deer,Lancaster,52.322263,-113.730386,Townhouse,1985.0,2023-07-05,Excellent,True,False,True,False,4,1.5,1400,1042.0,2,396000
+AB-00180,7407 River St,Calgary,Inglewood,51.056406,-114.042266,Semi-Detached,1983.0,2024-09-15,Average,True,False,False,False,3,2.0,1433,3428.0,1,597000
+AB-00181,9007 Maple Blvd,Edmonton,Terwillegar,53.497824,-113.526692,Detached,1991.0,2025-06-06,Good,False,False,True,False,4,3.0,1870,4242.0,2,764000
+AB-00182,7828 Aspen Rd,Calgary,Aspen Woods,51.052533,-114.072639,Detached,1995.0,2025-10-13,Fair,False,True,False,False,4,2.5,2757,4578.0,3,1384000
+AB-00183,2946 River Ave,Sherwood Park,Summerwood,53.52407,-113.248713,Duplex,2009.0,2024-06-24,Average,True,False,False,False,4,2.5,2157,2428.0,2,745000
+AB-00184,2976 Cedar St,Calgary,Mahogany,51.032125,-114.045321,Townhouse,2023.0,2025-10-13,Average,False,True,False,False,2,3.0,1811,2091.0,2,754000
+AB-00185,9711 Prairie Ave,Calgary,Mahogany,51.082034,-114.019282,Detached,1967.0,2024-12-17,Poor,False,False,False,False,3,3.5,2319,5808.0,3,807000
+AB-00186,8082 Prairie Rd,Calgary,Kensington,51.049835,-114.017607,Detached,2015.0,2024-11-10,Good,False,False,False,False,4,4.0,2241,4999.0,2,1071000
+AB-00187,9485 Cedar Way,Calgary,Mahogany,51.045706,-114.01437,Detached,1960.0,2024-09-30,Excellent,True,False,False,False,5,2.5,2115,4727.0,2,936000
+AB-00188,1553 Prairie Rd,Edmonton,Westmount,53.572219,-113.464753,Detached,1981.0,2025-09-10,Good,True,False,False,False,5,2.5,1970,3568.0,3,897000
+AB-00189,5854 Aspen Blvd,St. Albert,Erin Ridge,53.639228,-113.554615,Detached,2023.0,2025-02-03,Good,False,False,False,False,5,4.0,1811,5462.0,3,783000
+AB-00190,2736 Prairie St,Calgary,Beltline,51.051231,-114.09199,Detached,1981.0,2026-03-05,Good,True,False,False,False,4,4.0,2075,5929.0,1,904000
+AB-00191,9178 Prairie Way,Calgary,Mahogany,51.049354,-114.103405,Townhouse,1984.0,2025-08-24,Average,True,True,False,False,3,1.5,1618,1286.0,1,605000
+AB-00192,521 River Ave,Calgary,Beltline,51.057902,-114.001451,Detached,2021.0,2026-03-17,Average,False,True,False,False,4,2.5,1264,4529.0,2,600000
+AB-00193,831 Park Blvd,Leduc,Black Stone,53.20872,-113.648246,Detached,2007.0,2025-10-20,Average,False,False,True,False,4,2.5,1700,7457.0,3,618000
+AB-00194,8661 Cedar Way,Edmonton,Laurel,53.570892,-113.482829,Duplex,1967.0,2025-02-07,Good,False,True,True,False,3,2.5,1309,2085.0,0,388000
+AB-00195,7457 River Ave,Sherwood Park,Summerwood,53.563957,-113.300163,Semi-Detached,1978.0,2023-11-24,Fair,True,False,False,False,4,3.0,1165,3897.0,2,387000
+AB-00196,9215 Cedar Way,Fort McMurray,Thickwood,56.673307,-111.410136,Condo,1968.0,2025-08-30,Fair,False,False,True,False,1,2.0,614,,2,130000
+AB-00197,9319 Maple Rd,Calgary,Inglewood,51.057022,-114.128219,Detached,1972.0,2023-06-22,Excellent,False,True,False,False,3,3.0,2059,4910.0,2,1059000
+AB-00198,5531 Prairie Ave,Calgary,Mahogany,51.056695,-114.051346,Detached,1964.0,2025-02-07,Average,False,False,True,False,3,3.0,1913,6540.0,2,768000
+AB-00199,7359 Park Rd,Edmonton,Terwillegar,53.568595,-113.433988,Condo,1989.0,2024-09-27,Fair,False,True,True,False,3,1.5,948,,2,276000
+AB-00200,6709 River Way,St. Albert,Riverside,53.627359,-113.560795,Condo,1999.0,2024-05-10,Good,True,False,True,True,2,1.0,1005,,0,316000
+AB-00201,2129 Prairie St,Edmonton,Glenora,53.544694,-113.558185,Condo,2024.0,2025-01-24,Average,False,True,False,False,2,1.0,1246,,1,467000
+AB-00202,2769 Aspen Ave,Calgary,Mahogany,51.074123,-114.101268,Condo,1963.0,2022-08-16,Average,True,True,False,False,1,2.0,700,,0,207000
+AB-00203,5104 Prairie Rd,Leduc,Meadowview,53.174564,-113.620576,Semi-Detached,1988.0,2025-05-19,Average,False,False,True,False,2,2.0,983,2838.0,2,287000
+AB-00204,9828 Aspen Rd,Calgary,Inglewood,51.010856,-114.074047,Townhouse,2007.0,2026-02-18,Average,False,False,True,False,2,3.0,1546,2012.0,2,584000
+AB-00205,2392 Prairie St,Edmonton,Terwillegar,53.576808,-113.503743,Detached,2011.0,2025-08-10,Good,True,False,False,True,4,2.5,1428,7004.0,1,676000
+AB-00206,5973 Aspen Rd,Red Deer,Lancaster,52.259449,-113.841889,Duplex,2020.0,2024-08-04,Excellent,False,True,True,False,3,2.5,1508,1370.0,1,480000
+AB-00207,5131 Cedar Rd,Edmonton,Oliver,53.609019,-113.464962,Condo,1988.0,2024-10-17,Good,True,False,False,False,3,1.5,788,,0,232000
+AB-00208,2570 River Ave,Calgary,Kensington,51.077062,-114.069217,Semi-Detached,1998.0,2024-11-02,Average,False,False,True,False,3,1.5,1721,4319.0,2,693000
+AB-00209,3530 River Way,Edmonton,Windermere,53.577432,-113.465217,Semi-Detached,1960.0,2025-01-23,Average,False,False,True,False,3,2.0,1759,3514.0,1,621000
+AB-00210,5379 Aspen Ave,Calgary,Inglewood,51.090809,-114.063008,Condo,2007.0,2026-06-04,Excellent,False,True,False,False,2,1.0,732,,0,329000
+AB-00211,8624 Aspen Way,Edmonton,Rutherford,53.553027,-113.523114,Semi-Detached,1997.0,2024-07-05,Average,False,False,False,False,3,1.5,1343,4588.0,0,411000
+AB-00212,2868 Maple Rd,Edmonton,Rutherford,53.564399,-113.519617,Detached,1962.0,2026-05-01,Average,True,False,False,False,3,4.0,1805,5708.0,2,594000
+AB-00213,2124 Aspen Rd,Calgary,Beltline,51.059971,-114.07019,Townhouse,2013.0,2026-01-03,Average,True,False,True,False,3,1.5,1885,2663.0,1,717000
+AB-00214,2028 Park St,Edmonton,Terwillegar,53.537092,-113.568886,Townhouse,2025.0,2025-01-15,Good,True,True,True,False,3,2.0,1503,1288.0,2,643000
+AB-00215,144 Maple St,Edmonton,Rutherford,53.60119,-113.548959,Detached,2021.0,2022-10-30,Average,False,True,True,False,3,3.0,2241,4620.0,2,820000
+AB-00216,1735 River St,St. Albert,Erin Ridge,53.667148,-113.549823,Condo,1993.0,2023-06-06,Average,False,False,False,True,2,1.0,899,,2,253000
+AB-00217,4495 Prairie St,St. Albert,Erin Ridge,53.624458,-113.585835,Detached,2016.0,2025-06-23,Excellent,True,False,False,False,3,3.0,2435,5153.0,2,1175000
+AB-00218,2711 Maple Blvd,Calgary,Auburn Bay,51.093003,-114.10005,Duplex,1967.0,2023-01-31,Excellent,False,False,True,False,3,2.5,1008,3833.0,0,379000
+AB-00219,1950 Cedar Blvd,Calgary,Beltline,51.053824,-114.096664,Condo,2021.0,2025-09-14,Excellent,False,True,False,False,3,2.0,958,,1,375000
+AB-00220,4172 Cedar Rd,St. Albert,Riverside,53.649526,-113.642278,Detached,1972.0,2024-08-21,Average,True,False,False,False,6,3.5,1938,6607.0,2,737000
+AB-00221,5521 Park St,Edmonton,Oliver,53.48521,-113.51011,Semi-Detached,,2024-11-22,Average,False,False,True,False,3,2.5,695,4119.0,0,255000
+AB-00222,6855 Maple Way,Sherwood Park,Nottingham,53.52483,-113.280107,Detached,1962.0,2026-03-07,Fair,False,False,False,False,4,2.5,1367,6592.0,3,444000
+AB-00223,9929 Cedar Rd,Calgary,Auburn Bay,51.047389,-114.129635,Condo,2018.0,2026-02-12,Average,True,False,True,False,2,1.0,954,,0,338000
+AB-00224,6804 Maple Rd,Calgary,Aspen Woods,51.029716,-114.004366,Semi-Detached,2023.0,2025-11-28,Fair,True,False,True,False,3,1.5,1401,1954.0,2,683000
+AB-00225,7481 Cedar Way,Edmonton,Laurel,53.534843,-113.400346,Detached,1975.0,2024-01-23,Good,False,True,False,False,4,4.0,1793,4780.0,2,675000
+AB-00226,2203 Maple Blvd,Calgary,Auburn Bay,51.08076,-114.061154,Condo,1982.0,2024-09-26,Good,False,False,False,False,2,2.0,944,,1,279000
+AB-00227,9971 Prairie Way,Airdrie,Kings Heights,51.290397,-113.981657,Detached,1977.0,2024-06-20,Fair,False,False,False,False,6,4.0,1861,5114.0,2,556000
+AB-00228,5381 Prairie St,Edmonton,Summerside,53.548852,-113.583719,Townhouse,1982.0,2024-11-10,Average,False,False,False,False,3,2.0,1533,1759.0,1,459000
+AB-00229,969 Prairie St,St. Albert,Riverside,53.529131,-113.531623,Detached,1963.0,2025-12-26,Average,False,False,True,True,5,3.5,2105,6397.0,2,756000
+AB-00230,9295 Cedar Ave,St. Albert,Lacombe Park,53.651947,-113.673004,Duplex,1988.0,2024-06-26,Good,True,False,False,False,2,2.5,1760,2072.0,0,568000
+AB-00231,6125 Aspen Way,Airdrie,Bayside,51.285026,-114.004616,Condo,2016.0,2025-11-19,Good,False,False,True,False,1,2.0,1271,,0,388000
+AB-00232,2231 River Way,Red Deer,Timberlands,52.273365,-113.794777,Condo,1995.0,2026-06-03,Average,True,False,True,False,2,1.0,959,,0,257000
+AB-00233,5307 Aspen Ave,Calgary,Beltline,51.081473,-114.022151,Duplex,2005.0,2022-12-23,Fair,True,False,False,False,3,2.5,1433,2940.0,1,531000
+AB-00234,244 Maple Rd,Edmonton,Summerside,53.506095,-113.420296,Condo,2020.0,2024-08-20,Excellent,False,False,False,False,2,1.0,990,,0,316000
+AB-00235,8435 Cedar Blvd,Calgary,Kensington,51.042455,-114.057106,Detached,2007.0,2024-08-10,Average,True,False,False,False,4,2.5,2086,4294.0,3,1000000
+AB-00236,7050 Maple Ave,Airdrie,Hillcrest,51.307574,-114.025387,Semi-Detached,1987.0,2024-06-19,Good,False,False,False,False,3,2.0,1676,4490.0,1,552000
+AB-00237,9243 Maple Way,Edmonton,Oliver,53.567009,-113.462247,Detached,1982.0,2025-09-17,Good,True,False,False,False,5,2.0,2485,3726.0,1,933000
+AB-00238,1289 Park Way,Calgary,Kensington,51.049095,-114.079688,Semi-Detached,1965.0,2024-07-06,Good,True,True,False,False,3,2.5,1962,3079.0,2,822000
+AB-00239,2460 Park Rd,Calgary,Beltline,51.100508,-114.110013,Semi-Detached,1997.0,2024-05-28,Excellent,False,False,True,True,3,1.5,1221,2047.0,1,504000
+AB-00240,8497 River Ave,Calgary,Kensington,50.998392,-113.998009,Detached,2012.0,2024-09-15,Excellent,False,True,True,False,5,4.0,980,4433.0,2,604000
+AB-00241,9612 Cedar Rd,Sherwood Park,Davidson Creek,53.575562,-113.310317,Semi-Detached,1972.0,2024-07-21,Average,False,True,False,False,3,2.0,1343,,0,380000
+AB-00242,7117 River St,Edmonton,Westmount,53.488511,-113.447784,Detached,2006.0,2025-10-25,Good,False,False,True,False,4,3.0,2980,3532.0,2,1464000
+AB-00243,1443 Park Ave,Red Deer,West Park,52.287837,-113.784436,Condo,1973.0,2023-11-20,Average,True,False,True,True,2,1.0,1154,,0,274000
+AB-00244,9004 Aspen Blvd,Edmonton,Glenora,53.549747,-113.496617,Duplex,1964.0,2026-01-07,Average,True,True,False,False,3,2.5,1662,2996.0,0,576000
+AB-00245,2817 Aspen Ave,Edmonton,Westmount,53.542658,-113.538287,Semi-Detached,1990.0,2025-12-07,Good,False,False,False,False,2,2.0,1465,1845.0,0,490000
+AB-00246,3487 Aspen Rd,St. Albert,Oakmont,53.662641,-113.696273,Detached,1989.0,2025-02-28,Fair,False,True,False,True,5,2.5,2030,6870.0,2,731000
+AB-00247,1375 Aspen Rd,Fort McMurray,Eagle Ridge,56.692313,-111.389108,Condo,2008.0,2025-10-23,Average,False,False,False,False,1,1.0,1056,,0,270000
+AB-00248,3162 River Rd,Calgary,Beltline,50.998009,-114.098962,Semi-Detached,1995.0,2026-02-07,Average,False,False,True,True,2,2.0,1259,3284.0,0,492000
+AB-00249,9805 River Ave,Red Deer,Anders,52.267413,-113.786338,Detached,1965.0,2026-04-29,Fair,False,True,True,False,3,3.5,1233,5728.0,1,358000
+AB-00250,3648 Cedar Way,Calgary,Inglewood,51.029671,-114.066397,Townhouse,1996.0,2023-02-01,Excellent,True,False,False,False,3,1.5,1691,1862.0,1,723000
+AB-00251,1227 River Blvd,Sherwood Park,Emerald Hills,53.51663,-113.325531,Townhouse,2018.0,2026-02-17,Average,True,False,False,False,3,1.5,1362,1820.0,1,407000
+AB-00252,1626 Cedar Ave,Sherwood Park,Davidson Creek,53.516948,-113.328028,Detached,2024.0,2022-12-04,Good,False,False,False,False,4,3.0,2737,3707.0,1,1147000
+AB-00253,6346 Park Way,Calgary,Seton,51.088371,-114.102207,Condo,2021.0,2024-06-25,Good,False,False,True,False,2,1.0,785,,2,269000
+AB-00254,2030 Aspen St,Airdrie,Coopers Crossing,51.250134,-114.000458,Detached,1960.0,2025-11-10,Average,False,False,False,False,5,3.0,1574,7774.0,2,536000
+AB-00255,6870 Aspen Way,Red Deer,West Park,52.263556,-113.809228,Detached,2010.0,2025-05-25,Good,False,False,False,False,4,3.0,2136,4977.0,2,715000
+AB-00256,2750 Maple Ave,St. Albert,Mission,53.610988,-113.687241,Duplex,2017.0,2025-06-27,Good,False,False,False,True,4,2.5,1719,4347.0,2,663000
+AB-00257,3733 Park St,Calgary,Beltline,51.102069,-113.996403,Duplex,1971.0,2025-05-11,Fair,False,False,False,False,4,2.0,2172,2237.0,1,622000
+AB-00258,8589 Park Ave,Fort McMurray,Timberlea,56.783694,-111.396061,Condo,1985.0,2024-10-03,Good,False,False,False,False,2,1.5,975,,0,237000
+AB-00259,3381 Aspen St,Calgary,Beltline,51.009184,-114.101117,Condo,2010.0,2026-03-30,Average,False,False,False,False,1,1.0,722,,0,217000
+AB-00260,4377 River Blvd,Calgary,Seton,51.017751,-114.06138,Condo,2011.0,2024-11-13,Average,True,False,False,False,1,1.5,857,,0,237000
+AB-00261,5665 Cedar Blvd,Airdrie,Hillcrest,51.221919,-113.997567,Duplex,2021.0,2024-05-11,Good,False,True,False,False,3,2.5,1542,3383.0,2,589000
+AB-00262,1623 Cedar Rd,Edmonton,Summerside,53.560766,-113.525526,Duplex,1993.0,2025-12-08,Average,False,False,False,False,3,2.0,1111,3970.0,1,356000
+AB-00263,4191 Aspen Rd,Airdrie,Kings Heights,51.310556,-114.05583,Semi-Detached,1986.0,2026-02-19,Average,True,True,False,False,3,2.5,1717,3260.0,2,553000
+AB-00264,8474 Park Blvd,Edmonton,Glenora,53.542207,-113.534476,Condo,1995.0,2024-10-26,Average,True,False,False,False,2,1.0,538,,1,172000
+AB-00265,237 Maple Ave,Edmonton,Laurel,53.56742,-113.542954,Detached,2018.0,2026-02-25,Average,True,False,True,False,4,2.5,2506,6509.0,3,991000
+AB-00266,6199 Park Blvd,Edmonton,Westmount,53.55106,-113.38943,Condo,2013.0,2025-12-06,Good,False,False,False,False,1,1.0,1116,,0,378000
+AB-00267,259 River Blvd,St. Albert,Lacombe Park,53.635174,-113.632461,Townhouse,1979.0,2024-09-01,Average,False,False,False,False,4,1.5,1398,1645.0,2,420000
+AB-00268,1677 Cedar Rd,Calgary,Beltline,50.998107,-114.154529,Detached,2020.0,2025-06-05,Good,False,False,True,True,4,2.0,2380,4256.0,2,1214000
+AB-00269,8463 Cedar Blvd,Edmonton,Summerside,53.5597,-113.381615,Townhouse,1996.0,2023-05-15,Average,False,False,False,False,3,2.5,1074,900.0,2,329000
+AB-00270,3839 Park Rd,Red Deer,West Park,52.264639,-113.769842,Detached,1970.0,2024-06-11,Fair,True,False,True,False,4,3.0,2327,5298.0,3,631000
+AB-00271,3944 Prairie Rd,Leduc,Black Stone,53.236017,-113.504658,Duplex,1962.0,2022-06-22,Fair,False,True,False,True,3,2.0,1524,3025.0,0,369000
+AB-00272,2644 Maple Blvd,Airdrie,Reunion,51.260254,-114.013132,Semi-Detached,1970.0,2025-09-28,Fair,False,False,True,False,2,2.0,1323,3629.0,2,354000
+AB-00273,2313 Prairie Way,Edmonton,Glenora,53.545224,-113.457001,Townhouse,1994.0,2024-10-05,Average,False,False,False,False,4,2.0,1621,2037.0,1,606000
+AB-00274,4356 River Rd,Calgary,Aspen Woods,51.045062,-114.130933,Condo,1999.0,2024-12-20,Average,False,False,True,False,2,1.0,972,,0,345000
+AB-00275,218 Aspen Rd,Edmonton,Westmount,53.524767,-113.502214,Condo,1997.0,2024-11-11,Average,False,True,False,False,2,1.0,782,,0,244000
+AB-00276,8815 Park Blvd,Sherwood Park,Emerald Hills,53.558228,-113.292799,Detached,1994.0,2026-03-30,Average,True,False,False,False,4,2.5,2188,5115.0,2,728000
+AB-00277,4722 Park Ave,Edmonton,Westmount,53.503761,-113.466803,Detached,1983.0,2026-05-31,Excellent,True,True,False,False,3,2.0,1527,5027.0,2,789000
+AB-00278,6529 Maple Way,Edmonton,Westmount,53.538629,-113.426717,Condo,1978.0,2025-11-24,Fair,False,True,False,True,2,2.0,1118,,0,316000
+AB-00279,1639 Aspen Ave,Fort McMurray,Thickwood,56.716114,-111.396468,Detached,1985.0,2024-07-11,Average,False,False,True,False,6,2.5,1798,4463.0,3,577000
+AB-00280,3668 Maple Ave,St. Albert,Riverside,53.645793,-113.572021,Semi-Detached,1966.0,2025-07-11,Good,True,False,False,False,3,2.5,1598,3202.0,0,545000
+AB-00281,8290 Maple Way,Edmonton,Glenora,53.578801,-113.55531,Townhouse,1971.0,2024-09-06,Average,True,False,True,False,3,2.5,978,900.0,0,330000
+AB-00282,449 Prairie Blvd,Edmonton,Westmount,53.565051,-113.459638,Detached,2016.0,2026-01-22,Good,True,True,False,False,6,3.5,1423,3037.0,2,661000
+AB-00283,9908 Aspen Ave,Calgary,Auburn Bay,51.058413,-114.138451,Detached,1995.0,2026-01-01,Good,False,False,False,False,3,2.5,784,4544.0,2,346000
+AB-00284,1137 Prairie Way,St. Albert,Riverside,53.634685,-113.669388,Detached,1990.0,2025-11-26,Average,False,False,False,False,3,2.0,1943,5895.0,3,763000
+AB-00285,612 River St,Calgary,Seton,51.012036,-114.091848,Detached,1976.0,2026-02-27,Average,True,False,False,False,4,2.0,1878,5167.0,2,655000
+AB-00286,1410 Cedar St,Calgary,Aspen Woods,50.996683,-114.14451,Detached,1986.0,2025-04-09,Good,False,False,True,False,3,3.5,1872,7254.0,1,1044000
+AB-00287,8810 Cedar Ave,Calgary,Kensington,51.021282,-114.025104,Condo,1972.0,2024-08-05,Good,True,False,True,False,1,1.0,803,,1,269000
+AB-00288,2833 River Way,Calgary,Kensington,51.027623,-113.974821,Duplex,2014.0,2025-06-28,Good,False,False,False,False,3,2.5,1961,3274.0,2,827000
+AB-00289,5399 Aspen Ave,Leduc,West Haven,53.269875,-113.490722,Condo,2015.0,2025-11-01,Good,True,False,False,False,1,1.0,1013,,1,304000
+AB-00290,5045 Maple Rd,Calgary,Inglewood,51.060799,-114.102397,Detached,1977.0,2023-11-02,Excellent,False,True,False,False,3,2.5,1964,4295.0,1,1027000
+AB-00291,5020 Maple Way,Edmonton,Oliver,53.552564,-113.554421,Detached,1991.0,2025-10-29,Average,False,False,False,False,4,2.5,2011,4761.0,2,706000
+AB-00292,1016 Park Rd,Sherwood Park,Davidson Creek,53.504558,-113.271551,Duplex,2008.0,2023-03-22,Fair,True,False,False,False,2,2.5,1786,2340.0,0,574000
+AB-00293,9355 River Rd,Red Deer,Lancaster,52.302962,-113.845256,Condo,1965.0,2025-10-25,Average,True,False,False,False,2,1.5,1008,,0,194000
+AB-00294,7896 Aspen St,St. Albert,Riverside,53.621721,-113.565831,Semi-Detached,1976.0,2025-09-13,Average,True,False,False,False,3,2.0,2000,2941.0,1,643000
+AB-00295,4462 Cedar Rd,Edmonton,Summerside,53.523577,-113.452047,Semi-Detached,1991.0,2024-10-27,Average,True,False,False,False,3,2.0,1686,4932.0,1,580000
+AB-00296,7316 Maple Ave,Calgary,Beltline,51.062474,-114.047677,Duplex,2016.0,2025-05-22,Good,True,False,True,False,2,2.0,1525,3869.0,2,711000
+AB-00297,7819 Maple Rd,Edmonton,Oliver,53.516728,-113.540816,Condo,1974.0,2024-12-05,Average,True,False,False,False,2,1.0,769,,1,185000
+AB-00298,1084 Park Ave,Calgary,Mahogany,51.036956,-114.084357,Townhouse,1965.0,2024-09-14,Average,True,False,False,True,3,2.0,1864,1248.0,2,624000
+AB-00299,8431 Prairie St,Red Deer,West Park,52.298217,-113.837438,Condo,1989.0,2023-01-29,Excellent,False,False,True,False,1,2.0,1029,,1,262000
+AB-00300,5865 Park Rd,Calgary,Beltline,51.100957,-114.049806,Detached,1980.0,2025-01-11,Poor,True,True,True,False,5,2.5,2077,4901.0,2,817000
+AB-00301,1538 Prairie Blvd,Fort McMurray,Timberlea,56.767772,-111.370854,Condo,2010.0,2024-07-14,Good,False,False,True,False,3,1.0,995,,0,253000
+AB-00302,3414 River Rd,Edmonton,Terwillegar,53.523303,-113.517588,Condo,1977.0,2024-12-19,Average,False,False,False,False,1,1.0,937,,0,259000
+AB-00303,2484 Prairie St,Red Deer,Lancaster,52.268845,-113.797303,Condo,1975.0,2025-04-11,Average,False,False,False,False,1,1.5,1122,,2,261000
+AB-00304,3883 Aspen Ave,Calgary,Aspen Woods,51.064493,-114.151134,Detached,1994.0,2026-05-13,Good,True,False,False,False,3,2.0,2058,8322.0,1,1160000
+AB-00305,345 Park Blvd,Calgary,Seton,51.068261,-114.078131,Detached,1988.0,2024-07-21,Poor,False,False,True,False,4,3.0,2121,6747.0,2,660000
+AB-00306,6332 Prairie Rd,Fort McMurray,Beacon Hill,56.706382,-111.352514,Semi-Detached,2011.0,2024-10-31,Good,False,False,False,False,3,2.5,1487,2519.0,1,504000
+AB-00307,743 Aspen Blvd,Calgary,Auburn Bay,51.060261,-114.018052,Semi-Detached,2010.0,2024-09-01,Excellent,False,True,False,False,4,3.0,1668,2243.0,1,700000
+AB-00308,7500 Maple Way,St. Albert,Oakmont,53.603029,-113.596427,Semi-Detached,1978.0,2024-10-17,Average,False,False,True,False,3,2.5,1509,3211.0,0,469000
+AB-00309,2786 Prairie St,Calgary,Mahogany,51.029389,-114.039393,Semi-Detached,1971.0,2024-06-15,Average,False,False,False,False,4,3.0,1675,2490.0,2,545000
+AB-00310,9365 Prairie Ave,Sherwood Park,Davidson Creek,53.549064,-113.253733,Townhouse,1981.0,2026-01-11,Excellent,True,False,False,False,2,2.5,1781,1600.0,0,542000
+AB-00311,4246 Maple Blvd,St. Albert,Mission,53.67469,-113.650434,Detached,1960.0,2025-01-14,Good,False,True,False,False,3,3.5,1157,3369.0,3,490000
+AB-00312,9234 River St,Calgary,Auburn Bay,51.098674,-113.981626,Semi-Detached,1995.0,2026-04-13,Good,False,True,False,False,3,2.5,1380,3347.0,0,602000
+AB-00313,9847 Aspen Way,Sherwood Park,Clarkdale,53.561938,-113.260674,Detached,1980.0,2025-02-27,Good,False,False,True,False,3,2.0,2493,6428.0,3,915000
+AB-00314,4596 Park Way,Calgary,Inglewood,51.038744,-114.092295,Duplex,2020.0,2025-11-06,Fair,False,False,True,False,3,2.5,1220,2797.0,0,471000
+AB-00315,5285 Park Way,Calgary,Kensington,51.096414,-114.123276,Semi-Detached,1996.0,2024-09-08,Average,True,True,False,False,3,3.0,1836,3270.0,2,791000
+AB-00316,492 Cedar St,Calgary,Auburn Bay,51.041806,-114.077379,Duplex,1984.0,2025-11-08,Poor,False,False,False,False,4,2.0,1249,1493.0,1,369000
+AB-00317,9111 Park St,Calgary,Bridgeland,51.109593,-114.016953,Detached,1999.0,2025-07-02,Average,True,False,False,True,3,2.5,2233,3970.0,2,1077000
+AB-00318,7988 River Blvd,Edmonton,Laurel,53.51252,-113.510549,Condo,1964.0,2022-12-07,Good,False,False,False,False,3,1.0,800,,1,212000
+AB-00319,5893 Maple Ave,Edmonton,Terwillegar,53.52899,-113.544183,Townhouse,2002.0,2026-05-08,Good,True,False,False,False,3,2.5,1821,2571.0,0,647000
+AB-00320,4548 Cedar St,Calgary,Mahogany,51.039534,-114.092872,Townhouse,2000.0,2025-10-08,Good,True,False,True,False,4,2.5,907,1961.0,1,317000
+AB-00321,8292 River Ave,Edmonton,Laurel,53.505153,-113.623052,Duplex,1963.0,2025-01-29,Good,False,False,False,False,3,3.0,1593,2427.0,1,447000
+AB-00322,821 Prairie Way,Leduc,West Haven,53.243402,-113.5764,Townhouse,1974.0,2023-07-03,Poor,False,True,False,False,2,2.5,1793,2630.0,1,396000
+AB-00323,2027 Park Ave,Edmonton,Terwillegar,53.572913,-113.438588,Townhouse,2000.0,2026-02-11,Good,True,False,False,False,2,2.0,1100,1950.0,1,383000
+AB-00324,5649 Aspen Blvd,Calgary,Seton,51.015759,-114.082092,Detached,1981.0,2026-05-10,Fair,False,False,True,True,5,3.5,1858,,2,657000
+AB-00325,5219 Park Ave,Calgary,Mahogany,51.096944,-114.084101,Townhouse,2017.0,2024-07-22,Good,False,True,False,False,4,2.5,1578,1398.0,1,635000
+AB-00326,3766 River Way,Calgary,Kensington,51.075642,-114.038742,Duplex,2019.0,2025-06-01,Average,True,False,False,False,4,2.0,1240,1103.0,1,507000
+AB-00327,5811 Aspen Way,Leduc,Tribute,53.204711,-113.573107,Semi-Detached,1981.0,2026-02-23,Average,True,False,True,False,2,1.5,1570,3612.0,1,462000
+AB-00328,6388 Maple Rd,Edmonton,Terwillegar,53.49862,-113.472811,Semi-Detached,1980.0,2024-06-28,Excellent,False,False,False,False,3,2.0,1173,3434.0,1,432000
+AB-00329,9866 Cedar Rd,Calgary,Bridgeland,51.018989,-114.108361,Detached,2022.0,2025-03-10,Fair,True,False,True,True,4,3.5,1223,6597.0,2,631000
+AB-00330,103 River Ave,Sherwood Park,Nottingham,53.543359,-113.276403,Detached,1977.0,2025-08-14,Good,True,False,True,False,4,2.0,2466,3981.0,2,962000
+AB-00331,8462 Cedar Ave,Edmonton,Terwillegar,53.533254,-113.531042,Condo,1971.0,2024-04-06,Average,True,False,True,False,3,2.0,888,,2,255000
+AB-00332,6371 Cedar Blvd,Sherwood Park,Clarkdale,53.55648,-113.255023,Detached,2010.0,2025-11-04,Good,False,False,True,False,4,2.0,1467,1694.0,2,506000
+AB-00333,2459 Prairie Blvd,Airdrie,Reunion,51.363712,-114.013464,Detached,1969.0,2026-01-20,Good,True,False,False,False,6,3.0,1495,5942.0,1,499000
+AB-00334,3798 River Blvd,St. Albert,Riverside,53.678621,-113.654668,Condo,2017.0,2024-10-25,Average,False,False,False,False,2,1.0,809,,0,227000
+AB-00335,1411 River Way,Airdrie,Hillcrest,51.295993,-113.941289,Detached,1974.0,2023-08-27,Average,False,True,False,True,6,3.0,1732,4056.0,2,595000
+AB-00336,276 Cedar Blvd,Calgary,Kensington,50.989988,-114.03216,Townhouse,2003.0,2025-02-13,Average,False,False,False,False,3,2.5,1286,1654.0,1,471000
+AB-00337,7852 Aspen Ave,Edmonton,Oliver,53.556556,-113.527631,Detached,1993.0,2024-08-05,Fair,False,False,False,False,5,3.5,1868,9031.0,2,688000
+AB-00338,1927 Aspen Ave,Edmonton,Windermere,53.550064,-113.558523,Condo,1992.0,2024-01-06,Poor,False,False,True,False,1,1.0,1102,,0,308000
+AB-00339,2625 Cedar Blvd,Edmonton,Oliver,53.583902,-113.513929,Duplex,1978.0,2025-10-08,Average,False,False,True,False,4,2.0,1262,4111.0,0,429000
+AB-00340,7903 Prairie Way,Sherwood Park,Summerwood,53.558166,-113.333786,Townhouse,2011.0,2024-07-09,Average,False,False,True,False,3,1.5,1366,2226.0,0,412000
+AB-00341,5897 Cedar Way,Edmonton,Westmount,53.531972,-113.536781,Detached,,2023-09-03,Excellent,True,True,True,False,4,3.0,2413,4798.0,3,1141000
+AB-00342,273 Prairie St,Calgary,Bridgeland,51.045548,-114.00835,Duplex,1983.0,2026-05-27,Average,True,False,False,False,3,2.0,2027,2052.0,1,739000
+AB-00343,2095 Prairie St,St. Albert,Oakmont,53.645491,-113.634021,Detached,1987.0,2024-09-27,Excellent,True,False,False,False,3,2.0,2153,3925.0,3,954000
+AB-00344,4628 Cedar Rd,Fort McMurray,Timberlea,56.746987,-111.364339,Townhouse,2018.0,2026-03-25,Excellent,True,True,False,False,3,2.0,1646,3094.0,2,606000
+AB-00345,8161 Maple Ave,Edmonton,Terwillegar,53.535761,-113.486219,Detached,2010.0,2025-03-24,Average,True,False,False,False,3,4.0,1791,,2,808000
+AB-00346,114 Maple Blvd,Edmonton,Windermere,53.592199,-113.499113,Detached,2023.0,2024-06-22,Fair,True,False,True,False,5,3.5,1497,6567.0,1,600000
+AB-00347,7998 Maple Way,St. Albert,Mission,53.6297,-113.670569,Semi-Detached,1988.0,2025-06-06,Poor,True,False,True,False,4,2.5,1367,4237.0,2,407000
+AB-00348,2993 Aspen St,Red Deer,West Park,52.259737,-113.827707,Semi-Detached,1997.0,2022-08-02,Good,True,False,False,False,4,1.5,1802,3637.0,1,522000
+AB-00349,9814 River Blvd,Calgary,Kensington,51.101238,-114.086404,Condo,1963.0,2024-12-02,Good,False,False,False,False,2,1.0,647,,0,220000
+AB-00350,8670 Cedar Way,Fort McMurray,Timberlea,56.711593,-111.360832,Detached,1975.0,2024-10-23,Average,True,True,False,False,3,3.5,2634,6397.0,1,858000
+AB-00351,1694 Cedar Way,Edmonton,Glenora,53.504834,-113.440354,Detached,1999.0,2024-10-11,Good,True,False,True,False,4,2.0,1543,5589.0,2,756000
+AB-00352,9536 Aspen Ave,Calgary,Kensington,51.035638,-114.045499,Duplex,2011.0,2025-11-02,Average,False,False,True,False,3,2.5,1506,2998.0,2,606000
+AB-00353,6262 River St,Edmonton,Rutherford,53.550523,-113.406548,Detached,1965.0,2024-03-18,Fair,True,True,True,False,4,2.5,2342,3584.0,2,698000
+AB-00354,8670 Cedar Blvd,Leduc,Tribute,53.265685,-113.533522,Townhouse,1978.0,2025-12-12,Good,False,True,True,False,3,2.0,1180,2056.0,0,336000
+AB-00355,8942 Aspen Ave,Airdrie,Bayside,51.306044,-114.025257,Detached,1972.0,2024-09-05,Good,False,True,True,False,3,2.5,2235,6531.0,1,828000
+AB-00356,7221 Park Rd,Red Deer,Anders,52.233991,-113.761381,Semi-Detached,2006.0,2025-03-01,Average,True,False,False,False,3,3.0,2119,3093.0,0,591000
+AB-00357,5436 River St,St. Albert,Mission,53.611764,-113.629674,Semi-Detached,2001.0,2026-02-28,Average,True,False,True,False,2,2.0,898,3877.0,1,332000
+AB-00358,2334 Cedar Ave,Edmonton,Westmount,53.530858,-113.47071,Detached,1982.0,2025-09-05,Average,True,True,False,True,4,2.5,2035,6051.0,2,864000
+AB-00359,2884 Aspen Way,Edmonton,Westmount,53.51336,-113.444931,Semi-Detached,1980.0,2024-03-12,Good,True,False,False,False,3,2.0,1771,,2,644000
+AB-00360,3743 Aspen Ave,Calgary,Auburn Bay,51.109036,-114.081956,Detached,2001.0,2024-06-03,Average,True,True,False,False,5,3.5,2313,5640.0,2,1001000
+AB-00361,1461 Aspen St,Calgary,Inglewood,51.072698,-114.144634,Semi-Detached,2017.0,2025-04-18,Average,False,True,True,False,3,2.5,1544,2957.0,2,644000
+AB-00362,7698 River Blvd,Edmonton,Westmount,53.605971,-113.4985,Townhouse,1963.0,2025-05-25,Excellent,False,False,True,False,2,2.0,1083,2275.0,1,363000
+AB-00363,1426 Aspen Rd,Calgary,Seton,51.012243,-114.061173,Semi-Detached,1986.0,2026-04-13,Good,False,False,False,True,3,2.5,1571,4129.0,2,602000
+AB-00364,3454 River Rd,Calgary,Auburn Bay,51.079737,-114.193545,Townhouse,1968.0,2026-02-12,Average,False,False,False,False,3,1.5,1475,1894.0,1,444000
+AB-00365,5756 Cedar Blvd,Red Deer,Timberlands,52.285992,-113.749385,Detached,1966.0,2026-02-03,Fair,False,False,False,False,5,3.0,1655,3003.0,2,404000
+AB-00366,7601 Maple St,Calgary,Seton,51.090722,-113.998102,Duplex,1968.0,2025-12-07,Average,True,False,True,False,4,2.5,1716,3928.0,2,567000
+AB-00367,8970 River Blvd,Red Deer,Anders,52.259488,-113.849146,Detached,2013.0,2025-03-11,Excellent,False,True,True,True,3,4.0,1983,3277.0,1,860000
+AB-00368,8786 Aspen Blvd,Sherwood Park,Davidson Creek,53.560502,-113.293738,Townhouse,2001.0,2024-11-05,Average,True,False,True,False,3,2.0,1306,1861.0,1,449000
+AB-00369,2734 Prairie Way,Calgary,Aspen Woods,51.018714,-114.131301,Duplex,1981.0,2025-12-11,Good,False,False,False,False,2,2.0,1275,2936.0,1,518000
+AB-00370,668 Prairie Rd,Edmonton,Glenora,53.531074,-113.524959,Condo,1986.0,2024-01-09,Average,True,False,True,False,2,1.0,841,,0,257000
+AB-00371,9048 Aspen Rd,Airdrie,Reunion,51.239035,-113.980197,Condo,1979.0,2025-08-10,Poor,False,False,False,False,2,2.0,831,,2,173000
+AB-00372,756 River Way,Calgary,Mahogany,51.018375,-114.057537,Duplex,1974.0,2026-05-14,Good,True,False,False,True,3,3.0,1041,2583.0,1,410000
+AB-00373,7398 Prairie St,Edmonton,Summerside,53.540495,-113.46359,Townhouse,1962.0,2023-05-02,Fair,True,False,False,False,2,3.0,881,1857.0,1,232000
+AB-00374,5856 Park Blvd,Leduc,Black Stone,53.231539,-113.50088,Detached,1961.0,2024-03-11,Average,True,False,False,False,5,3.0,1611,4817.0,2,484000
+AB-00375,9896 Maple Ave,Calgary,Mahogany,51.019906,-114.140017,Duplex,1977.0,2025-02-07,Good,False,False,True,False,4,2.0,1982,2757.0,2,648000
+AB-00376,2343 River Ave,Calgary,Inglewood,51.062505,-114.143054,Detached,2019.0,2025-08-16,Good,False,True,False,False,4,4.0,1237,5520.0,2,690000
+AB-00377,4813 Cedar Ave,Edmonton,Westmount,53.602528,-113.453442,Detached,2020.0,2024-07-04,Fair,False,True,False,False,5,2.5,1732,5376.0,2,722000
+AB-00378,2059 Park Way,Fort McMurray,Beacon Hill,56.70153,-111.388501,Duplex,2020.0,2026-05-22,Excellent,False,True,True,False,3,2.5,1200,1293.0,2,419000
+AB-00379,4878 Aspen St,Leduc,Southfork,53.25153,-113.57855,Detached,2005.0,2024-09-03,Fair,True,True,False,False,3,3.0,1890,5292.0,2,639000
+AB-00380,311 River Way,Leduc,Black Stone,53.308783,-113.553736,Detached,2005.0,2025-01-28,Good,True,False,True,False,4,3.0,2148,3891.0,2,778000
+AB-00381,1351 Maple Ave,Calgary,Bridgeland,51.07806,-114.058979,Duplex,1974.0,2023-02-03,Average,True,False,True,False,3,2.5,1648,,2,598000
+AB-00382,2432 Prairie Ave,Fort McMurray,Beacon Hill,56.7305,-111.380495,Duplex,1975.0,2025-11-06,Average,True,True,False,False,3,2.5,1551,1999.0,0,421000
+AB-00383,7785 Maple Rd,Edmonton,Westmount,53.526895,-113.489622,Duplex,2025.0,2025-08-04,Average,False,False,False,False,2,1.5,1414,1482.0,2,527000
+AB-00384,5798 Park Ave,Edmonton,Summerside,53.515784,-113.450174,Detached,1995.0,2022-09-20,Excellent,True,False,True,False,4,2.0,1487,6718.0,2,711000
+AB-00385,1716 River Way,Edmonton,Summerside,53.504323,-113.452438,Townhouse,1960.0,2023-02-08,Excellent,True,False,False,False,4,1.5,1188,2687.0,1,406000
+AB-00386,1907 Aspen Ave,Edmonton,Laurel,53.594836,-113.505052,Condo,2000.0,2025-06-04,Fair,False,False,True,False,2,1.0,702,,0,179000
+AB-00387,4861 Cedar Ave,Edmonton,Terwillegar,53.574478,-113.458093,Semi-Detached,1988.0,2023-02-07,Average,False,False,True,False,3,2.5,1628,3092.0,2,504000
+AB-00388,1766 Prairie Ave,Red Deer,Anders,52.304239,-113.760498,Semi-Detached,2011.0,2025-11-17,Good,True,False,False,False,3,1.5,1941,1870.0,0,550000
+AB-00389,9982 Cedar Blvd,Sherwood Park,Nottingham,53.533678,-113.309562,Detached,2011.0,2026-01-09,Average,False,True,True,False,5,3.0,1765,3873.0,2,740000
+AB-00390,6369 Aspen Rd,Calgary,Mahogany,51.025024,-114.081315,Detached,1963.0,2024-09-10,Excellent,False,False,False,False,5,3.5,2539,6874.0,2,996000
+AB-00391,8956 Aspen St,Calgary,Auburn Bay,51.101245,-114.127446,Detached,2003.0,2024-05-07,Good,False,False,True,False,4,3.0,1587,6357.0,2,702000
+AB-00392,2789 Cedar Blvd,Sherwood Park,Nottingham,53.512864,-113.276617,Semi-Detached,1998.0,2025-05-06,Good,False,True,False,False,2,2.5,1542,3424.0,2,554000
+AB-00393,6289 Aspen Rd,Red Deer,Lancaster,52.268325,-113.830837,Semi-Detached,1993.0,2025-08-21,Average,True,True,True,False,3,2.0,1545,3637.0,0,455000
+AB-00394,1024 Prairie Ave,Calgary,Beltline,51.035642,-113.999961,Duplex,2005.0,2024-08-14,Average,True,True,False,False,3,2.0,1425,2540.0,1,576000
+AB-00395,4468 Maple Blvd,Edmonton,Oliver,53.534416,-113.441009,Detached,2025.0,2025-07-19,Excellent,True,False,False,False,4,3.0,1817,6036.0,3,923000
+AB-00396,7243 River Blvd,Edmonton,Summerside,53.491119,-113.544505,Detached,1998.0,2026-03-23,Average,False,False,True,True,4,3.5,1901,5737.0,2,712000
+AB-00397,4578 Maple Way,Fort McMurray,Abasand,56.804796,-111.350288,Duplex,1972.0,2025-02-07,Average,False,False,True,False,3,3.0,1490,4012.0,2,415000
+AB-00398,9071 River St,Calgary,Aspen Woods,51.017128,-114.099838,Semi-Detached,2025.0,2024-12-27,Average,False,False,True,False,3,2.0,1009,2765.0,1,477000
+AB-00399,1081 Aspen Ave,St. Albert,Mission,53.656677,-113.673873,Detached,2015.0,2026-01-08,Excellent,True,False,False,False,4,3.5,1737,2824.0,3,799000
+AB-00400,9950 River Blvd,Calgary,Kensington,50.95614,-114.08477,Townhouse,1980.0,2026-01-06,Average,True,True,False,False,3,2.0,1868,1340.0,1,742000
+AB-00401,4651 Prairie Way,Calgary,Inglewood,51.062084,-114.092839,Detached,1963.0,2026-04-26,Average,False,False,True,False,5,2.5,2831,3724.0,2,1089000
+AB-00402,2402 River St,Edmonton,Terwillegar,53.493496,-113.482382,Condo,1971.0,2025-01-12,Average,False,False,False,False,3,1.0,1431,,0,384000
+AB-00403,9673 Prairie Blvd,Airdrie,Bayside,51.302482,-114.032024,Semi-Detached,2000.0,2025-10-10,Average,False,True,True,False,2,2.5,1875,3278.0,2,626000
+AB-00404,7043 Cedar Ave,Edmonton,Rutherford,53.533164,-113.47683,Detached,1974.0,2024-01-12,Average,True,False,False,True,4,3.0,1795,5945.0,2,628000
+AB-00405,6402 Park Rd,Fort McMurray,Beacon Hill,56.664644,-111.322214,Detached,1990.0,2022-07-08,Average,True,False,False,False,5,3.5,2456,5138.0,1,749000
+AB-00406,2725 Cedar Rd,Leduc,Tribute,53.238552,-113.48745,Condo,1990.0,2022-08-19,Average,True,True,False,False,3,1.0,706,,2,160000
+AB-00407,4375 Aspen St,Airdrie,Reunion,51.299513,-114.01687,Duplex,1972.0,2024-09-30,Good,False,False,True,False,4,2.0,2328,3539.0,1,680000
+AB-00408,1447 Maple Ave,St. Albert,Lacombe Park,53.649946,-113.621569,Townhouse,1999.0,2024-08-13,Average,False,False,False,False,3,1.5,1480,2122.0,1,442000
+AB-00409,3354 Maple Blvd,Edmonton,Westmount,53.539278,-113.44278,Condo,2001.0,2025-05-02,Good,False,False,False,False,1,1.0,816,,1,269000
+AB-00410,2864 Maple Blvd,Airdrie,Hillcrest,51.298516,-114.015242,Townhouse,1985.0,2024-10-02,Average,True,True,False,False,3,3.0,614,2127.0,2,176000
+AB-00411,3221 Park Rd,Edmonton,Rutherford,53.519049,-113.475483,Duplex,1988.0,2025-05-13,Good,True,False,False,False,4,2.5,1764,3463.0,1,528000
+AB-00412,7488 River Rd,Edmonton,Summerside,53.576284,-113.450909,Detached,1993.0,2024-08-15,Average,False,True,True,False,4,2.0,1329,,2,545000
+AB-00413,953 Park Ave,Red Deer,Timberlands,52.245648,-113.791763,Townhouse,1972.0,2025-06-11,Average,False,False,False,False,3,2.5,1531,2058.0,1,357000
+AB-00414,9267 Maple Way,St. Albert,Erin Ridge,53.655291,-113.609785,Detached,2007.0,2025-12-17,Fair,False,False,False,False,4,3.0,2289,6626.0,3,881000
+AB-00415,7146 Park Rd,Edmonton,Rutherford,53.540393,-113.527321,Detached,1995.0,2025-09-11,Good,False,False,True,False,3,2.0,1938,4141.0,1,675000
+AB-00416,3866 River St,Calgary,Mahogany,51.033921,-114.157113,Townhouse,1984.0,2025-12-23,Fair,False,False,False,False,4,2.5,1313,1403.0,1,394000
+AB-00417,1633 River Rd,Edmonton,Laurel,53.517502,-113.464134,Condo,1978.0,2025-12-18,Fair,False,False,False,False,2,1.0,850,,0,203000
+AB-00418,5484 Maple Rd,Edmonton,Glenora,53.51918,-113.536096,Semi-Detached,2023.0,2024-07-12,Good,True,False,False,True,3,2.0,1067,2589.0,0,521000
+AB-00419,195 Park St,Calgary,Beltline,50.974565,-114.043306,Detached,1994.0,2025-03-02,Average,True,False,False,False,5,3.0,1862,4882.0,2,743000
+AB-00420,9967 Cedar St,Calgary,Bridgeland,51.054408,-114.01067,Condo,1969.0,2025-12-08,Average,True,False,False,True,2,1.0,863,,1,257000
+AB-00421,7183 Prairie Rd,Edmonton,Rutherford,53.609118,-113.438047,Duplex,1975.0,2022-09-30,Average,True,False,False,False,3,2.5,604,2928.0,1,174000
+AB-00422,7212 Prairie Blvd,Calgary,Inglewood,51.010626,-114.050464,Semi-Detached,2007.0,2024-12-30,Good,True,False,True,False,3,2.0,1402,3845.0,2,660000
+AB-00423,7925 Park Ave,Edmonton,Westmount,53.559835,-113.516703,Semi-Detached,1970.0,2022-07-09,Excellent,False,False,False,False,3,1.5,1868,5407.0,1,700000
+AB-00424,9413 Park Rd,Edmonton,Windermere,53.521785,-113.512218,Condo,2019.0,2026-03-17,Good,False,True,False,False,2,1.0,460,,0,167000
+AB-00425,7471 Aspen Rd,St. Albert,Mission,53.669736,-113.625591,Detached,2018.0,2025-11-29,Good,True,True,False,False,4,3.5,2018,4213.0,2,925000
+AB-00426,6737 Prairie Way,Red Deer,Anders,52.296978,-113.850221,Semi-Detached,2021.0,2025-08-02,Average,False,False,False,False,2,1.5,1451,3324.0,0,401000
+AB-00427,3183 Maple Ave,Red Deer,Anders,52.239426,-113.83263,Duplex,1962.0,2026-01-11,Good,False,False,False,False,2,1.5,1364,1857.0,0,345000
+AB-00428,7395 Cedar Blvd,Edmonton,Terwillegar,53.575881,-113.499982,Duplex,1979.0,2025-03-05,Good,False,True,False,False,2,2.0,1523,2935.0,0,539000
+AB-00429,9862 Prairie Way,Edmonton,Glenora,53.525703,-113.603547,Detached,2023.0,2024-05-02,Good,False,False,False,False,5,3.0,1903,5518.0,2,953000
+AB-00430,6934 Cedar St,Red Deer,Anders,52.301889,-113.755574,Detached,1968.0,2024-08-16,Average,True,False,True,False,3,2.0,2590,6311.0,2,771000
+AB-00431,4906 Prairie Blvd,Edmonton,Laurel,53.535037,-113.46609,Semi-Detached,2019.0,2022-07-20,Fair,False,False,False,False,3,2.5,1609,2705.0,2,531000
+AB-00432,8163 Maple Blvd,Edmonton,Summerside,53.546118,-113.466746,Detached,1985.0,2023-01-20,Fair,True,True,True,True,5,3.0,1887,4659.0,1,653000
+AB-00433,1967 Aspen Ave,Leduc,Black Stone,53.216675,-113.572166,Townhouse,1968.0,2025-10-22,Average,False,False,False,False,2,3.0,775,1524.0,1,177000
+AB-00434,7273 Cedar St,St. Albert,Riverside,53.641936,-113.612079,Detached,1973.0,2022-09-22,Good,False,False,True,False,3,3.0,1746,6942.0,2,704000
+AB-00435,8388 Cedar St,Calgary,Mahogany,51.042048,-114.041728,Townhouse,1997.0,2025-06-01,Good,True,True,False,False,4,3.0,1065,2319.0,0,393000
+AB-00436,6899 Park Ave,Calgary,Beltline,51.057874,-114.112492,Detached,1970.0,2024-12-13,Average,False,True,False,False,5,2.5,1250,6181.0,2,504000
+AB-00437,262 Prairie Way,Calgary,Auburn Bay,51.003071,-113.99798,Condo,2016.0,2024-03-14,Fair,True,False,False,False,2,1.5,1097,,2,324000
+AB-00438,9170 Park Rd,Calgary,Beltline,51.065812,-114.096385,Townhouse,1997.0,2024-05-31,Average,False,False,False,False,3,3.0,1509,1635.0,0,503000
+AB-00439,6727 River Rd,Calgary,Bridgeland,51.009623,-114.038563,Condo,2004.0,2024-12-05,Good,True,False,False,False,2,1.5,859,,0,312000
+AB-00440,8946 Aspen Rd,Fort McMurray,Eagle Ridge,56.637018,-111.387596,Detached,1980.0,2025-08-01,Poor,False,False,True,True,4,2.5,1847,,2,575000
+AB-00441,3968 Prairie Way,Calgary,Seton,51.035499,-114.070889,Detached,1960.0,2024-09-04,Average,False,False,True,False,5,4.0,2303,5176.0,2,818000
+AB-00442,3254 Park Blvd,Red Deer,Lancaster,52.293138,-113.778882,Townhouse,2001.0,2024-06-10,Average,False,False,True,False,3,2.5,1054,2357.0,0,273000
+AB-00443,9673 Cedar Blvd,Edmonton,Summerside,53.566813,-113.509732,Semi-Detached,2010.0,2022-07-04,Good,False,False,False,False,3,2.5,1555,3738.0,1,551000
+AB-00444,7561 Cedar St,Edmonton,Oliver,53.502731,-113.559839,Semi-Detached,1975.0,2024-11-13,Good,True,False,False,False,3,3.0,1580,4439.0,1,559000
+AB-00445,558 River Ave,Edmonton,Terwillegar,53.554638,-113.503844,Detached,1998.0,2025-04-03,Average,True,False,False,False,3,3.0,1972,5408.0,3,859000
+AB-00446,9369 Cedar Rd,Sherwood Park,Nottingham,53.537586,-113.369643,Detached,2021.0,2025-02-07,Average,False,False,True,False,4,2.0,1229,4205.0,1,476000
+AB-00447,6578 Park Way,Calgary,Auburn Bay,51.052775,-114.128607,Townhouse,2012.0,2024-07-22,Average,False,False,False,False,2,2.5,1765,1810.0,0,574000
+AB-00448,8977 Aspen St,Red Deer,Lancaster,52.312958,-113.786104,Townhouse,1970.0,2022-12-22,Average,True,False,False,False,3,2.0,1256,1641.0,1,272000
+AB-00449,8841 Aspen Rd,Airdrie,Kings Heights,51.309138,-113.963093,Condo,2016.0,2026-04-23,Fair,False,False,True,False,1,1.0,904,,1,249000
+AB-00450,4287 Maple Ave,Edmonton,Laurel,53.502085,-113.504331,Detached,1996.0,2025-04-17,Fair,False,True,False,False,3,4.0,1493,4226.0,2,527000
+AB-00451,2081 Maple Ave,Red Deer,West Park,52.256905,-113.804371,Detached,2008.0,2024-10-05,Excellent,False,False,False,False,4,3.0,2394,5108.0,2,820000
+AB-00452,405 Park Way,Edmonton,Glenora,53.552566,-113.402738,Detached,1989.0,2022-07-18,Excellent,True,False,False,False,4,2.0,2890,3270.0,1,1381000
+AB-00453,2855 River Way,Calgary,Auburn Bay,51.038386,-114.010122,Detached,2007.0,2022-11-18,Average,False,True,False,False,4,2.5,1864,4771.0,3,711000
+AB-00454,3585 Aspen Way,Edmonton,Oliver,53.536767,-113.513116,Detached,2008.0,2025-12-25,Excellent,False,False,True,False,5,3.0,2640,3491.0,2,1222000
+AB-00455,5315 Prairie Rd,Edmonton,Oliver,53.616951,-113.555143,Townhouse,2024.0,2024-06-14,Excellent,False,True,False,False,4,3.0,950,2031.0,0,389000
+AB-00456,256 Prairie Ave,Calgary,Seton,51.04537,-114.100767,Detached,2020.0,2024-06-25,Poor,False,False,False,False,4,3.0,1652,5711.0,1,590000
+AB-00457,6266 Aspen Rd,Red Deer,Clearview,52.293292,-113.869397,Semi-Detached,1975.0,2024-06-25,Average,False,True,False,False,4,3.0,2091,3047.0,1,511000
+AB-00458,3723 River Blvd,Edmonton,Glenora,53.558546,-113.507888,Duplex,1998.0,2024-05-02,Good,True,False,False,False,3,2.5,1582,3838.0,0,656000
+AB-00459,9368 Prairie Way,Edmonton,Rutherford,53.576982,-113.514144,Detached,1984.0,2026-04-03,Good,False,False,True,False,4,3.0,1387,5925.0,2,509000
+AB-00460,7537 Maple Blvd,Sherwood Park,Davidson Creek,53.538885,-113.201213,Townhouse,1992.0,2024-08-12,Good,True,False,False,False,3,2.5,1416,1581.0,0,446000
+AB-00461,6982 Aspen Blvd,Edmonton,Westmount,53.572147,-113.501955,Semi-Detached,1966.0,2025-05-03,Average,True,True,False,True,3,1.5,1442,2681.0,2,495000
+AB-00462,1684 Maple Blvd,St. Albert,Mission,53.680186,-113.652619,Condo,1968.0,2026-05-15,Good,False,False,True,False,3,1.0,1140,,0,280000
+AB-00463,9929 Aspen Blvd,Edmonton,Summerside,53.522138,-113.458222,Condo,1990.0,2024-09-06,Excellent,False,True,False,False,2,2.0,1071,,1,314000
+AB-00464,1014 Aspen St,Calgary,Kensington,51.070277,-114.071258,Duplex,2015.0,2025-05-14,Fair,True,False,False,False,2,2.5,1699,1952.0,0,614000
+AB-00465,525 Cedar Way,St. Albert,Riverside,53.634206,-113.599301,Detached,1972.0,2025-11-23,Average,True,True,False,False,4,3.5,1766,6023.0,3,747000
+AB-00466,2355 Maple St,Sherwood Park,Davidson Creek,53.544852,-113.336145,Detached,2016.0,2024-10-18,Average,False,False,False,False,4,3.0,1246,7140.0,2,481000
+AB-00467,2469 Maple Ave,Leduc,Southfork,53.254936,-113.481298,Detached,1961.0,2024-11-13,Average,False,False,True,False,4,2.5,1864,6305.0,2,524000
+AB-00468,9374 Park Way,Leduc,Meadowview,53.272127,-113.50939,Detached,2002.0,2025-07-07,Good,True,False,False,True,4,3.0,1944,3697.0,3,686000
+AB-00469,5531 Prairie Blvd,Edmonton,Glenora,53.561386,-113.475607,Townhouse,2021.0,2025-12-02,Good,False,True,True,False,3,2.0,698,1899.0,0,328000
+AB-00470,3362 River Rd,Calgary,Mahogany,51.086438,-114.151936,Detached,1965.0,2025-09-13,Excellent,False,False,False,False,3,3.0,1468,6016.0,2,654000
+AB-00471,3544 Park Blvd,Edmonton,Terwillegar,53.543247,-113.478155,Condo,1974.0,2025-05-23,Average,False,False,False,False,1,1.5,739,,0,190000
+AB-00472,5309 Aspen Blvd,Leduc,Meadowview,53.221346,-113.598162,Detached,2008.0,2023-10-02,Good,False,False,False,False,5,2.0,1645,5240.0,2,607000
+AB-00473,8111 River St,Edmonton,Oliver,53.562291,-113.571461,Detached,2025.0,2024-07-29,Excellent,False,True,False,False,3,3.5,1433,5999.0,3,709000
+AB-00474,8206 Cedar Rd,St. Albert,Oakmont,53.614246,-113.604807,Semi-Detached,2021.0,2024-08-24,Good,False,False,True,False,3,2.0,1908,2415.0,1,752000
+AB-00475,1488 River St,Edmonton,Summerside,53.595883,-113.41555,Detached,2007.0,2024-12-24,Average,True,False,False,False,4,3.5,1836,4482.0,2,765000
+AB-00476,3930 Park St,Calgary,Auburn Bay,51.015634,-114.048387,Semi-Detached,1963.0,2026-03-16,Average,True,False,False,True,3,2.5,1575,2553.0,1,532000
+AB-00477,4196 Park Rd,Edmonton,Summerside,53.493492,-113.446462,Detached,1985.0,2024-09-28,Good,False,False,False,False,3,2.0,2580,5980.0,2,937000
+AB-00478,294 Cedar Way,Airdrie,Coopers Crossing,51.361548,-113.874454,Duplex,2011.0,2024-01-08,Good,False,True,False,False,3,2.0,1342,2975.0,2,478000
+AB-00479,6943 River Blvd,Edmonton,Westmount,53.577168,-113.50823,Townhouse,1984.0,2024-11-14,Average,True,True,False,False,3,2.5,1304,2067.0,1,483000
+AB-00480,8908 Park Rd,St. Albert,Mission,53.653807,-113.606629,Duplex,2011.0,2024-11-04,Good,False,False,True,False,4,2.0,1514,3148.0,1,570000
+AB-00481,5487 Aspen Blvd,Calgary,Inglewood,51.025159,-114.121407,Condo,1984.0,2025-08-01,Average,True,True,False,True,1,1.0,714,,1,255000
+AB-00482,8691 Maple Blvd,Red Deer,Anders,52.326707,-113.811452,Detached,1986.0,2024-12-25,Average,True,False,False,False,3,4.0,2300,5749.0,2,731000
+AB-00483,3469 Park Blvd,Fort McMurray,Thickwood,56.751044,-111.34079,Semi-Detached,1986.0,2024-07-28,Fair,False,False,False,False,3,1.5,1222,2890.0,2,311000
+AB-00484,4144 Aspen Rd,Calgary,Auburn Bay,51.032204,-114.031833,Detached,2011.0,2023-01-23,Good,False,False,False,False,3,2.0,1917,3378.0,1,836000
+AB-00485,3042 Aspen Blvd,Leduc,Tribute,53.259647,-113.579014,Detached,1982.0,2024-08-03,Average,True,False,False,False,5,3.5,2175,5259.0,2,710000
+AB-00486,6838 Aspen St,Edmonton,Oliver,53.527689,-113.5907,Detached,1987.0,2024-03-22,Excellent,False,False,False,False,4,2.5,2139,5790.0,3,957000
+AB-00487,6642 River Blvd,Edmonton,Summerside,53.570372,-113.511441,Semi-Detached,2019.0,2025-09-25,Average,True,False,True,False,3,1.5,1406,2509.0,2,556000
+AB-00488,2743 River St,Calgary,Kensington,50.996892,-114.017363,Detached,2020.0,2025-12-09,Good,True,False,False,True,4,3.5,2227,6020.0,2,1240000
+AB-00489,882 Prairie Way,St. Albert,Oakmont,53.568332,-113.607211,Detached,1987.0,2024-08-02,Average,False,False,True,True,4,2.5,1783,5372.0,1,635000
+AB-00490,557 Maple Rd,Edmonton,Rutherford,53.585044,-113.522117,Duplex,1971.0,2024-07-12,Poor,False,True,False,False,4,2.0,1071,1734.0,0,277000
+AB-00491,3205 Aspen Ave,Sherwood Park,Emerald Hills,53.502122,-113.240088,Townhouse,2001.0,2023-05-01,Average,False,True,True,False,2,2.5,1216,946.0,2,395000
+AB-00492,6145 Maple St,Edmonton,Rutherford,53.563662,-113.443517,Townhouse,1995.0,2023-04-15,Good,True,False,False,True,2,2.0,1212,1880.0,0,415000
+AB-00493,2277 Park Ave,Calgary,Mahogany,51.030229,-114.060187,Detached,2009.0,2024-07-04,Good,True,False,False,False,3,2.5,1788,3608.0,2,789000
+AB-00494,2132 Park Ave,Calgary,Auburn Bay,51.042997,-114.070424,Detached,1961.0,2025-10-02,Average,False,True,False,False,4,2.5,1519,5612.0,2,566000
+AB-00495,5485 River Rd,Edmonton,Summerside,53.577257,-113.447214,Townhouse,2016.0,2026-04-29,Good,False,False,False,False,2,2.5,1292,1337.0,2,406000
+AB-00496,3744 Aspen Blvd,Edmonton,Laurel,53.523349,-113.497555,Detached,1991.0,2025-12-03,Good,False,True,False,True,3,2.0,1531,3404.0,3,555000
+AB-00497,1380 Cedar Blvd,Edmonton,Oliver,53.510961,-113.484473,Condo,1986.0,2025-11-18,Average,True,True,True,False,1,1.0,647,,1,198000
+AB-00498,7812 Cedar Blvd,Calgary,Bridgeland,51.025566,-114.084124,Detached,2010.0,2025-03-22,Average,False,False,False,True,5,2.0,1625,5412.0,3,850000
+AB-00499,7696 Park Blvd,Calgary,Kensington,51.073741,-114.035387,Duplex,1982.0,2024-11-10,Average,False,True,True,False,4,2.5,1825,1890.0,0,657000
+AB-00500,6565 Prairie Rd,Edmonton,Summerside,53.506811,-113.535088,Detached,2011.0,2025-07-28,Excellent,False,False,False,True,5,3.5,2318,7045.0,2,1142000
+AB-00501,8105 Prairie Rd,Airdrie,Reunion,51.311002,-113.999073,Condo,2004.0,2024-08-11,Average,True,False,True,False,1,2.0,909,,2,259000
+AB-00502,2514 Park Ave,Airdrie,Bayside,51.332636,-114.024723,Townhouse,1993.0,2024-07-30,Good,False,True,False,False,3,2.5,1018,2323.0,1,309000
+AB-00503,7093 Park Rd,Airdrie,Reunion,51.311722,-114.017199,Townhouse,2014.0,2024-12-10,Fair,False,False,True,False,4,1.5,967,2057.0,2,288000
+AB-00504,6620 Prairie Rd,Leduc,Meadowview,53.223712,-113.55036,Detached,1994.0,2025-12-18,Good,False,True,True,False,4,3.5,1799,5877.0,2,660000
+AB-00505,8334 Maple Blvd,Calgary,Aspen Woods,51.040098,-114.034728,Duplex,1985.0,2025-11-03,Average,True,True,True,False,2,2.0,1513,2541.0,2,670000
+AB-00506,6288 Maple Rd,Edmonton,Rutherford,53.594451,-113.551952,Semi-Detached,1970.0,2026-05-09,Average,False,False,False,True,4,1.5,1068,4599.0,1,334000
+AB-00507,8620 Park Blvd,Edmonton,Glenora,53.556398,-113.504348,Townhouse,1960.0,2025-06-28,Average,False,False,False,False,3,1.5,1224,1931.0,0,369000
+AB-00508,1741 Maple Blvd,Edmonton,Summerside,53.514033,-113.531232,Condo,2005.0,2023-04-24,Good,False,False,True,False,2,1.0,698,,0,216000
+AB-00509,3179 Maple Rd,Leduc,Black Stone,53.283272,-113.482374,Condo,2020.0,2025-06-05,Average,False,False,False,False,2,1.0,692,,1,169000
+AB-00510,1745 Prairie Blvd,Edmonton,Westmount,53.56262,-113.490382,Detached,2020.0,2025-11-21,Excellent,False,False,False,False,4,2.0,2057,5799.0,2,1048000
+AB-00511,7411 Maple Blvd,Red Deer,Clearview,52.29852,-113.771272,Detached,2019.0,2025-10-05,Fair,True,True,False,False,5,2.5,2167,3714.0,2,673000
+AB-00512,7903 Prairie St,Edmonton,Glenora,53.538774,-113.445516,Detached,1988.0,2024-12-08,Good,False,False,False,False,5,4.0,1967,6019.0,2,1006000
+AB-00513,9306 Cedar Ave,Edmonton,Windermere,53.556734,-113.46133,Townhouse,2008.0,2026-02-10,Good,True,True,True,False,3,2.5,1153,1109.0,1,474000
+AB-00514,9767 Aspen Ave,Edmonton,Windermere,53.570352,-113.521064,Townhouse,1960.0,2025-04-01,Average,True,False,False,False,2,2.0,1713,1130.0,1,585000
+AB-00515,8289 Prairie Blvd,Calgary,Bridgeland,51.025466,-114.033219,Detached,1997.0,2025-08-22,Good,True,False,False,False,3,3.5,2846,4280.0,2,1340000
+AB-00516,3634 Cedar Rd,Calgary,Aspen Woods,50.977511,-114.072523,Semi-Detached,2021.0,2025-05-19,Good,True,False,True,False,3,2.0,1536,3220.0,2,795000
+AB-00517,5000 Prairie Ave,Sherwood Park,Emerald Hills,53.497222,-113.259106,Townhouse,2022.0,2022-11-25,Good,True,False,False,False,2,3.0,1226,2521.0,0,424000
+AB-00518,5398 Aspen St,Calgary,Kensington,51.056602,-114.046222,Semi-Detached,2010.0,2024-06-12,Fair,True,False,False,False,3,2.5,1466,3832.0,0,614000
+AB-00519,9531 Maple Ave,Calgary,Mahogany,51.00672,-114.109043,Detached,2006.0,2025-03-28,Good,False,True,True,False,5,2.5,1800,4465.0,2,1013000
+AB-00520,6719 River St,Calgary,Beltline,50.998414,-114.050216,Detached,1979.0,2025-04-28,Good,False,False,False,False,4,2.5,2510,3578.0,2,1055000
+AB-00521,2066 Maple St,Calgary,Kensington,51.040309,-114.057145,Duplex,2016.0,2024-08-21,Average,False,False,True,False,4,2.5,1603,2621.0,1,654000
+AB-00522,2151 Maple Rd,Calgary,Aspen Woods,51.014901,-114.064015,Townhouse,2015.0,2024-12-05,Average,True,False,True,False,2,2.5,795,1685.0,1,415000
+AB-00523,3499 Prairie St,Calgary,Auburn Bay,51.076963,-114.050179,Detached,1975.0,2024-10-03,Good,False,True,False,False,5,3.0,2115,4823.0,2,897000
+AB-00524,8392 Park Rd,Edmonton,Summerside,53.506519,-113.472487,Townhouse,1970.0,2023-12-16,Excellent,False,False,True,False,2,2.0,1501,,1,463000
+AB-00525,8663 Park Way,Airdrie,Hillcrest,51.259546,-114.033182,Condo,,2025-11-06,Good,False,False,True,True,1,1.0,972,,0,293000
+AB-00526,7014 Maple Way,Edmonton,Summerside,53.578246,-113.549857,Condo,1976.0,2025-05-14,Good,False,True,False,False,2,1.0,1064,,0,311000
+AB-00527,9334 Prairie Way,Red Deer,Timberlands,52.260504,-113.825082,Semi-Detached,1984.0,2025-04-05,Good,False,False,False,False,2,2.5,1337,2193.0,2,412000
+AB-00528,1557 Park Rd,Fort McMurray,Thickwood,56.706933,-111.333038,Detached,1968.0,2026-01-10,Average,False,True,True,False,3,2.0,2144,3546.0,2,738000
+AB-00529,8121 Maple Way,Fort McMurray,Abasand,56.660903,-111.294807,Condo,1999.0,2024-10-31,Average,False,False,False,False,2,1.0,501,,1,123000
+AB-00530,2190 Park St,Edmonton,Rutherford,53.453849,-113.493648,Detached,2011.0,2025-12-31,Average,False,True,False,False,5,3.0,1559,5841.0,2,620000
+AB-00531,5899 Cedar Way,Airdrie,Bayside,51.294699,-114.056044,Townhouse,1983.0,2025-03-27,Average,False,False,False,False,2,2.5,1581,1293.0,1,416000
+AB-00532,4032 Maple Ave,Calgary,Kensington,51.030416,-114.116712,Condo,1970.0,2026-03-14,Fair,False,False,False,False,2,1.0,653,,0,190000
+AB-00533,3215 Prairie St,Fort McMurray,Abasand,56.728038,-111.444187,Townhouse,1975.0,2024-06-19,Average,False,False,False,False,4,1.5,1564,1682.0,1,372000
+AB-00534,6113 River Way,Airdrie,Hillcrest,51.252781,-113.948512,Townhouse,1988.0,2026-04-17,Average,False,False,False,True,2,2.0,1337,3110.0,0,392000
+AB-00535,3590 Maple Way,Airdrie,Kings Heights,51.353252,-113.997655,Condo,2021.0,2025-07-31,Average,False,False,False,False,3,2.0,911,,0,251000
+AB-00536,184 Park Ave,Airdrie,Hillcrest,51.334525,-113.965059,Condo,1998.0,2026-05-30,Average,True,False,True,False,1,1.0,838,,1,216000
+AB-00537,5003 Park Blvd,Edmonton,Windermere,53.538996,-113.529802,Condo,2020.0,2022-12-07,Average,False,True,False,False,1,2.0,559,,0,195000
+AB-00538,759 River Blvd,Edmonton,Laurel,53.544601,-113.491189,Duplex,1974.0,2025-07-04,Average,False,True,True,False,2,3.0,1796,2479.0,2,564000
+AB-00539,6651 Aspen Blvd,Red Deer,West Park,52.275495,-113.757196,Detached,1976.0,2026-02-18,Average,False,True,True,True,4,3.0,938,4471.0,2,299000
+AB-00540,4723 Cedar St,Red Deer,Clearview,52.245862,-113.864735,Townhouse,2015.0,2025-09-28,Average,False,False,True,False,3,3.0,880,2109.0,1,225000
+AB-00541,8330 Aspen Ave,Edmonton,Terwillegar,53.524934,-113.59305,Condo,1973.0,2024-10-11,Good,False,True,True,False,1,2.0,809,,0,260000
+AB-00542,8701 Park Ave,Edmonton,Summerside,53.568903,-113.544996,Condo,1966.0,2025-03-29,Average,False,False,False,False,2,1.5,1130,,0,277000
+AB-00543,954 Prairie Rd,Edmonton,Terwillegar,53.567058,-113.463725,Condo,1983.0,2025-02-10,Fair,True,False,False,False,2,1.0,848,,1,215000
+AB-00544,6020 Prairie Way,Calgary,Seton,51.095654,-114.040197,Detached,1976.0,2025-05-24,Average,True,True,False,True,3,2.0,1986,5748.0,2,825000
+AB-00545,1716 Maple Way,Edmonton,Windermere,53.560442,-113.532549,Detached,1984.0,2025-08-04,Good,False,False,True,False,6,3.5,1987,6892.0,2,946000
+AB-00546,7447 Prairie St,Edmonton,Summerside,53.529318,-113.480454,Detached,2004.0,2024-03-31,Good,False,False,False,False,5,3.5,2264,4668.0,2,934000
+AB-00547,6612 Cedar Way,Edmonton,Terwillegar,53.605599,-113.445581,Townhouse,1984.0,2024-03-24,Good,True,False,False,False,2,1.5,1399,1955.0,1,469000
+AB-00548,8501 Cedar Way,Calgary,Aspen Woods,51.058627,-113.990481,Detached,1961.0,2024-12-18,Good,True,False,True,False,3,3.0,2373,3960.0,2,1151000
+AB-00549,4530 Maple Ave,Edmonton,Summerside,53.507963,-113.529114,Detached,1995.0,2023-11-06,Excellent,False,True,True,False,3,2.0,1568,4417.0,1,686000
+AB-00550,1038 Prairie St,Calgary,Kensington,51.045247,-114.031298,Condo,1997.0,2025-10-27,Average,False,True,True,True,3,1.0,540,,0,191000
+AB-00551,3714 Park Rd,Red Deer,Lancaster,52.30417,-113.840803,Detached,1986.0,2024-09-02,Good,False,False,True,False,5,3.0,2633,5812.0,2,884000
+AB-00552,8136 Prairie Ave,St. Albert,Oakmont,53.636514,-113.600704,Detached,1982.0,2026-05-18,Average,True,False,False,False,4,3.0,1458,6268.0,2,526000
+AB-00553,2349 Prairie St,Edmonton,Oliver,53.512908,-113.472956,Detached,1972.0,2025-05-18,Good,True,True,True,False,3,4.0,1547,5916.0,3,615000
+AB-00554,253 Maple Way,Airdrie,Kings Heights,51.31103,-113.986247,Detached,1961.0,2025-06-27,Good,False,True,True,False,3,2.0,2331,3720.0,2,769000
+AB-00555,2116 Maple St,Leduc,Southfork,53.240541,-113.594685,Detached,1994.0,2025-08-09,Good,True,False,False,True,4,2.5,2211,5512.0,2,716000
+AB-00556,1941 Cedar Ave,Edmonton,Summerside,53.549437,-113.505655,Detached,2009.0,2023-10-23,Good,True,False,False,False,3,3.0,2107,3322.0,2,912000
+AB-00557,2561 Prairie Rd,Edmonton,Windermere,53.534569,-113.460866,Condo,1983.0,2025-08-19,Good,True,True,False,False,2,1.0,783,,1,275000
+AB-00558,6499 Cedar Blvd,Airdrie,Coopers Crossing,51.237955,-113.980345,Duplex,1978.0,2026-02-13,Average,False,False,True,True,4,3.0,1538,3128.0,2,461000
+AB-00559,5563 River Ave,Fort McMurray,Thickwood,56.725324,-111.385052,Duplex,2012.0,2024-11-23,Good,False,False,False,False,3,2.0,1165,2629.0,1,360000
+AB-00560,146 River St,Calgary,Inglewood,50.998772,-114.043907,Semi-Detached,1971.0,2025-02-08,Average,False,False,True,False,3,3.0,1979,4065.0,1,757000
+AB-00561,3779 Maple Ave,Sherwood Park,Emerald Hills,53.611629,-113.249633,Detached,2013.0,2024-06-26,Average,False,False,True,False,3,3.5,2124,6509.0,3,854000
+AB-00562,2414 Maple Ave,Calgary,Kensington,51.045537,-114.087714,Townhouse,1963.0,2024-11-03,Fair,False,False,False,False,2,2.5,1611,1872.0,2,540000
+AB-00563,2654 Maple St,Edmonton,Terwillegar,53.563595,-113.556769,Semi-Detached,1961.0,2025-12-13,Average,False,True,False,False,3,2.0,1304,4425.0,1,443000
+AB-00564,2669 Park St,Leduc,West Haven,53.290383,-113.575956,Townhouse,1989.0,2026-01-31,Average,False,False,True,False,3,2.5,824,2112.0,1,211000
+AB-00565,2800 Maple Rd,Sherwood Park,Davidson Creek,53.504138,-113.229025,Townhouse,2011.0,2025-11-21,Good,True,True,False,False,2,2.5,1838,1547.0,1,731000
+AB-00566,3405 Prairie St,Calgary,Bridgeland,51.091652,-114.105312,Detached,1999.0,2026-03-13,Average,False,False,False,False,4,2.0,1951,6413.0,2,861000
+AB-00567,5252 Cedar Rd,Edmonton,Laurel,53.565801,-113.533392,Detached,2010.0,2022-06-20,Average,False,False,False,False,4,4.0,2503,7222.0,2,1032000
+AB-00568,2582 Prairie Blvd,Calgary,Mahogany,51.056682,-114.001963,Detached,1964.0,2024-09-06,Average,True,False,False,False,5,3.0,1711,4797.0,3,691000
+AB-00569,2249 Park Rd,Red Deer,Timberlands,52.284315,-113.809242,Condo,2003.0,2025-03-24,Average,True,False,False,False,2,2.0,941,,1,230000
+AB-00570,5171 Aspen St,Fort McMurray,Beacon Hill,56.735146,-111.430796,Detached,1961.0,2025-02-28,Fair,True,False,True,False,3,3.0,811,4844.0,2,256000
+AB-00571,7342 Prairie Ave,Calgary,Kensington,51.099756,-114.092861,Detached,1992.0,2022-11-04,Good,False,False,True,False,5,3.0,1857,,3,910000
+AB-00572,8389 Cedar Rd,Calgary,Mahogany,51.051526,-114.106023,Semi-Detached,1970.0,2022-07-11,Good,True,False,True,False,3,2.5,1527,2838.0,1,532000
+AB-00573,3754 Cedar Blvd,Red Deer,Lancaster,52.239949,-113.770909,Detached,2011.0,2025-06-16,Good,False,False,False,False,5,2.5,2230,5955.0,2,739000
+AB-00574,5710 Aspen Blvd,Edmonton,Windermere,53.574812,-113.495313,Condo,2002.0,2025-02-06,Fair,True,False,False,False,3,2.0,905,,0,280000
+AB-00575,7856 River St,Edmonton,Summerside,53.538895,-113.527396,Detached,2006.0,2026-05-16,Good,False,False,True,False,3,3.0,1717,4964.0,2,715000
+AB-00576,4350 River St,Edmonton,Windermere,53.536129,-113.505328,Detached,2013.0,2025-03-27,Average,True,False,True,False,3,3.5,1253,4610.0,2,575000
+AB-00577,9289 Aspen Ave,Calgary,Auburn Bay,51.075308,-114.101139,Semi-Detached,2009.0,2024-07-25,Good,False,True,False,False,3,3.0,1531,3583.0,1,589000
+AB-00578,6758 Park Way,St. Albert,Oakmont,53.618183,-113.66025,Detached,2000.0,2025-03-04,Fair,False,False,False,False,5,4.0,1481,4615.0,2,487000
+AB-00579,3641 Park Ave,Calgary,Beltline,51.065526,-114.096984,Detached,1981.0,2022-07-14,Good,False,True,False,True,6,3.0,1744,5417.0,2,791000
+AB-00580,5870 Aspen Blvd,Leduc,West Haven,53.229705,-113.523509,Duplex,2012.0,2025-06-30,Average,True,True,False,False,2,2.0,1190,2777.0,2,336000
+AB-00581,1725 Maple St,Calgary,Inglewood,51.051134,-113.950713,Detached,1996.0,2026-05-23,Good,False,False,False,False,5,3.0,1788,5561.0,2,843000
+AB-00582,7548 Aspen Blvd,Airdrie,Coopers Crossing,51.229531,-114.018027,Townhouse,2013.0,2025-02-13,Average,False,False,False,False,3,2.5,1098,1752.0,1,300000
+AB-00583,6894 Prairie Ave,Leduc,Tribute,53.255313,-113.5779,Detached,1993.0,2025-04-10,Average,True,True,False,False,4,2.5,2361,4540.0,2,874000
+AB-00584,6544 Maple Way,Calgary,Seton,51.073195,-114.050207,Detached,2010.0,2024-08-26,Average,True,False,False,False,6,4.0,1805,7399.0,2,777000
+AB-00585,4363 Aspen Ave,Edmonton,Summerside,53.536339,-113.455768,Detached,2010.0,2023-11-13,Good,True,True,True,False,5,3.0,2127,2886.0,2,953000
+AB-00586,3733 Park Ave,Edmonton,Windermere,53.605744,-113.43769,Townhouse,2005.0,2025-09-30,Average,False,False,False,False,2,2.5,998,1773.0,2,349000
+AB-00587,9863 Maple St,Edmonton,Windermere,53.533272,-113.570474,Condo,1973.0,2025-09-13,Fair,False,True,False,False,2,1.5,1059,,1,280000
+AB-00588,6979 Cedar Rd,Sherwood Park,Nottingham,53.532682,-113.309193,Detached,1969.0,2025-03-04,Average,False,True,True,False,5,3.0,2653,4871.0,2,1028000
+AB-00589,4269 Maple Ave,Calgary,Beltline,51.039133,-114.058597,Detached,1960.0,2024-12-07,Fair,True,False,True,False,4,2.5,2681,7862.0,3,938000
+AB-00590,7990 River St,Edmonton,Summerside,53.553687,-113.543179,Detached,1976.0,2024-11-21,Average,False,False,False,False,3,2.0,2614,3798.0,2,857000
+AB-00591,9726 Park Ave,Airdrie,Kings Heights,51.272831,-114.039072,Detached,2010.0,2025-01-25,Fair,False,False,False,False,3,3.5,1573,4470.0,2,540000
+AB-00592,653 Aspen Rd,Edmonton,Windermere,53.588729,-113.516894,Townhouse,1968.0,2025-08-12,Average,False,False,False,False,3,2.5,1073,1910.0,1,311000
+AB-00593,6189 Park Ave,Calgary,Kensington,51.051494,-114.095805,Detached,1969.0,2026-02-03,Average,True,False,False,False,4,3.5,1846,6615.0,2,817000
+AB-00594,4655 Prairie Way,Calgary,Seton,51.068548,-114.053513,Condo,1987.0,2022-07-22,Fair,True,False,False,False,2,1.0,607,,1,155000
+AB-00595,2133 Cedar Ave,Edmonton,Laurel,53.564819,-113.438496,Detached,1995.0,2024-10-11,Average,True,False,True,False,3,3.0,1572,4135.0,1,547000
+AB-00596,366 Maple Blvd,Sherwood Park,Summerwood,53.468154,-113.322008,Condo,1965.0,2025-04-09,Average,False,True,False,False,1,2.0,950,,0,242000
+AB-00597,2089 Park Way,Calgary,Seton,51.021328,-114.058751,Semi-Detached,2023.0,2025-10-22,Good,True,True,True,False,2,2.0,1277,2450.0,2,544000
+AB-00598,960 Park St,Red Deer,Anders,52.24686,-113.790604,Detached,1960.0,2025-08-01,Excellent,True,False,False,False,3,3.5,942,2655.0,2,250000
+AB-00599,6871 Prairie Blvd,Edmonton,Oliver,53.527681,-113.431325,Condo,1978.0,2024-12-21,Good,False,False,False,False,2,1.0,740,,0,204000
+AB-00600,3473 Prairie St,Calgary,Auburn Bay,50.97013,-114.037331,Detached,1991.0,2025-01-18,Good,True,True,True,False,4,2.5,2122,5369.0,1,979000
+AB-00601,5208 Prairie Blvd,Edmonton,Windermere,53.473156,-113.416189,Detached,2000.0,2025-01-08,Good,True,True,False,False,5,3.5,2178,9911.0,2,1100000
+AB-00602,9557 Prairie St,Calgary,Bridgeland,51.029852,-114.097542,Duplex,1999.0,2026-02-19,Excellent,False,True,False,False,2,2.0,1530,2768.0,0,709000
+AB-00603,8327 Cedar Way,Edmonton,Westmount,53.531533,-113.544653,Detached,1987.0,2025-03-14,Fair,True,True,False,False,3,3.0,1267,6100.0,2,508000
+AB-00604,917 Prairie Ave,Calgary,Aspen Woods,51.057246,-114.104793,Detached,2015.0,2023-10-28,Fair,True,False,False,False,3,2.5,2515,4557.0,2,1293000
+AB-00605,4495 Cedar Ave,Calgary,Aspen Woods,51.038555,-114.041811,Detached,1972.0,2025-11-12,Average,True,False,False,False,4,3.5,2258,7418.0,2,1083000
+AB-00606,5542 Cedar Ave,Edmonton,Westmount,53.572175,-113.502561,Duplex,1968.0,2022-07-27,Fair,False,False,True,False,4,2.5,1812,2296.0,0,514000
+AB-00607,840 Maple Way,Edmonton,Glenora,53.542032,-113.484138,Townhouse,1991.0,2025-08-15,Average,False,False,True,False,4,2.5,1372,1926.0,1,526000
+AB-00608,4253 Park Blvd,Edmonton,Terwillegar,53.530156,-113.533816,Duplex,1992.0,2025-06-12,Good,True,False,False,False,3,2.0,1725,3408.0,1,650000
+AB-00609,3708 Prairie Ave,Leduc,West Haven,53.238261,-113.55963,Semi-Detached,1978.0,2026-05-08,Excellent,True,False,False,False,3,2.5,1812,4378.0,1,524000
+AB-00610,8732 River Rd,St. Albert,Lacombe Park,53.66538,-113.646592,Condo,2017.0,2023-06-17,Excellent,False,False,False,False,2,1.0,763,,0,267000
+AB-00611,5785 Park St,Edmonton,Glenora,53.505931,-113.489966,Townhouse,2018.0,2023-01-15,Average,False,True,False,False,3,2.5,1302,1962.0,0,433000
+AB-00612,9816 Maple St,Edmonton,Oliver,53.58831,-113.458817,Detached,1965.0,2026-06-03,Average,False,False,True,False,4,3.5,1865,3243.0,1,634000
+AB-00613,2437 Prairie Ave,Calgary,Aspen Woods,51.105858,-114.029951,Duplex,1971.0,2026-03-18,Good,True,True,False,False,3,3.0,1875,2135.0,1,817000
+AB-00614,2939 Aspen Blvd,Red Deer,Anders,52.239242,-113.838587,Detached,1998.0,2025-07-13,Average,False,True,False,False,6,2.0,2461,3872.0,2,752000
+AB-00615,7258 Maple Ave,Calgary,Bridgeland,51.03564,-114.056037,Detached,1983.0,2024-06-28,Average,True,False,False,False,3,3.0,1474,6667.0,2,652000
+AB-00616,2403 Aspen Rd,Calgary,Inglewood,51.054152,-114.157951,Condo,2013.0,2024-10-22,Fair,False,True,False,False,2,2.0,450,,0,149000
+AB-00617,1487 Maple Rd,Edmonton,Rutherford,53.577998,-113.489041,Detached,2018.0,2024-08-12,Good,True,False,False,False,4,3.0,1334,7584.0,2,621000
+AB-00618,9308 Prairie Blvd,Red Deer,Clearview,52.275093,-113.799319,Detached,1986.0,2024-07-17,Average,False,True,False,False,4,3.0,1569,5852.0,2,536000
+AB-00619,4150 River St,Airdrie,Reunion,51.233779,-114.057602,Townhouse,1975.0,2025-01-07,Average,False,True,True,False,2,1.5,1533,1944.0,0,416000
+AB-00620,454 River Ave,Fort McMurray,Thickwood,56.687143,-111.270475,Condo,1975.0,2024-08-04,Average,True,False,False,False,2,2.0,870,,1,218000
+AB-00621,1858 Cedar Blvd,Calgary,Aspen Woods,51.037273,-114.114736,Townhouse,2010.0,2026-01-08,Average,True,False,False,True,4,2.0,1500,1836.0,1,671000
+AB-00622,2693 Park Way,Edmonton,Westmount,53.557796,-113.500787,Detached,2018.0,2023-01-10,Average,True,False,False,False,5,4.0,2065,3709.0,2,796000
+AB-00623,5063 Cedar St,Edmonton,Oliver,53.612169,-113.468755,Detached,1977.0,2022-08-18,Average,False,False,False,False,5,2.5,1562,4703.0,2,518000
+AB-00624,6715 Maple St,Red Deer,Lancaster,52.305994,-113.832401,Duplex,2004.0,2025-12-28,Average,True,False,False,False,3,1.5,1586,1716.0,1,422000
+AB-00625,6392 Cedar St,Calgary,Bridgeland,50.999649,-114.13477,Condo,1982.0,2025-09-25,Good,True,False,True,False,2,2.0,1141,,0,393000
+AB-00626,8146 Cedar Rd,Calgary,Beltline,50.991523,-114.199347,Condo,1985.0,2025-12-25,Average,False,False,False,True,1,1.5,1078,,0,323000
+AB-00627,1279 Park Ave,Edmonton,Windermere,53.529889,-113.512314,Detached,2012.0,2024-08-20,Average,False,True,True,False,5,3.5,2198,6640.0,2,1106000
+AB-00628,1261 Aspen St,Calgary,Seton,51.051365,-114.051685,Townhouse,2014.0,2024-12-26,Good,True,True,True,False,3,1.5,882,1605.0,0,330000
+AB-00629,2686 Park St,Calgary,Bridgeland,51.021661,-114.051492,Duplex,2005.0,2025-10-04,Fair,False,False,False,False,3,2.5,1459,1058.0,1,486000
+AB-00630,4374 River Rd,Edmonton,Windermere,53.534111,-113.486129,Townhouse,1964.0,2024-04-09,Average,True,False,False,False,4,3.0,1364,2023.0,1,403000
+AB-00631,1259 Cedar Way,Red Deer,Clearview,52.273594,-113.837594,Detached,1964.0,2026-03-18,Average,False,False,True,False,3,4.0,1857,5932.0,3,542000
+AB-00632,1006 Maple Ave,Edmonton,Westmount,53.586668,-113.508931,Semi-Detached,1989.0,2025-05-16,Poor,False,False,False,True,3,2.0,1764,1560.0,1,533000
+AB-00633,5721 Cedar St,St. Albert,Lacombe Park,53.60567,-113.638585,Detached,2007.0,2026-03-06,Average,False,True,False,False,4,2.0,2488,3553.0,2,942000
+AB-00634,2176 Cedar Ave,Sherwood Park,Davidson Creek,53.521756,-113.286502,Detached,1967.0,2025-07-22,Fair,True,False,True,False,5,3.5,2730,4171.0,2,809000
+AB-00635,5948 River Blvd,Calgary,Auburn Bay,51.03305,-114.076102,Townhouse,1986.0,2025-05-29,Average,False,False,False,False,3,1.5,1251,1958.0,2,385000
+AB-00636,2346 Aspen Ave,Edmonton,Windermere,53.607523,-113.492972,Detached,1995.0,2024-11-19,Fair,True,False,False,False,5,3.5,1268,5585.0,2,527000
+AB-00637,9737 Cedar Rd,Fort McMurray,Abasand,56.786288,-111.369895,Townhouse,1964.0,2026-03-14,Average,True,False,False,True,3,1.5,1523,1165.0,1,417000
+AB-00638,612 Aspen Rd,Calgary,Auburn Bay,51.07183,-114.047013,Detached,1966.0,2022-09-24,Good,False,False,False,False,3,2.5,1620,7381.0,2,661000
+AB-00639,1035 Maple Way,St. Albert,Lacombe Park,53.635413,-113.714118,Duplex,2014.0,2024-07-14,Good,True,False,False,False,3,2.5,1380,3640.0,1,485000
+AB-00640,348 Park Rd,Red Deer,Lancaster,52.266119,-113.756346,Detached,1990.0,2025-09-26,Fair,False,False,False,True,6,3.0,1866,5571.0,3,490000
+AB-00641,5359 Park Ave,Edmonton,Terwillegar,53.57269,-113.498051,Townhouse,1975.0,2026-05-22,Average,False,False,False,False,3,2.5,1385,900.0,1,409000
+AB-00642,7316 River Rd,Sherwood Park,Emerald Hills,53.57766,-113.269441,Detached,2000.0,2025-08-30,Excellent,True,False,True,False,4,2.0,1561,6735.0,3,715000
+AB-00643,787 Aspen Ave,Leduc,Meadowview,53.289344,-113.475073,Detached,2016.0,2025-09-16,Average,False,True,False,False,4,2.5,2210,4351.0,2,820000
+AB-00644,3443 Park Way,Calgary,Beltline,50.99944,-114.046142,Townhouse,2025.0,2024-07-11,Fair,True,False,False,False,3,1.5,1167,1980.0,1,425000
+AB-00645,2726 Park St,Calgary,Seton,51.03479,-114.085439,Detached,1997.0,2026-01-06,Good,False,True,False,False,4,3.0,1108,3805.0,2,438000
+AB-00646,1385 Maple Ave,Calgary,Seton,51.053502,-114.080642,Condo,1979.0,2024-10-28,Average,False,False,False,False,2,1.5,935,,1,235000
+AB-00647,4901 River Rd,Leduc,Meadowview,53.242475,-113.576848,Townhouse,1984.0,2025-06-03,Good,True,False,False,False,3,2.5,1612,2627.0,1,451000
+AB-00648,7455 Cedar Ave,Calgary,Inglewood,51.070588,-114.157821,Detached,2021.0,2026-01-31,Good,False,True,False,False,4,3.0,1788,5032.0,3,1002000
+AB-00649,2531 Aspen Blvd,Red Deer,Lancaster,52.264977,-113.812891,Detached,2013.0,2025-11-18,Average,False,False,True,False,4,2.5,1982,4706.0,1,573000
+AB-00650,2268 Aspen Way,Edmonton,Westmount,53.561605,-113.45098,Duplex,1981.0,2023-04-03,Excellent,True,False,False,False,2,1.5,1868,2828.0,1,663000
+AB-00651,6799 Prairie Blvd,Edmonton,Laurel,53.575737,-113.589525,Townhouse,2005.0,2025-03-19,Excellent,True,False,True,False,3,3.0,1468,1666.0,0,519000
+AB-00652,7285 River Way,St. Albert,Riverside,53.646952,-113.657443,Detached,2018.0,2025-08-26,Average,False,True,True,False,5,3.0,1678,5718.0,2,705000
+AB-00653,3551 Cedar Way,Calgary,Inglewood,51.074169,-114.088514,Detached,1965.0,2024-09-16,Good,True,False,True,False,4,3.5,1900,4124.0,3,696000
+AB-00654,4665 River St,Calgary,Bridgeland,51.008351,-114.145307,Condo,1973.0,2025-01-04,Excellent,False,True,False,False,1,2.0,767,,2,270000
+AB-00655,8634 River Blvd,Calgary,Bridgeland,51.055661,-114.099193,Detached,2014.0,2026-02-16,Good,False,False,True,False,5,2.0,1999,6794.0,2,1061000
+AB-00656,3744 Prairie St,Calgary,Kensington,51.020389,-114.123846,Condo,2005.0,2025-01-05,Good,True,False,False,False,3,2.0,749,,0,256000
+AB-00657,9245 Prairie St,Edmonton,Laurel,53.551632,-113.498148,Condo,2000.0,2022-09-05,Average,True,True,False,False,1,1.0,764,,1,216000
+AB-00658,1553 Aspen Ave,Red Deer,West Park,52.222,-113.776279,Semi-Detached,1976.0,2026-04-01,Average,False,False,False,True,3,2.0,1266,3686.0,1,313000
+AB-00659,3899 Park Blvd,Red Deer,Lancaster,52.250551,-113.767311,Detached,1983.0,2024-09-01,Good,True,False,False,True,4,3.0,1611,3439.0,2,537000
+AB-00660,5324 Prairie St,Edmonton,Terwillegar,53.507472,-113.508686,Detached,1982.0,2025-04-27,Average,False,False,False,False,4,2.5,2390,5826.0,2,846000
+AB-00661,5395 Park Rd,Calgary,Inglewood,51.075979,-114.031717,Townhouse,2012.0,2025-03-13,Fair,False,True,True,False,2,2.0,1682,1201.0,0,683000
+AB-00662,1907 Aspen Way,Edmonton,Glenora,53.625958,-113.521594,Detached,1986.0,2024-09-27,Good,False,False,True,False,4,3.0,1765,6054.0,2,756000
+AB-00663,3351 River Way,St. Albert,Oakmont,53.655445,-113.710342,Condo,1986.0,2025-10-17,Average,True,True,False,False,2,1.5,450,,1,129000
+AB-00664,8044 Maple Ave,Calgary,Bridgeland,51.051181,-114.052755,Condo,1973.0,2026-05-15,Average,True,False,True,False,1,1.0,946,,2,316000
+AB-00665,8365 Prairie Blvd,Edmonton,Rutherford,53.522405,-113.52857,Townhouse,1970.0,2024-12-01,Fair,False,True,False,False,2,2.5,1669,1323.0,1,435000
+AB-00666,4429 Prairie Way,Edmonton,Terwillegar,53.587522,-113.546812,Duplex,2018.0,2025-08-14,Average,False,True,False,False,3,2.5,1702,3115.0,1,684000
+AB-00667,9567 Maple Blvd,Edmonton,Summerside,53.608463,-113.568348,Detached,1973.0,2025-03-08,Average,True,False,False,False,6,3.5,2635,6082.0,3,918000
+AB-00668,6705 Aspen Blvd,Sherwood Park,Summerwood,53.504445,-113.261613,Detached,1991.0,2024-11-05,Fair,False,True,False,False,3,3.5,1619,6065.0,2,626000
+AB-00669,9314 Cedar Way,St. Albert,Lacombe Park,53.595924,-113.663708,Detached,1994.0,2024-08-10,Good,True,False,False,False,4,3.0,2262,5540.0,3,987000
+AB-00670,2090 River Ave,St. Albert,Erin Ridge,53.629134,-113.644406,Condo,1961.0,2026-02-12,Fair,True,False,True,False,2,1.0,1021,,0,223000
+AB-00671,6188 Aspen Ave,Calgary,Inglewood,50.999884,-114.063373,Detached,1994.0,2024-12-20,Average,False,False,False,False,4,3.0,1468,7493.0,2,696000
+AB-00672,7863 Maple Rd,Calgary,Auburn Bay,51.077527,-114.071338,Semi-Detached,1977.0,2026-01-06,Fair,False,False,True,False,4,3.0,1173,3347.0,2,433000
+AB-00673,9261 River Rd,Edmonton,Windermere,53.540052,-113.459064,Semi-Detached,1980.0,2025-11-23,Fair,True,False,False,False,3,1.5,1049,4046.0,1,367000
+AB-00674,3646 Park Ave,Edmonton,Rutherford,53.554115,-113.577406,Condo,1979.0,2026-02-24,Fair,True,False,False,False,2,1.5,688,,0,165000
+AB-00675,3898 River St,Calgary,Aspen Woods,51.067053,-114.024285,Condo,1986.0,2022-09-18,Fair,True,True,False,False,2,1.5,915,,2,344000
+AB-00676,2021 River Way,Leduc,Meadowview,53.234472,-113.495897,Detached,1998.0,2025-05-10,Average,False,False,False,False,5,3.0,2016,4142.0,2,681000
+AB-00677,8129 Prairie Rd,Edmonton,Summerside,53.54771,-113.534508,Condo,2015.0,2024-11-14,Average,False,False,True,False,3,2.0,797,,1,254000
+AB-00678,3032 Prairie St,Sherwood Park,Clarkdale,53.510459,-113.31271,Townhouse,1984.0,2025-06-04,Average,False,True,True,True,2,2.5,1516,,2,494000
+AB-00679,4245 Park St,Calgary,Aspen Woods,51.014146,-114.032237,Semi-Detached,2021.0,2024-05-08,Average,False,False,False,False,2,2.0,1743,3027.0,1,833000
+AB-00680,2609 Prairie Ave,Calgary,Auburn Bay,51.085657,-114.065857,Duplex,2007.0,2024-01-26,Poor,True,False,True,False,3,2.5,1193,3748.0,0,391000
+AB-00681,5285 Prairie Ave,Red Deer,West Park,52.269151,-113.908057,Detached,1962.0,2022-10-17,Average,False,False,True,False,4,4.0,2199,4165.0,2,634000
+AB-00682,829 Park Way,Calgary,Beltline,51.033146,-114.081425,Detached,1970.0,2025-01-07,Average,True,False,False,False,5,3.0,1247,7004.0,2,510000
+AB-00683,1583 River St,Edmonton,Laurel,53.459027,-113.436337,Detached,2019.0,2024-10-11,Fair,False,True,True,True,4,3.5,1820,6902.0,1,733000
+AB-00684,2274 Park St,Calgary,Auburn Bay,51.103374,-114.114448,Detached,1984.0,2025-08-19,Good,True,True,True,False,5,2.5,1406,3909.0,2,595000
+AB-00685,6057 Park Way,Edmonton,Summerside,53.513273,-113.484052,Detached,2022.0,2024-08-31,Average,False,True,False,False,4,3.0,2461,5606.0,2,987000
+AB-00686,8353 Aspen Rd,Edmonton,Summerside,53.583248,-113.46986,Condo,1996.0,2025-11-05,Average,True,False,True,True,2,1.5,1092,,1,337000
+AB-00687,1813 Prairie Rd,Red Deer,Timberlands,52.226734,-113.790974,Semi-Detached,1964.0,2024-05-31,Average,True,False,True,False,3,2.0,2078,3199.0,1,582000
+AB-00688,7226 Prairie Blvd,Edmonton,Laurel,53.560676,-113.496226,Detached,2018.0,2025-10-02,Average,True,False,True,False,4,2.5,1493,4766.0,1,556000
+AB-00689,6665 Aspen St,Edmonton,Summerside,53.552965,-113.534483,Duplex,1994.0,2025-12-20,Excellent,False,False,False,False,4,2.5,1764,4424.0,1,592000
+AB-00690,2417 Park Blvd,Edmonton,Oliver,53.562731,-113.493908,Detached,1999.0,2025-02-22,Good,True,True,False,False,4,4.0,2066,6524.0,3,908000
+AB-00691,2710 Park St,Edmonton,Summerside,53.575316,-113.45268,Condo,2007.0,2024-07-05,Poor,True,True,False,False,2,2.0,609,,0,150000
+AB-00692,5459 Park Blvd,Calgary,Bridgeland,51.093686,-114.132296,Duplex,1977.0,2024-12-09,Average,True,False,False,False,2,1.5,1895,3201.0,2,652000
+AB-00693,3869 River Blvd,Edmonton,Oliver,53.608973,-113.462026,Duplex,2010.0,2025-11-04,Excellent,True,True,False,False,3,2.0,1408,3151.0,2,599000
+AB-00694,6624 Prairie Way,Edmonton,Terwillegar,53.512335,-113.420519,Detached,2013.0,2025-02-17,Average,False,False,False,False,5,2.0,1488,6676.0,3,621000
+AB-00695,6681 Cedar St,Calgary,Beltline,51.039905,-114.095273,Detached,1961.0,2025-09-17,Average,False,True,False,False,3,3.0,2665,6014.0,2,1037000
+AB-00696,8811 Cedar St,Calgary,Auburn Bay,51.023917,-114.079353,Townhouse,1982.0,2025-06-28,Excellent,False,False,True,False,3,3.0,1457,1838.0,0,526000
+AB-00697,9919 Prairie Rd,Calgary,Auburn Bay,51.01041,-114.1238,Semi-Detached,2018.0,2025-06-28,Average,False,False,True,False,3,1.5,911,3566.0,2,330000
+AB-00698,8804 Prairie Blvd,Edmonton,Rutherford,53.521284,-113.405903,Detached,2005.0,2026-03-14,Good,False,True,True,False,4,3.0,1142,3573.0,2,448000
+AB-00699,5450 Park St,Leduc,Black Stone,53.273417,-113.543402,Condo,2018.0,2024-08-24,Fair,False,True,False,False,2,1.0,889,,1,218000
+AB-00700,7201 Maple Ave,Calgary,Aspen Woods,51.107952,-114.14762,Detached,1970.0,2025-08-02,Good,False,False,False,False,3,4.0,1412,6941.0,2,668000
+AB-00701,849 Aspen Blvd,Edmonton,Westmount,53.563809,-113.526572,Detached,1983.0,2022-07-15,Average,True,True,True,False,5,2.5,1824,4042.0,2,850000
+AB-00702,5418 River St,Red Deer,West Park,52.304045,-113.761434,Detached,1988.0,2024-06-09,Average,False,False,False,False,4,4.0,2485,5455.0,2,712000
+AB-00703,8275 River Way,Calgary,Auburn Bay,51.047435,-114.033126,Condo,2016.0,2024-07-19,Fair,True,False,False,False,1,1.0,670,,0,205000
+AB-00704,5266 Cedar Blvd,Edmonton,Westmount,53.543511,-113.497205,Townhouse,2007.0,2024-09-07,Average,False,False,False,False,3,2.0,955,1398.0,2,358000
+AB-00705,2123 Maple Blvd,St. Albert,Oakmont,53.682619,-113.523385,Townhouse,1976.0,2026-02-15,Average,False,True,True,False,3,2.0,1003,2052.0,2,304000
+AB-00706,6050 Prairie St,St. Albert,Mission,53.637342,-113.630048,Townhouse,,2024-07-05,Average,False,False,True,False,3,2.0,1472,2084.0,2,472000
+AB-00707,154 Aspen Rd,Calgary,Inglewood,51.049116,-114.081911,Semi-Detached,1982.0,2024-08-06,Average,True,False,False,False,3,3.0,790,3745.0,1,337000
+AB-00708,9923 Aspen Blvd,Fort McMurray,Abasand,56.796404,-111.416443,Detached,2024.0,2023-07-12,Excellent,False,True,False,False,3,2.5,1646,4716.0,2,682000
+AB-00709,2744 Cedar Rd,Airdrie,Coopers Crossing,51.298973,-114.072568,Duplex,1984.0,2025-10-06,Good,True,False,False,False,4,2.5,1408,3388.0,1,419000
+AB-00710,7659 Aspen St,Edmonton,Glenora,53.561005,-113.474981,Detached,1990.0,2025-07-04,Good,False,False,True,False,4,2.5,1676,5107.0,2,708000
+AB-00711,6933 Park Way,Edmonton,Glenora,53.594559,-113.473811,Townhouse,2009.0,2024-09-25,Fair,False,False,True,False,3,2.5,1615,1926.0,1,596000
+AB-00712,8481 Prairie Blvd,St. Albert,Oakmont,53.648779,-113.630006,Duplex,2011.0,2026-02-01,Good,True,False,False,False,4,2.5,1580,3742.0,0,656000
+AB-00713,1691 Park St,Sherwood Park,Emerald Hills,53.496529,-113.353674,Detached,2021.0,2024-06-12,Average,False,True,True,False,4,2.0,2350,5888.0,2,1009000
+AB-00714,525 River Rd,Calgary,Auburn Bay,51.049634,-114.000412,Townhouse,1978.0,2025-08-14,Average,True,False,False,False,3,2.5,1386,1492.0,1,450000
+AB-00715,3834 Maple Ave,Red Deer,West Park,52.239926,-113.828646,Detached,2009.0,2026-01-08,Average,False,True,False,False,5,2.0,1436,5066.0,2,478000
+AB-00716,6233 Cedar Blvd,Fort McMurray,Abasand,56.722232,-111.404227,Semi-Detached,2024.0,2024-12-18,Average,False,False,False,False,4,3.0,1406,2195.0,1,356000
+AB-00717,5940 Cedar Blvd,Edmonton,Summerside,53.532929,-113.492953,Detached,1975.0,2024-08-24,Good,False,False,False,False,3,2.5,2873,6506.0,2,1001000
+AB-00718,4547 Aspen Way,Calgary,Bridgeland,51.050184,-114.025841,Duplex,2002.0,2024-12-05,Average,False,False,True,False,3,1.5,1924,4128.0,1,767000
+AB-00719,7572 River St,Edmonton,Terwillegar,53.550717,-113.514255,Duplex,1989.0,2023-09-10,Good,False,True,True,False,2,3.0,1075,2511.0,2,395000
+AB-00720,8897 Maple Rd,Edmonton,Oliver,53.547929,-113.541527,Semi-Detached,,2026-03-26,Average,True,True,True,False,2,2.0,1522,3135.0,1,585000
+AB-00721,7352 Prairie Ave,Calgary,Bridgeland,50.971002,-114.019988,Townhouse,1974.0,2024-08-27,Good,False,False,True,False,3,1.5,1028,2288.0,1,401000
+AB-00722,8819 River Rd,Calgary,Auburn Bay,51.032054,-114.074788,Townhouse,1998.0,2024-11-11,Average,False,False,True,False,3,2.0,1274,900.0,1,397000
+AB-00723,5091 Maple Blvd,Edmonton,Glenora,53.569372,-113.535405,Detached,1968.0,2024-07-05,Good,False,True,False,False,6,3.0,1718,7036.0,2,725000
+AB-00724,2632 Park Ave,Edmonton,Terwillegar,53.563467,-113.517889,Detached,1986.0,2025-04-29,Average,False,False,False,False,4,2.0,1802,4943.0,2,691000
+AB-00725,5074 Park Ave,Airdrie,Reunion,51.290017,-114.022642,Townhouse,1993.0,2025-06-11,Average,False,False,True,False,3,2.5,1833,2207.0,1,494000
+AB-00726,4592 Maple Ave,St. Albert,Erin Ridge,53.632083,-113.623296,Duplex,1977.0,2025-09-19,Excellent,True,False,True,False,3,3.0,1780,2360.0,1,613000
+AB-00727,5432 Prairie Blvd,Calgary,Bridgeland,51.042565,-114.049389,Duplex,1969.0,2022-10-10,Average,False,False,True,False,3,2.0,1065,3026.0,1,361000
+AB-00728,4622 Aspen Rd,Red Deer,Anders,52.328021,-113.889844,Detached,1967.0,2025-08-21,Good,True,True,False,False,6,3.0,2499,4147.0,1,787000
+AB-00729,5471 Aspen Way,St. Albert,Mission,53.645354,-113.568022,Duplex,1971.0,2025-09-15,Average,False,False,False,False,4,2.5,1583,2243.0,1,394000
+AB-00730,7773 River Blvd,St. Albert,Oakmont,53.543236,-113.669055,Condo,1987.0,2025-11-17,Average,False,False,True,False,2,2.0,960,,1,286000
+AB-00731,8492 Park St,Edmonton,Windermere,53.539172,-113.400744,Townhouse,1967.0,2026-05-07,Excellent,False,False,True,False,3,2.5,1204,1213.0,1,384000
+AB-00732,8513 Maple Way,Edmonton,Laurel,53.61112,-113.498454,Townhouse,1974.0,2022-09-23,Average,False,True,True,False,3,2.5,1087,2548.0,2,295000
+AB-00733,9524 Park Blvd,Sherwood Park,Nottingham,53.564963,-113.332258,Semi-Detached,1969.0,2024-06-29,Average,False,False,False,False,4,2.5,2178,4475.0,2,651000
+AB-00734,5451 Aspen Blvd,Edmonton,Rutherford,53.596885,-113.454226,Detached,1988.0,2025-11-15,Average,False,False,False,False,3,3.0,1877,5597.0,2,603000
+AB-00735,8948 Park St,Leduc,Southfork,53.283447,-113.483306,Detached,1965.0,2025-07-21,Good,False,False,True,False,3,2.5,2569,5575.0,1,740000
+AB-00736,6245 Maple Blvd,Fort McMurray,Thickwood,56.708099,-111.449554,Condo,2016.0,2023-11-08,Fair,True,False,False,False,1,1.0,842,,0,211000
+AB-00737,3534 Maple Blvd,Calgary,Kensington,51.04357,-114.043076,Detached,1975.0,2025-06-07,Fair,False,False,True,False,3,4.0,3080,2991.0,2,1183000
+AB-00738,6658 Maple Rd,Sherwood Park,Clarkdale,53.549348,-113.329754,Semi-Detached,2008.0,2025-07-26,Good,False,False,False,False,3,3.0,1516,2160.0,0,459000
+AB-00739,5396 Maple Ave,Fort McMurray,Timberlea,56.728508,-111.368692,Townhouse,1995.0,2025-12-09,Good,False,True,True,False,3,3.0,1648,2279.0,0,524000
+AB-00740,6968 River Ave,St. Albert,Erin Ridge,53.620088,-113.566561,Townhouse,2013.0,2024-01-05,Good,False,False,True,False,2,2.5,1406,2252.0,1,496000
+AB-00741,566 Maple Rd,Edmonton,Oliver,53.556143,-113.531238,Detached,1993.0,2025-02-12,Good,True,False,False,True,3,3.0,2037,3675.0,2,824000
+AB-00742,7893 Cedar Blvd,Calgary,Mahogany,51.119067,-114.01199,Detached,1968.0,2022-12-07,Fair,False,False,False,True,3,3.5,1583,3920.0,1,607000
+AB-00743,9459 River Ave,Calgary,Aspen Woods,50.999427,-114.103206,Detached,1972.0,2026-01-27,Average,False,True,False,False,4,3.0,1399,5285.0,2,644000
+AB-00744,7671 Prairie Way,Red Deer,West Park,52.254232,-113.763123,Condo,1998.0,2024-10-25,Average,False,True,False,False,1,1.0,1122,,0,276000
+AB-00745,3342 River St,Calgary,Mahogany,51.088773,-114.02031,Townhouse,2009.0,2026-05-05,Good,False,True,False,True,4,1.5,1925,1060.0,2,756000
+AB-00746,4405 Aspen Blvd,Calgary,Seton,51.036738,-114.108977,Detached,1987.0,2025-08-26,Average,False,False,True,False,5,4.0,2403,5603.0,2,861000
+AB-00747,4406 Maple Rd,Edmonton,Laurel,53.573475,-113.52939,Duplex,2003.0,2026-05-13,Good,False,True,True,False,3,2.5,2023,2800.0,1,673000
+AB-00748,8369 River Blvd,Edmonton,Terwillegar,53.531568,-113.492269,Detached,1970.0,2025-01-01,Excellent,True,False,True,True,4,3.0,2436,3580.0,2,1058000
+AB-00749,6041 Aspen Ave,St. Albert,Oakmont,53.65475,-113.592541,Semi-Detached,1966.0,2024-12-12,Good,True,True,False,False,3,2.5,1496,3516.0,1,490000
+AB-00750,4661 Maple Blvd,Sherwood Park,Emerald Hills,53.583017,-113.255441,Condo,2014.0,2024-12-21,Good,False,False,False,False,2,1.0,787,,2,226000
+AB-00751,6823 River Ave,Airdrie,Coopers Crossing,51.293343,-113.929,Detached,1968.0,2025-12-26,Fair,False,False,False,False,5,3.0,2108,2826.0,2,548000
+AB-00752,6677 Maple Way,St. Albert,Mission,53.576502,-113.654074,Detached,1995.0,2024-01-05,Fair,True,True,True,False,3,3.5,1574,6116.0,1,632000
+AB-00753,2145 Aspen Way,Calgary,Aspen Woods,51.070746,-114.05293,Semi-Detached,2016.0,2026-03-28,Average,False,False,False,False,3,2.5,1359,3011.0,1,626000
+AB-00754,8083 Park Ave,Airdrie,Coopers Crossing,51.287369,-113.993799,Detached,1981.0,2026-03-10,Good,False,False,False,False,5,2.0,1797,5644.0,2,611000
+AB-00755,4619 Park Way,Leduc,Tribute,53.224751,-113.550875,Condo,1995.0,2024-07-26,Good,False,False,True,True,3,1.0,809,,1,204000
+AB-00756,9367 Cedar Way,Sherwood Park,Emerald Hills,53.548646,-113.260471,Townhouse,2022.0,2024-07-25,Average,True,False,False,False,2,2.0,1071,1929.0,1,343000
+AB-00757,753 Park Blvd,Airdrie,Hillcrest,51.307267,-114.051554,Detached,2013.0,2022-10-30,Good,False,True,False,False,6,2.5,2133,5860.0,2,870000
+AB-00758,6852 Maple Blvd,St. Albert,Mission,53.557473,-113.618378,Townhouse,2002.0,2025-09-22,Fair,True,False,False,False,2,2.5,1441,1803.0,0,477000
+AB-00759,9066 Prairie Rd,Edmonton,Glenora,53.559167,-113.479743,Detached,1980.0,2025-06-17,Average,False,True,False,True,4,3.0,1787,4326.0,2,843000
+AB-00760,8246 Prairie Ave,Calgary,Bridgeland,51.065365,-114.078297,Detached,2011.0,2025-11-13,Average,True,False,False,False,4,4.0,1383,6077.0,1,679000
+AB-00761,9282 Park Way,Leduc,Southfork,53.289931,-113.600736,Condo,2024.0,2025-04-27,Good,False,True,True,False,1,1.0,1076,,1,333000
+AB-00762,1797 Prairie Rd,Airdrie,Reunion,51.294251,-114.011106,Condo,1977.0,2026-03-16,Excellent,True,True,False,False,1,1.0,835,,0,244000
+AB-00763,3638 River St,Edmonton,Terwillegar,53.506916,-113.511509,Detached,1988.0,2026-05-18,Average,False,False,False,False,3,3.0,2486,5099.0,2,934000
+AB-00764,6063 Park Blvd,Fort McMurray,Thickwood,56.696931,-111.267166,Detached,2009.0,2025-10-11,Good,True,False,False,False,5,3.0,2503,5923.0,2,951000
+AB-00765,8871 Park St,Sherwood Park,Emerald Hills,53.559868,-113.257924,Duplex,2024.0,2024-09-28,Good,True,False,False,False,3,1.5,1807,2693.0,2,722000
+AB-00766,1159 River St,Sherwood Park,Emerald Hills,53.530172,-113.321429,Semi-Detached,2023.0,2024-11-13,Average,False,False,False,False,3,1.5,1867,,1,657000
+AB-00767,8141 Cedar Ave,Edmonton,Laurel,53.583381,-113.428432,Detached,1963.0,2023-11-01,Good,False,False,False,False,5,3.0,2369,4932.0,3,758000
+AB-00768,967 Prairie Rd,Edmonton,Rutherford,53.556866,-113.517406,Detached,1960.0,2026-03-28,Excellent,False,False,False,False,4,3.0,1573,5031.0,2,607000
+AB-00769,6711 Aspen Blvd,Edmonton,Oliver,53.547481,-113.558416,Condo,2002.0,2025-05-14,Fair,False,True,True,True,1,2.0,943,,1,260000
+AB-00770,1436 Park Blvd,Calgary,Inglewood,50.970059,-114.026331,Condo,1989.0,2024-12-19,Average,True,False,True,False,2,1.0,911,,0,300000
+AB-00771,9407 Aspen Rd,Red Deer,Clearview,52.261749,-113.815985,Detached,2009.0,2023-12-15,Average,True,False,True,False,6,3.0,3409,7969.0,1,1191000
+AB-00772,7392 Maple Way,Calgary,Mahogany,50.982177,-114.099892,Townhouse,1982.0,2024-12-05,Average,False,False,True,False,3,3.0,1775,980.0,1,595000
+AB-00773,2643 Aspen Rd,Airdrie,Coopers Crossing,51.249711,-114.118626,Detached,2023.0,2022-08-04,Average,False,False,False,True,3,3.0,2173,6483.0,3,874000
+AB-00774,1060 Cedar Way,Calgary,Seton,51.049777,-114.036207,Detached,2011.0,2024-12-23,Fair,True,False,False,False,3,4.0,1577,2777.0,2,574000
+AB-00775,4899 Prairie Blvd,Red Deer,Lancaster,52.25513,-113.871862,Detached,2017.0,2025-05-18,Good,True,True,True,False,4,2.5,1743,5008.0,2,651000
+AB-00776,782 River St,Calgary,Aspen Woods,51.050582,-114.116682,Semi-Detached,1967.0,2024-10-15,Average,False,False,True,False,3,2.0,1706,3457.0,2,688000
+AB-00777,7207 Prairie Way,Edmonton,Glenora,53.59611,-113.560136,Detached,1966.0,2025-12-08,Good,False,False,True,False,4,2.5,970,5414.0,3,421000
+AB-00778,355 Maple Blvd,Calgary,Mahogany,51.088549,-114.09207,Condo,1986.0,2024-07-03,Average,True,False,False,False,2,1.0,922,,0,272000
+AB-00779,2421 Aspen Ave,Airdrie,Bayside,51.29532,-113.922507,Condo,2011.0,2025-09-17,Fair,False,False,False,False,3,2.0,450,,0,111000
+AB-00780,6877 Cedar Rd,Calgary,Bridgeland,51.055973,-114.072399,Condo,1961.0,2025-11-26,Average,False,False,False,False,2,2.0,845,,0,238000
+AB-00781,8104 Maple Ave,Calgary,Auburn Bay,51.045316,-114.115791,Detached,,2025-12-19,Excellent,False,True,False,False,4,2.0,2320,5470.0,1,1102000
+AB-00782,9189 Cedar Ave,Calgary,Aspen Woods,51.079764,-114.094291,Detached,1985.0,2026-05-03,Excellent,False,True,True,False,4,2.0,2249,4536.0,1,1215000
+AB-00783,8351 River Ave,Edmonton,Windermere,53.562604,-113.576202,Detached,1965.0,2026-04-25,Good,False,False,True,False,4,3.0,1608,3074.0,1,580000
+AB-00784,3790 River Ave,Airdrie,Bayside,51.286439,-114.029101,Semi-Detached,1997.0,2025-03-16,Average,True,False,False,False,4,1.5,927,3131.0,1,270000
+AB-00785,386 Aspen Ave,Edmonton,Oliver,53.526831,-113.479564,Detached,2012.0,2025-07-14,Average,True,True,True,False,6,2.0,1422,5757.0,2,619000
+AB-00786,1311 Maple Blvd,Calgary,Beltline,51.065216,-114.090459,Duplex,1964.0,2022-08-18,Average,True,False,False,False,3,1.5,1500,3712.0,0,508000
+AB-00787,6000 River Ave,Edmonton,Westmount,53.534704,-113.501195,Townhouse,1979.0,2025-12-12,Average,False,False,True,False,3,3.0,1289,1803.0,1,402000
+AB-00788,2148 Prairie Rd,St. Albert,Mission,53.581901,-113.697612,Duplex,1989.0,2025-04-19,Excellent,False,False,False,False,2,2.0,1171,2088.0,2,388000
+AB-00789,3228 Aspen Ave,Calgary,Seton,51.062677,-114.070338,Detached,1991.0,2022-08-03,Average,False,False,False,False,4,2.0,2021,4128.0,2,656000
+AB-00790,6852 Maple Ave,Sherwood Park,Clarkdale,53.506415,-113.276791,Townhouse,2017.0,2024-11-21,Average,False,False,False,False,2,1.5,1513,2205.0,0,448000
+AB-00791,9521 River Ave,Airdrie,Coopers Crossing,51.228941,-114.031627,Townhouse,1979.0,2025-02-14,Good,True,False,False,False,3,2.5,1374,1167.0,1,388000
+AB-00792,1573 Park Rd,Calgary,Beltline,51.030704,-114.059782,Townhouse,1966.0,2026-01-05,Average,False,False,True,False,3,1.5,1250,1207.0,0,386000
+AB-00793,2590 River Blvd,Edmonton,Westmount,53.58711,-113.546728,Semi-Detached,1980.0,2024-09-13,Excellent,True,False,False,False,3,2.0,1604,2663.0,0,635000
+AB-00794,6341 Cedar Blvd,Edmonton,Summerside,53.562932,-113.502914,Condo,1965.0,2026-05-19,Fair,False,False,False,False,2,1.0,1110,,0,248000
+AB-00795,6161 Maple Ave,Calgary,Auburn Bay,50.994896,-114.115556,Condo,2003.0,2025-08-05,Excellent,False,False,True,False,3,2.0,1077,,1,374000
+AB-00796,8205 Maple Way,Fort McMurray,Thickwood,56.739992,-111.422562,Condo,1970.0,2023-04-08,Average,False,False,True,False,1,2.0,1122,,2,253000
+AB-00797,7193 Park St,Fort McMurray,Timberlea,56.760961,-111.440728,Semi-Detached,1999.0,2024-08-05,Average,False,True,False,False,4,1.5,1365,2632.0,1,441000
+AB-00798,689 Prairie Rd,Fort McMurray,Beacon Hill,56.710497,-111.385747,Detached,2020.0,2025-06-30,Average,True,False,False,False,4,2.5,2322,6509.0,2,789000
+AB-00799,7470 Prairie St,Red Deer,Timberlands,52.285378,-113.752877,Condo,1994.0,2025-07-17,Fair,False,False,True,False,2,1.5,734,,1,146000
+AB-00800,258 Prairie St,St. Albert,Lacombe Park,53.581647,-113.598989,Detached,1971.0,2025-06-24,Good,False,False,True,False,4,2.5,1785,5018.0,2,644000
+AB-00801,3368 Prairie St,Leduc,Tribute,53.231773,-113.549617,Townhouse,1967.0,2026-03-07,Good,True,False,True,True,3,2.5,1301,1574.0,1,347000
+AB-00802,3148 Cedar Rd,Edmonton,Laurel,53.557283,-113.419387,Townhouse,2023.0,2024-10-10,Good,False,True,True,True,2,2.5,1257,1435.0,1,466000
+AB-00803,1341 River Ave,Edmonton,Summerside,53.551622,-113.543182,Detached,1975.0,2025-10-18,Good,True,False,False,False,5,3.0,2398,3531.0,2,824000
+AB-00804,4223 Park Ave,Calgary,Aspen Woods,51.077951,-114.060965,Detached,1960.0,2026-04-05,Good,False,False,True,False,4,2.5,1617,6630.0,2,739000
+AB-00805,1179 Aspen Rd,Calgary,Auburn Bay,51.050844,-114.154871,Detached,2006.0,2025-07-17,Good,False,False,False,False,5,2.0,1861,5562.0,2,782000
+AB-00806,7663 Park Blvd,St. Albert,Oakmont,53.553636,-113.632896,Semi-Detached,2005.0,2025-02-18,Average,False,True,False,False,3,2.0,1530,3629.0,0,549000
+AB-00807,2930 River Way,Edmonton,Oliver,53.56649,-113.529797,Duplex,2006.0,2023-10-30,Poor,True,False,True,False,3,3.0,1687,3285.0,0,459000
+AB-00808,8277 Cedar Blvd,Edmonton,Rutherford,53.594871,-113.461825,Detached,1984.0,2023-12-28,Average,False,False,False,True,5,3.5,1773,6401.0,2,640000
+AB-00809,312 Park Ave,Airdrie,Reunion,51.287148,-113.939292,Townhouse,1987.0,2025-07-25,Average,False,False,True,False,2,2.5,1444,1521.0,1,369000
+AB-00810,6162 Cedar Ave,Edmonton,Laurel,53.59249,-113.557107,Duplex,1968.0,2025-07-09,Poor,False,False,False,False,4,2.0,1902,2574.0,2,458000
+AB-00811,5372 Prairie Way,Leduc,Tribute,53.267049,-113.503874,Duplex,1984.0,2023-10-18,Excellent,False,False,False,False,3,2.5,1243,1809.0,1,343000
+AB-00812,8143 Cedar Way,Calgary,Beltline,51.04164,-114.047226,Detached,2001.0,2023-09-10,Fair,True,False,True,False,5,3.0,1275,5089.0,1,557000
+AB-00813,8006 Aspen Ave,Red Deer,West Park,52.333043,-113.801109,Condo,2001.0,2025-07-16,Average,False,False,False,False,1,1.0,836,,1,186000
+AB-00814,8359 Park Ave,Sherwood Park,Emerald Hills,53.532007,-113.310837,Condo,1984.0,2025-04-01,Average,False,False,True,False,2,1.0,495,,1,137000
+AB-00815,6359 Aspen Ave,Edmonton,Glenora,53.552129,-113.463581,Townhouse,1978.0,2025-07-22,Average,True,True,True,False,3,1.5,1465,1210.0,1,588000
+AB-00816,6142 River Rd,Calgary,Mahogany,51.046803,-114.054426,Townhouse,2001.0,2025-05-20,Average,False,False,False,False,3,1.5,1571,2180.0,0,567000
+AB-00817,2260 Cedar St,Calgary,Beltline,51.01766,-114.054838,Townhouse,2025.0,2024-01-17,Fair,True,False,False,False,3,2.5,1016,1625.0,0,385000
+AB-00818,6587 Prairie Ave,St. Albert,Oakmont,53.616072,-113.584494,Detached,1967.0,2026-03-09,Average,False,False,True,False,4,3.5,1681,2331.0,2,571000
+AB-00819,791 River Ave,Edmonton,Summerside,53.501334,-113.470612,Detached,1988.0,2024-01-20,Average,False,False,False,False,4,2.0,2142,4864.0,2,737000
+AB-00820,689 River Ave,Edmonton,Terwillegar,53.525777,-113.521312,Semi-Detached,1965.0,2026-06-01,Average,True,True,False,False,3,2.5,2205,3656.0,1,732000
+AB-00821,6232 Aspen Blvd,Sherwood Park,Nottingham,53.547725,-113.328623,Detached,1996.0,2025-11-14,Average,False,True,True,False,4,4.0,1842,,2,810000
+AB-00822,1946 Maple Blvd,Calgary,Aspen Woods,51.023412,-114.05556,Semi-Detached,2011.0,2025-11-10,Average,True,False,False,False,3,3.0,1564,3815.0,2,765000
+AB-00823,490 Park St,Red Deer,Lancaster,52.313273,-113.829074,Duplex,1992.0,2025-12-05,Average,False,True,False,False,3,1.5,920,4210.0,1,247000
+AB-00824,4171 Maple Way,Calgary,Inglewood,51.057148,-114.063279,Townhouse,1996.0,2026-06-08,Good,False,False,False,False,2,2.0,1436,1843.0,1,549000
+AB-00825,3225 Cedar Rd,Airdrie,Bayside,51.254962,-113.953085,Semi-Detached,2007.0,2025-04-07,Average,False,False,True,False,3,3.0,1984,3654.0,0,676000
+AB-00826,7907 River St,Edmonton,Westmount,53.506778,-113.48287,Condo,1963.0,2025-10-11,Good,False,False,False,False,3,2.0,1543,,0,386000
+AB-00827,8249 Cedar Blvd,Edmonton,Westmount,53.613421,-113.528658,Detached,2008.0,2026-05-26,Poor,False,True,True,False,4,2.5,2198,4542.0,2,757000
+AB-00828,7439 Maple St,Edmonton,Terwillegar,53.572388,-113.586729,Townhouse,1984.0,2023-03-21,Average,False,False,False,False,2,2.0,1232,900.0,1,368000
+AB-00829,6182 Prairie Way,St. Albert,Oakmont,53.688018,-113.609371,Detached,1980.0,2025-07-15,Average,False,False,True,False,4,3.0,1014,4815.0,2,361000
+AB-00830,7173 Maple Way,Calgary,Seton,51.061242,-114.133409,Duplex,2012.0,2026-01-19,Average,True,False,False,False,2,2.5,1441,2812.0,2,523000
+AB-00831,8950 Prairie Ave,Leduc,Southfork,53.237354,-113.571272,Condo,1978.0,2022-10-30,Average,True,False,True,False,1,2.0,450,,2,111000
+AB-00832,9118 Prairie Ave,Edmonton,Rutherford,53.496905,-113.538125,Condo,1960.0,2024-07-08,Average,False,False,True,False,3,1.0,854,,1,203000
+AB-00833,1843 River Blvd,Sherwood Park,Davidson Creek,53.520931,-113.317338,Condo,,2024-06-28,Good,False,True,True,False,2,2.0,832,,0,275000
+AB-00834,3528 Aspen St,Calgary,Kensington,51.120648,-114.135966,Semi-Detached,2011.0,2023-11-26,Average,True,True,True,False,4,2.5,1394,3129.0,1,573000
+AB-00835,9890 Park Rd,St. Albert,Erin Ridge,53.619362,-113.660752,Detached,2011.0,2025-11-07,Poor,True,False,False,False,4,2.0,2302,4385.0,3,780000
+AB-00836,6387 Aspen St,Calgary,Auburn Bay,51.072774,-114.0331,Condo,2020.0,2024-10-15,Good,False,False,False,False,2,1.0,1201,,0,376000
+AB-00837,1640 Cedar Blvd,Edmonton,Glenora,53.446732,-113.530222,Condo,1971.0,2025-10-04,Fair,False,False,True,False,2,1.0,596,,0,176000
+AB-00838,7381 Maple Way,Red Deer,Anders,52.267319,-113.8422,Detached,1963.0,2025-08-31,Excellent,False,False,False,False,4,2.0,2182,4934.0,1,673000
+AB-00839,9948 Park Blvd,Edmonton,Windermere,53.556588,-113.45184,Townhouse,1980.0,2026-01-01,Poor,False,True,False,False,3,3.0,1541,,1,433000
+AB-00840,7385 Prairie St,Calgary,Mahogany,51.041048,-114.054201,Duplex,2023.0,2026-01-17,Average,True,False,False,True,2,2.0,1646,4770.0,1,661000
+AB-00841,649 Park Blvd,Calgary,Inglewood,51.051519,-114.117786,Detached,1973.0,2025-04-02,Average,True,True,False,False,4,3.0,2031,5752.0,2,900000
+AB-00842,7408 Prairie Way,Calgary,Bridgeland,51.060402,-114.028611,Condo,1983.0,2025-09-12,Good,False,False,False,False,3,1.0,1171,,0,388000
+AB-00843,8459 Maple St,Edmonton,Glenora,53.512818,-113.479467,Detached,1961.0,2025-09-09,Average,False,True,False,False,3,2.0,2287,5535.0,2,895000
+AB-00844,9160 Prairie Way,Airdrie,Reunion,51.302104,-114.067915,Duplex,1972.0,2024-03-28,Average,True,True,False,False,2,2.0,1272,2932.0,1,386000
+AB-00845,4400 Cedar St,Edmonton,Windermere,53.492285,-113.500321,Townhouse,2006.0,2026-04-26,Excellent,False,False,True,False,2,2.5,1493,1447.0,2,605000
+AB-00846,8448 Cedar Ave,Airdrie,Reunion,51.221439,-114.031876,Semi-Detached,2021.0,2024-12-22,Good,True,False,False,True,4,2.0,1583,2909.0,2,577000
+AB-00847,7710 Prairie Rd,Edmonton,Windermere,53.604854,-113.579824,Townhouse,1995.0,2024-12-07,Average,False,False,False,False,3,2.5,1508,1450.0,0,536000
+AB-00848,4494 Park Rd,Calgary,Mahogany,51.047493,-114.02062,Semi-Detached,1968.0,2025-10-18,Average,True,False,False,False,2,2.5,1482,3887.0,1,501000
+AB-00849,3185 Aspen Ave,Calgary,Aspen Woods,51.040728,-114.06193,Detached,2014.0,2024-07-04,Good,True,False,False,False,4,3.0,1455,6904.0,2,916000
+AB-00850,5627 River Blvd,Calgary,Auburn Bay,51.024054,-114.077848,Townhouse,1991.0,2025-05-03,Average,False,True,False,False,2,2.5,1092,,2,374000
+AB-00851,4274 Cedar Blvd,Edmonton,Windermere,53.593388,-113.453921,Detached,1960.0,2022-11-23,Fair,False,True,False,False,6,3.5,1274,4265.0,3,467000
+AB-00852,3067 Maple Rd,Edmonton,Rutherford,53.59358,-113.502816,Townhouse,2000.0,2026-04-14,Fair,True,True,True,False,3,1.5,1410,1652.0,1,418000
+AB-00853,5631 Aspen Rd,Edmonton,Windermere,53.518892,-113.423654,Condo,1967.0,2025-10-05,Poor,True,False,False,False,2,1.0,1102,,1,250000
+AB-00854,385 River St,Calgary,Bridgeland,51.036206,-114.15695,Detached,2009.0,2024-09-18,Average,False,True,False,True,4,2.5,2683,4752.0,2,1292000
+AB-00855,4012 Prairie Rd,Sherwood Park,Emerald Hills,53.536394,-113.252599,Detached,1995.0,2024-10-02,Fair,False,False,True,False,4,3.5,1482,4470.0,3,516000
+AB-00856,4551 River Blvd,Calgary,Auburn Bay,51.013874,-113.990957,Semi-Detached,2008.0,2024-12-19,Poor,True,True,False,False,3,2.0,1642,,1,528000
+AB-00857,6719 River Ave,Calgary,Bridgeland,51.04478,-114.023734,Detached,2008.0,2025-04-20,Fair,True,False,False,False,5,3.0,2695,4908.0,2,1258000
+AB-00858,5755 Park Blvd,Leduc,Meadowview,53.257443,-113.534092,Townhouse,1962.0,2025-03-19,Average,False,False,True,False,3,2.5,1322,1605.0,0,325000
+AB-00859,6349 Park St,Edmonton,Laurel,53.567761,-113.420074,Condo,1985.0,2026-03-08,Good,False,True,False,False,1,1.0,850,,0,246000
+AB-00860,5205 River Way,Edmonton,Terwillegar,53.454024,-113.476323,Semi-Detached,1983.0,2026-03-06,Average,False,False,False,False,3,3.0,1643,1984.0,1,517000
+AB-00861,3301 Aspen St,Leduc,Southfork,53.257286,-113.49855,Detached,1962.0,2026-02-25,Good,True,False,False,False,4,3.0,1718,5492.0,2,559000
+AB-00862,2914 Park Way,Calgary,Seton,51.0371,-114.048206,Townhouse,1961.0,2025-01-12,Average,False,True,True,True,2,3.0,1163,2295.0,0,345000
+AB-00863,2969 Prairie St,Edmonton,Oliver,53.546549,-113.472208,Detached,2019.0,2025-12-25,Average,False,False,True,False,4,3.0,1657,5301.0,2,686000
+AB-00864,7745 Prairie Way,Edmonton,Westmount,53.573884,-113.507182,Semi-Detached,2011.0,2024-09-26,Good,False,False,False,False,3,2.5,999,2853.0,1,380000
+AB-00865,1992 Aspen Blvd,Airdrie,Kings Heights,51.237702,-114.021628,Semi-Detached,2007.0,2025-08-06,Good,True,False,True,True,3,3.0,1845,2630.0,1,633000
+AB-00866,2431 Maple Ave,Calgary,Mahogany,51.061903,-114.072318,Semi-Detached,1998.0,2023-09-24,Average,False,False,False,False,3,2.5,1260,,0,463000
+AB-00867,970 Park Blvd,Calgary,Inglewood,51.032699,-114.059374,Condo,1972.0,2022-08-09,Average,False,True,True,False,1,1.0,1248,,1,387000
+AB-00868,8402 River St,Calgary,Beltline,51.024228,-114.093444,Condo,1984.0,2024-01-11,Average,False,False,True,False,3,1.0,663,,0,205000
+AB-00869,934 Aspen Way,Calgary,Seton,51.030118,-114.074741,Detached,2001.0,2025-03-17,Average,False,False,False,False,4,3.5,3007,4340.0,2,1143000
+AB-00870,4476 River Ave,Calgary,Kensington,51.089643,-114.181088,Condo,2016.0,2025-11-19,Good,True,False,False,True,1,2.0,907,,0,319000
+AB-00871,9409 Park Ave,Edmonton,Oliver,53.491302,-113.629143,Detached,1979.0,2026-04-02,Average,True,True,False,False,4,3.0,1726,6516.0,2,717000
+AB-00872,6196 Cedar Rd,Edmonton,Oliver,53.507943,-113.538149,Condo,2003.0,2024-11-24,Good,False,False,True,False,2,1.0,903,,1,269000
+AB-00873,5476 Aspen Rd,Calgary,Aspen Woods,51.061992,-114.200358,Duplex,2015.0,2025-04-20,Average,True,False,False,False,3,2.0,1480,2361.0,2,653000
+AB-00874,8983 Aspen Rd,Sherwood Park,Davidson Creek,53.522368,-113.259797,Detached,1979.0,2025-04-25,Excellent,True,False,True,False,5,3.5,1443,4892.0,2,546000
+AB-00875,7852 Maple Rd,Calgary,Kensington,51.109683,-114.093579,Duplex,2015.0,2024-02-08,Fair,True,False,False,False,4,1.5,1462,3190.0,1,576000
+AB-00876,9897 Park Way,Calgary,Bridgeland,51.074267,-114.07215,Detached,1981.0,2026-03-16,Average,True,True,False,False,5,2.5,1138,2329.0,2,536000
+AB-00877,3009 Maple Ave,Calgary,Kensington,51.062897,-113.987803,Condo,1966.0,2025-05-29,Poor,False,False,False,False,2,1.5,547,,0,143000
+AB-00878,3249 River Blvd,Edmonton,Oliver,53.546399,-113.56449,Condo,1965.0,2025-01-22,Good,True,False,False,False,1,1.0,910,,1,275000
+AB-00879,3766 Prairie Rd,Sherwood Park,Clarkdale,53.486494,-113.348776,Detached,2025.0,2025-06-27,Fair,False,False,False,False,4,3.5,1675,5805.0,2,677000
+AB-00880,3549 River Blvd,Calgary,Aspen Woods,51.041962,-114.154785,Townhouse,1999.0,2026-01-01,Good,True,True,False,False,3,2.0,1263,2526.0,2,638000
+AB-00881,7232 Cedar St,Fort McMurray,Thickwood,56.727582,-111.44844,Detached,1990.0,2022-07-25,Good,False,False,False,False,3,3.5,1684,6038.0,2,593000
+AB-00882,4231 Cedar Ave,Edmonton,Westmount,53.544087,-113.44541,Townhouse,1966.0,2025-02-19,Poor,False,False,False,False,3,2.0,1899,2046.0,1,475000
+AB-00883,2789 Park Blvd,Edmonton,Laurel,53.554285,-113.447205,Duplex,1983.0,2025-07-01,Poor,True,False,True,False,3,2.5,1508,2035.0,2,376000
+AB-00884,6211 Park St,Airdrie,Kings Heights,51.260628,-113.969507,Townhouse,2003.0,2025-01-11,Good,True,True,False,False,3,2.5,1706,1754.0,1,548000
+AB-00885,745 Cedar Way,St. Albert,Oakmont,53.628406,-113.60339,Semi-Detached,1985.0,2024-12-04,Average,False,False,True,True,4,3.0,1777,2966.0,1,593000
+AB-00886,9781 River Blvd,Calgary,Kensington,51.077229,-114.077846,Semi-Detached,1989.0,2024-08-10,Excellent,False,False,False,False,4,3.0,951,2303.0,2,407000
+AB-00887,882 Maple Rd,Calgary,Beltline,50.973937,-114.076458,Semi-Detached,2010.0,2024-11-26,Poor,False,True,False,False,2,3.0,1142,2336.0,1,376000
+AB-00888,3947 Cedar Way,St. Albert,Oakmont,53.643239,-113.531406,Duplex,1996.0,2025-12-09,Good,False,True,False,True,3,2.0,1179,2752.0,1,394000
+AB-00889,6908 River Blvd,Red Deer,Anders,52.240832,-113.802054,Detached,1997.0,2025-12-23,Good,True,False,True,False,3,3.5,2471,6367.0,2,841000
+AB-00890,4524 River St,Red Deer,Clearview,52.289296,-113.788313,Detached,1990.0,2025-06-28,Fair,True,False,False,False,3,2.0,2033,7010.0,3,597000
+AB-00891,4200 Prairie St,Edmonton,Terwillegar,53.588331,-113.562523,Duplex,1984.0,2022-09-12,Average,False,False,True,True,3,1.5,1034,2654.0,0,319000
+AB-00892,6477 Cedar St,Edmonton,Oliver,53.518362,-113.512862,Semi-Detached,2004.0,2025-04-22,Poor,True,True,False,False,3,2.0,1587,2412.0,2,473000
+AB-00893,7601 Cedar Rd,St. Albert,Erin Ridge,53.65512,-113.684432,Condo,2023.0,2025-11-17,Average,False,True,True,False,2,2.0,635,,2,192000
+AB-00894,1672 Aspen Way,Edmonton,Laurel,53.539208,-113.514706,Townhouse,2019.0,2026-02-09,Fair,False,False,False,False,3,2.5,1192,2165.0,2,346000
+AB-00895,7073 Park St,St. Albert,Erin Ridge,53.64392,-113.644019,Townhouse,1999.0,2024-04-13,Average,False,False,False,False,2,2.5,913,2047.0,1,291000
+AB-00896,5152 Prairie Rd,Sherwood Park,Emerald Hills,53.546607,-113.310845,Detached,2006.0,2026-05-13,Fair,False,False,False,False,5,4.0,1442,6553.0,3,527000
+AB-00897,2127 River Way,Airdrie,Hillcrest,51.254016,-114.048713,Townhouse,2002.0,2026-03-20,Average,True,True,False,False,2,1.5,1323,2410.0,2,434000
+AB-00898,4974 Maple Blvd,Calgary,Kensington,51.10418,-114.089981,Duplex,1998.0,2026-04-28,Excellent,True,False,True,False,3,2.5,1283,3430.0,1,620000
+AB-00899,6016 Cedar Way,St. Albert,Lacombe Park,53.63748,-113.604313,Detached,2021.0,2025-12-28,Fair,False,False,False,True,5,3.0,1430,6105.0,1,542000
+AB-00900,8450 River Blvd,Edmonton,Windermere,53.473881,-113.508081,Townhouse,1981.0,2024-12-20,Good,False,False,False,False,2,2.0,934,2051.0,1,333000
+AB-00901,6727 Aspen Blvd,Calgary,Bridgeland,51.080579,-114.101325,Detached,1997.0,2023-08-19,Average,True,False,False,False,3,3.0,2036,7538.0,2,962000
+AB-00902,9606 Maple Ave,Edmonton,Westmount,53.513186,-113.519034,Detached,1976.0,2026-04-28,Average,True,True,True,True,3,3.0,1928,3301.0,2,711000
+AB-00903,325 Cedar St,Calgary,Bridgeland,50.986149,-114.05371,Detached,1974.0,2025-03-08,Good,True,False,False,False,3,2.0,1971,4901.0,2,925000
+AB-00904,5886 River Ave,Calgary,Inglewood,51.0654,-114.04129,Detached,1978.0,2025-09-01,Average,False,True,False,False,4,2.5,2052,4811.0,2,887000
+AB-00905,4676 River Blvd,St. Albert,Erin Ridge,53.672342,-113.652448,Duplex,1996.0,2025-02-09,Fair,False,False,False,False,3,2.0,1219,2993.0,0,396000
+AB-00906,3713 Cedar Ave,Red Deer,Anders,52.244563,-113.801153,Detached,1994.0,2025-10-11,Fair,False,False,False,False,5,3.5,1713,5238.0,3,446000
+AB-00907,8562 Park Blvd,Red Deer,Timberlands,52.272837,-113.76645,Detached,1994.0,2024-11-05,Good,False,True,False,False,5,3.0,1704,3889.0,2,590000
+AB-00908,9174 Cedar Way,Edmonton,Oliver,53.556435,-113.528742,Townhouse,2001.0,2025-02-01,Good,True,True,True,False,4,1.5,757,2821.0,2,295000
+AB-00909,7830 Aspen Ave,Edmonton,Terwillegar,53.553027,-113.521136,Townhouse,2005.0,2023-07-12,Fair,True,False,False,False,3,2.5,1394,1466.0,2,431000
+AB-00910,818 River Blvd,Calgary,Bridgeland,51.049804,-114.045562,Semi-Detached,1977.0,2026-03-26,Average,True,False,False,False,3,2.5,1344,2053.0,0,511000
+AB-00911,4694 Prairie Way,Edmonton,Summerside,53.527455,-113.456015,Detached,2012.0,2023-11-07,Fair,True,False,False,True,3,2.5,2318,5589.0,3,839000
+AB-00912,8120 River Blvd,Edmonton,Summerside,53.583902,-113.451375,Detached,1960.0,2024-02-27,Excellent,True,False,False,False,4,3.0,1544,4042.0,2,626000
+AB-00913,9466 Maple Rd,Calgary,Seton,51.013925,-114.056213,Condo,1972.0,2025-12-30,Excellent,True,True,True,False,2,1.5,1085,,0,356000
+AB-00914,3445 Park Rd,Edmonton,Terwillegar,53.532627,-113.469459,Semi-Detached,1975.0,2025-03-23,Good,True,True,False,False,3,2.0,1804,3107.0,0,692000
+AB-00915,3569 Maple Ave,Edmonton,Laurel,53.509055,-113.606213,Detached,1970.0,2025-03-20,Good,True,False,True,False,3,3.5,1649,5126.0,2,614000
+AB-00916,7061 River Way,Calgary,Seton,51.053872,-114.15963,Condo,1987.0,2025-03-10,Excellent,True,True,True,False,1,2.0,983,,1,336000
+AB-00917,1989 Prairie Ave,St. Albert,Erin Ridge,53.592488,-113.569107,Detached,1971.0,2023-10-17,Good,False,False,False,False,4,3.5,951,6843.0,2,402000
+AB-00918,8429 Aspen Way,Calgary,Mahogany,51.056963,-114.109895,Detached,1990.0,2023-10-05,Excellent,False,True,False,True,3,3.5,1544,3840.0,2,772000
+AB-00919,3712 Prairie St,Edmonton,Oliver,53.468034,-113.483599,Duplex,1977.0,2024-09-07,Good,False,False,False,True,2,2.0,1314,1553.0,2,426000
+AB-00920,496 Prairie St,St. Albert,Mission,53.67157,-113.637865,Detached,1961.0,2025-12-22,Good,False,False,False,True,4,3.5,1701,6035.0,1,621000
+AB-00921,5889 Park Blvd,Edmonton,Windermere,53.55391,-113.468965,Semi-Detached,1963.0,2025-01-08,Good,False,False,True,True,4,2.5,1700,2114.0,0,639000
+AB-00922,4834 Aspen Way,Sherwood Park,Davidson Creek,53.510461,-113.291205,Townhouse,1969.0,2025-07-22,Fair,True,True,False,True,3,2.0,865,1419.0,1,248000
+AB-00923,8552 Park Way,Calgary,Beltline,51.027285,-114.020165,Townhouse,1971.0,2025-05-18,Average,False,True,True,False,4,2.0,1724,1552.0,1,585000
+AB-00924,9152 Prairie St,Edmonton,Laurel,53.505601,-113.553791,Detached,2008.0,2026-04-15,Good,True,True,False,False,3,2.5,2520,5546.0,2,981000
+AB-00925,1094 Park St,Calgary,Seton,51.109428,-114.03396,Duplex,1983.0,2023-05-04,Fair,True,False,False,False,2,2.5,1635,3632.0,1,515000
+AB-00926,4179 Aspen Ave,St. Albert,Oakmont,53.660253,-113.606804,Townhouse,2020.0,2025-11-28,Average,False,True,True,False,3,3.0,1204,1221.0,0,424000
+AB-00927,2698 Maple Ave,Edmonton,Rutherford,53.591034,-113.435526,Townhouse,1999.0,2024-01-27,Average,True,False,False,False,3,1.5,1446,1961.0,1,432000
+AB-00928,6222 Park St,Edmonton,Terwillegar,53.529959,-113.459755,Detached,2009.0,2025-10-17,Fair,False,False,False,False,5,3.5,2330,5816.0,2,810000
+AB-00929,8789 Aspen St,Edmonton,Glenora,53.556103,-113.531832,Townhouse,1997.0,2026-02-17,Average,True,False,False,False,3,2.0,1613,1202.0,1,607000
+AB-00930,1042 Park Ave,Fort McMurray,Eagle Ridge,56.741424,-111.405006,Townhouse,2003.0,2025-10-30,Poor,True,False,False,False,2,2.5,1341,1002.0,1,334000
+AB-00931,9928 Cedar Way,Edmonton,Laurel,53.55994,-113.536891,Condo,1973.0,2026-02-02,Fair,False,False,True,False,1,2.0,850,,1,188000
+AB-00932,669 Prairie St,Calgary,Bridgeland,51.103408,-114.108133,Semi-Detached,1965.0,2022-09-21,Good,False,False,False,False,2,2.5,1412,3885.0,2,577000
+AB-00933,535 Maple Way,Edmonton,Rutherford,53.512543,-113.554663,Duplex,1983.0,2025-04-10,Average,True,True,False,False,3,2.5,842,1964.0,0,231000
+AB-00934,6907 Maple Way,Edmonton,Rutherford,53.559379,-113.462729,Detached,1975.0,2025-05-03,Excellent,True,False,True,True,4,3.0,2135,4943.0,2,867000
+AB-00935,3800 River Blvd,Edmonton,Windermere,53.504555,-113.446198,Duplex,1973.0,2025-06-22,Average,False,False,False,False,4,2.5,1634,2751.0,1,505000
+AB-00936,5632 Cedar St,Edmonton,Oliver,53.539873,-113.534876,Condo,,2026-05-02,Average,False,False,True,False,2,1.0,644,,0,193000
+AB-00937,7123 Cedar St,Calgary,Beltline,51.013276,-114.093847,Duplex,2023.0,2026-03-02,Excellent,True,True,False,True,3,2.5,1546,3043.0,1,812000
+AB-00938,1548 Maple Blvd,Edmonton,Summerside,53.618727,-113.440694,Condo,2010.0,2025-02-27,Good,True,False,True,False,1,2.0,959,,0,334000
+AB-00939,1882 Cedar Blvd,St. Albert,Oakmont,53.657235,-113.62799,Condo,1983.0,2024-11-11,Average,False,True,True,False,2,2.0,544,,1,151000
+AB-00940,5713 Park Ave,Edmonton,Glenora,53.563629,-113.533331,Detached,2017.0,2024-07-25,Good,False,False,False,False,4,3.0,2025,6334.0,2,1050000
+AB-00941,878 Aspen Rd,Edmonton,Laurel,53.535483,-113.503649,Townhouse,1962.0,2022-10-23,Good,False,False,True,False,2,1.5,1190,1908.0,1,346000
+AB-00942,9483 Cedar Rd,Edmonton,Westmount,53.614182,-113.575749,Condo,2013.0,2024-08-20,Good,False,False,False,False,2,1.0,621,,1,199000
+AB-00943,9418 River Ave,Fort McMurray,Abasand,56.723183,-111.381583,Detached,,2026-02-23,Good,True,False,False,False,4,2.0,2116,5901.0,2,816000
+AB-00944,2414 Cedar Blvd,Sherwood Park,Emerald Hills,53.589961,-113.257929,Condo,1988.0,2026-04-13,Average,True,False,False,False,3,1.0,799,,1,226000
+AB-00945,5170 Aspen Ave,Calgary,Kensington,51.034184,-114.117152,Semi-Detached,1982.0,2025-10-26,Good,True,False,False,False,3,3.0,1260,3136.0,1,530000
+AB-00946,5747 Cedar St,Leduc,West Haven,53.221943,-113.471943,Detached,1996.0,2022-06-28,Good,False,False,True,False,5,3.5,1708,5986.0,2,580000
+AB-00947,9121 Cedar Way,St. Albert,Mission,53.610528,-113.587239,Townhouse,1994.0,2025-04-18,Fair,False,False,True,False,3,2.5,1404,2195.0,1,371000
+AB-00948,2069 Park Ave,Sherwood Park,Summerwood,53.520326,-113.309163,Townhouse,2000.0,2025-04-26,Average,False,True,False,False,3,1.5,1713,1807.0,0,558000
+AB-00949,8519 Cedar Way,Calgary,Beltline,51.018472,-114.081869,Condo,1960.0,2025-05-06,Poor,True,True,False,False,2,1.0,721,,1,177000
+AB-00950,1184 Cedar Way,Calgary,Kensington,51.073807,-114.062474,Detached,1963.0,2024-08-14,Fair,True,False,False,False,3,3.0,2769,4520.0,2,1000000
+AB-00951,2453 Maple Rd,Calgary,Auburn Bay,51.038111,-114.01821,Detached,2016.0,2025-08-26,Good,True,False,False,False,3,3.0,1947,6140.0,2,972000
+AB-00952,9869 River Rd,Calgary,Beltline,51.006906,-114.099511,Townhouse,2012.0,2026-03-06,Good,False,False,False,False,3,1.5,1579,1570.0,1,603000
+AB-00953,8684 Prairie Way,Calgary,Beltline,50.968695,-114.072265,Condo,1993.0,2025-11-21,Poor,True,False,True,False,2,2.0,970,,0,273000
+AB-00954,1396 Cedar St,Airdrie,Bayside,51.306462,-113.955441,Townhouse,1973.0,2025-12-22,Average,False,True,True,False,2,2.0,1280,2445.0,2,351000
+AB-00955,5751 Cedar St,Edmonton,Rutherford,53.592009,-113.542946,Detached,2023.0,2025-03-07,Average,True,False,True,False,4,3.0,2371,7162.0,1,926000
+AB-00956,1648 Cedar Rd,Edmonton,Oliver,53.563224,-113.462914,Condo,2025.0,2026-04-15,Fair,True,True,True,True,1,1.0,774,,0,244000
+AB-00957,3158 Maple St,Calgary,Kensington,50.974003,-114.007012,Condo,2025.0,2024-08-23,Average,True,False,False,False,3,2.0,864,,1,316000
+AB-00958,8149 Prairie Way,Edmonton,Summerside,53.586211,-113.621488,Detached,2003.0,2025-03-29,Good,False,True,False,False,5,3.0,1975,4828.0,2,842000
+AB-00959,475 Cedar Way,Edmonton,Oliver,53.606518,-113.53373,Semi-Detached,2017.0,2024-08-26,Excellent,False,False,False,False,4,2.0,1518,2837.0,1,635000
+AB-00960,353 Park St,Red Deer,Anders,52.312253,-113.841224,Condo,1978.0,2026-01-12,Good,True,False,True,False,2,2.0,928,,1,213000
+AB-00961,7428 Maple Rd,Calgary,Mahogany,50.990627,-114.096169,Detached,2002.0,2026-01-06,Average,False,False,False,False,4,3.5,2443,5710.0,2,1044000
+AB-00962,8853 Prairie Rd,Fort McMurray,Thickwood,56.624701,-111.355455,Detached,1965.0,2024-09-08,Average,False,False,False,True,4,3.0,2326,4384.0,2,647000
+AB-00963,8984 Cedar Way,Edmonton,Glenora,53.446969,-113.457171,Condo,1989.0,2025-09-25,Good,False,False,True,False,2,2.0,450,,1,156000
+AB-00964,686 Prairie Blvd,Calgary,Kensington,51.067006,-113.999166,Townhouse,2018.0,2025-12-07,Excellent,True,False,False,False,3,2.0,1293,2494.0,1,551000
+AB-00965,7659 Cedar Way,Calgary,Mahogany,51.036672,-114.083088,Detached,1968.0,2025-05-11,Good,False,False,False,False,4,2.5,1934,3259.0,2,777000
+AB-00966,8818 Park Way,Calgary,Mahogany,51.066519,-114.040245,Condo,1964.0,2024-08-19,Good,True,False,True,True,1,1.0,860,,0,311000
+AB-00967,9425 Maple St,Edmonton,Glenora,53.554713,-113.529903,Townhouse,2002.0,2025-12-19,Good,True,False,False,False,4,2.5,1271,1329.0,1,546000
+AB-00968,4919 River Ave,Calgary,Aspen Woods,51.028204,-114.039571,Detached,1977.0,2026-01-23,Average,False,False,False,False,4,3.0,1822,4521.0,2,822000
+AB-00969,2793 Park St,Sherwood Park,Emerald Hills,53.599487,-113.334228,Condo,1973.0,2025-07-08,Average,True,False,False,False,1,2.0,708,,2,187000
+AB-00970,3741 Park Way,Edmonton,Laurel,53.562909,-113.54128,Detached,1988.0,2024-07-06,Good,True,True,False,False,6,2.5,2243,3242.0,3,909000
+AB-00971,9253 Park St,Calgary,Inglewood,51.083404,-114.033135,Detached,2009.0,2025-01-25,Excellent,False,False,True,True,3,3.0,1516,6031.0,2,849000
+AB-00972,9914 Cedar Ave,Edmonton,Windermere,53.525925,-113.427603,Condo,1974.0,2024-12-21,Excellent,False,False,True,False,3,2.0,799,,0,257000
+AB-00973,3414 Maple Ave,Edmonton,Laurel,53.518235,-113.536553,Detached,2001.0,2025-05-30,Good,False,True,False,False,4,2.5,1483,5998.0,2,570000
+AB-00974,2552 Prairie St,Airdrie,Coopers Crossing,51.300208,-113.971591,Detached,1994.0,2026-03-11,Excellent,True,False,False,False,4,3.5,1732,5100.0,1,697000
+AB-00975,210 Park Rd,Airdrie,Coopers Crossing,51.309556,-113.957134,Townhouse,1976.0,2024-12-29,Good,False,False,True,False,3,2.5,1302,,1,364000
+AB-00976,9661 Aspen Blvd,Edmonton,Laurel,53.495518,-113.463818,Townhouse,2001.0,2025-03-05,Good,False,True,False,False,4,2.5,1232,1303.0,1,413000
+AB-00977,7013 Park Rd,Red Deer,Lancaster,52.317343,-113.832985,Detached,2003.0,2024-09-18,Good,True,False,True,False,5,3.0,2209,5045.0,2,812000
+AB-00978,802 River Rd,Edmonton,Windermere,53.566839,-113.475366,Duplex,1960.0,2025-10-16,Good,False,False,True,False,3,2.0,1439,2374.0,0,498000
+AB-00979,8648 River Blvd,Red Deer,Clearview,52.351693,-113.757908,Duplex,2003.0,2025-12-04,Average,False,False,True,False,4,1.5,1472,2773.0,0,405000
+AB-00980,7326 Prairie Rd,Calgary,Inglewood,51.06283,-114.070721,Townhouse,1988.0,2026-01-06,Average,False,True,False,False,4,2.0,1377,2303.0,1,485000
+AB-00981,1834 Prairie Ave,Red Deer,West Park,52.275471,-113.833181,Detached,1982.0,2026-04-05,Good,True,False,False,False,5,2.0,1913,1395.0,2,637000
+AB-00982,2723 River Way,Calgary,Kensington,51.042954,-114.118975,Detached,2013.0,2026-05-15,Average,False,False,False,False,5,3.5,1958,3773.0,2,923000
+AB-00983,4452 Cedar Ave,Red Deer,Timberlands,52.240419,-113.80967,Duplex,2006.0,2024-11-01,Average,False,False,False,False,4,2.0,1531,3470.0,1,378000
+AB-00984,3076 Prairie Blvd,St. Albert,Mission,53.647853,-113.625527,Detached,1966.0,2022-08-18,Average,False,True,False,False,4,2.5,2265,5822.0,1,808000
+AB-00985,2926 River Way,St. Albert,Lacombe Park,53.620522,-113.619361,Condo,1963.0,2022-09-18,Average,True,False,True,True,2,2.0,1202,,2,315000
+AB-00986,2828 Park Rd,Calgary,Seton,51.083338,-114.083433,Townhouse,1978.0,2025-10-01,Average,False,False,False,False,3,2.5,1132,1848.0,0,317000
+AB-00987,6540 Park Ave,Airdrie,Bayside,51.302024,-114.081777,Detached,2023.0,2022-11-02,Average,True,False,False,False,4,3.0,1766,4558.0,2,714000
+AB-00988,9455 River Blvd,Calgary,Kensington,51.00025,-114.041802,Detached,2016.0,2026-04-13,Poor,True,False,False,False,4,3.5,1650,6066.0,3,740000
+AB-00989,560 Prairie St,Airdrie,Coopers Crossing,51.300434,-114.067638,Detached,1991.0,2025-05-31,Fair,True,False,False,False,5,3.5,2122,4006.0,1,644000
+AB-00990,8388 Aspen Blvd,Edmonton,Glenora,53.546631,-113.537666,Detached,2019.0,2025-11-05,Average,False,False,False,False,4,3.0,2413,6156.0,3,1163000
+AB-00991,4656 Park Ave,Calgary,Bridgeland,51.072092,-114.07299,Townhouse,1965.0,2022-08-18,Average,True,False,False,False,3,1.5,1354,900.0,2,494000
+AB-00992,2544 Prairie Way,Calgary,Seton,50.933515,-114.059341,Condo,1971.0,2024-10-16,Poor,False,False,True,False,1,1.0,609,,1,139000
+AB-00993,9823 Cedar St,Edmonton,Summerside,53.642533,-113.507552,Detached,2020.0,2026-02-11,Fair,True,True,True,False,5,4.0,1189,4025.0,2,514000
+AB-00994,1562 Maple St,Edmonton,Windermere,53.472939,-113.501462,Condo,1977.0,2026-02-21,Fair,True,True,True,False,3,2.0,706,,0,209000
+AB-00995,3607 Maple Rd,Calgary,Seton,51.053949,-114.078655,Townhouse,1985.0,2025-03-24,Excellent,True,True,True,False,4,2.5,1250,1742.0,2,447000
+AB-00996,472 Aspen Blvd,Red Deer,West Park,52.196337,-113.777937,Duplex,1972.0,2026-01-16,Fair,False,False,False,False,2,2.5,1586,1435.0,1,350000
+AB-00997,5833 Prairie Blvd,Edmonton,Terwillegar,53.521323,-113.505624,Detached,2006.0,2026-04-02,Excellent,False,False,True,False,3,3.5,1924,3525.0,2,801000
+AB-00998,3849 Cedar St,Red Deer,Lancaster,52.318056,-113.830075,Townhouse,1962.0,2025-11-25,Good,False,False,True,False,2,2.5,1165,2126.0,1,291000
+AB-00999,7994 Maple Blvd,Edmonton,Oliver,53.517962,-113.479969,Detached,1979.0,2024-09-18,Poor,True,True,False,True,3,4.0,1088,5991.0,3,399000
+AB-01000,2229 River Rd,Calgary,Beltline,51.066666,-114.084478,Semi-Detached,1962.0,2026-02-19,Average,True,True,False,False,3,1.5,1946,2500.0,1,682000
+AB-01001,6050 Cedar Blvd,Red Deer,Clearview,52.267607,-113.814019,Detached,1975.0,2024-08-22,Poor,False,False,False,False,5,2.5,1867,4185.0,2,458000
+AB-01002,2342 Park Blvd,Calgary,Seton,51.077023,-114.119178,Detached,2021.0,2026-02-15,Good,True,True,True,False,4,2.5,1988,6157.0,2,1016000
+AB-01003,4624 Maple Blvd,Edmonton,Summerside,53.567791,-113.579809,Detached,1972.0,2024-12-27,Average,True,True,True,False,5,3.5,1416,5905.0,2,564000
+AB-01004,3302 Aspen St,Calgary,Kensington,51.09198,-114.101316,Detached,1967.0,2026-02-24,Average,True,False,True,True,3,3.5,1739,4289.0,3,727000
+AB-01005,3320 Maple St,Edmonton,Terwillegar,53.541142,-113.441313,Detached,2011.0,2025-12-04,Average,True,False,False,False,4,2.5,1984,6022.0,2,865000
+AB-01006,3382 Aspen Blvd,Red Deer,Lancaster,52.248436,-113.789629,Detached,1985.0,2025-03-15,Excellent,False,False,False,False,3,2.0,969,4564.0,1,284000
+AB-01007,1043 Park Blvd,Edmonton,Laurel,53.551311,-113.440629,Townhouse,2020.0,2026-02-26,Poor,True,False,False,False,3,2.5,1987,2065.0,1,611000
+AB-01008,4403 Aspen Ave,Sherwood Park,Summerwood,53.545774,-113.302069,Semi-Detached,1964.0,2024-11-20,Poor,True,False,False,False,3,2.5,1811,3959.0,2,468000
+AB-01009,792 Park Way,Calgary,Aspen Woods,50.997431,-114.075314,Townhouse,2000.0,2026-05-01,Good,False,False,False,False,3,2.5,1143,1456.0,1,445000
+AB-01010,9771 Cedar St,Airdrie,Reunion,51.296843,-114.037896,Duplex,,2025-05-13,Average,False,False,True,False,3,2.0,1503,2774.0,0,460000
+AB-01011,2954 Park Blvd,Airdrie,Kings Heights,51.29985,-114.04176,Detached,1994.0,2024-07-03,Average,False,False,False,False,4,2.0,2562,3706.0,2,789000
+AB-01012,2386 Maple Ave,Airdrie,Hillcrest,51.267852,-113.970848,Semi-Detached,1981.0,2024-12-28,Good,False,False,False,True,2,2.5,1147,3545.0,2,389000
+AB-01013,9041 Maple Ave,Calgary,Mahogany,51.061338,-114.04344,Townhouse,,2024-06-20,Fair,False,False,False,False,3,2.5,1693,1373.0,1,504000
+AB-01014,8906 Aspen Way,St. Albert,Mission,53.686833,-113.615363,Condo,1962.0,2022-08-01,Good,False,False,False,False,3,1.0,680,,0,187000
+AB-01015,3919 Aspen Blvd,Airdrie,Bayside,51.271769,-114.019981,Detached,,2023-05-23,Average,False,True,True,False,3,3.5,1580,3736.0,2,550000
+AB-01016,6330 Aspen St,Edmonton,Glenora,53.506898,-113.463609,Detached,1983.0,2025-04-22,Good,True,False,True,False,4,3.0,1945,3173.0,2,919000
+AB-01017,6524 Aspen Blvd,Leduc,West Haven,53.223441,-113.566097,Detached,2024.0,2026-04-18,Fair,True,False,True,True,3,3.0,1773,3978.0,2,636000
+AB-01018,4754 Prairie Way,Leduc,Meadowview,53.219028,-113.537247,Duplex,1991.0,2025-07-02,Average,False,False,False,False,3,2.0,1709,2452.0,0,421000
+AB-01019,6265 Cedar Way,Sherwood Park,Nottingham,53.570149,-113.288591,Detached,1996.0,2025-09-10,Good,False,False,True,False,4,3.5,1716,6790.0,3,657000
+AB-01020,4083 Prairie Blvd,Edmonton,Westmount,53.532953,-113.433,Detached,2005.0,2024-11-26,Average,True,False,False,False,4,2.0,2045,6475.0,1,916000
+AB-01021,6574 Cedar Ave,Edmonton,Rutherford,53.566659,-113.430162,Semi-Detached,1977.0,2022-12-17,Excellent,False,False,False,False,3,2.5,2049,3444.0,2,694000
+AB-01022,9925 Prairie Ave,Edmonton,Terwillegar,53.554449,-113.551875,Detached,1991.0,2023-11-12,Average,False,True,True,False,6,2.0,1724,4661.0,3,699000
+AB-01023,5546 Prairie St,Leduc,Black Stone,53.313107,-113.498793,Detached,2025.0,2023-06-06,Fair,False,True,True,False,3,4.0,2443,2570.0,2,795000
+AB-01024,9393 Cedar Blvd,Edmonton,Windermere,53.58915,-113.449579,Detached,1995.0,2025-02-12,Poor,False,False,False,False,4,3.5,2194,5203.0,2,720000
+AB-01025,146 Cedar Blvd,St. Albert,Lacombe Park,53.633399,-113.658368,Townhouse,1965.0,2026-01-11,Average,True,True,True,False,3,2.5,1496,1697.0,1,497000
+AB-01026,8921 Aspen Ave,Fort McMurray,Thickwood,56.700808,-111.439057,Condo,1993.0,2024-10-21,Average,True,False,False,False,2,2.0,1078,,1,259000
+AB-01027,907 Maple St,Calgary,Aspen Woods,51.08856,-114.036354,Townhouse,2000.0,2024-10-03,Good,False,True,False,False,4,2.0,1458,1920.0,1,699000
+AB-01028,1113 River Way,Calgary,Inglewood,50.996075,-114.080706,Condo,2014.0,2024-11-17,Good,False,True,True,False,1,1.0,921,,1,383000
+AB-01029,905 Maple Way,Red Deer,Timberlands,52.256944,-113.857542,Detached,2008.0,2024-10-30,Average,True,True,False,False,4,2.5,1926,5803.0,2,670000
+AB-01030,6824 Maple Rd,Edmonton,Terwillegar,53.523151,-113.504407,Condo,2015.0,2025-09-13,Average,True,False,False,False,3,1.5,917,,0,274000
+AB-01031,3716 River Way,Leduc,Tribute,53.310246,-113.480506,Duplex,1999.0,2026-05-10,Good,False,True,False,False,3,3.0,1763,2593.0,1,528000
+AB-01032,6596 Prairie Rd,Calgary,Inglewood,50.993179,-114.133723,Duplex,1997.0,2025-06-18,Fair,True,True,False,False,4,2.0,1167,1339.0,1,462000
+AB-01033,7937 Prairie Blvd,Edmonton,Oliver,53.468385,-113.547708,Detached,2017.0,2026-01-22,Average,False,False,False,True,3,2.5,2002,5667.0,2,880000
+AB-01034,8571 Prairie Blvd,Edmonton,Windermere,53.565869,-113.420189,Detached,1992.0,2024-06-02,Average,False,False,True,False,5,3.5,2079,5023.0,2,853000
+AB-01035,9857 Park Blvd,Calgary,Inglewood,51.128424,-114.166371,Semi-Detached,1970.0,2024-05-26,Average,False,True,True,False,3,2.5,1570,3354.0,0,608000
+AB-01036,8763 Park Ave,Sherwood Park,Emerald Hills,53.518192,-113.297903,Townhouse,1981.0,2025-02-03,Fair,True,False,False,False,3,1.5,1321,2083.0,0,367000
+AB-01037,8522 River Rd,Leduc,West Haven,53.229718,-113.568369,Detached,2007.0,2024-07-21,Excellent,False,False,False,False,4,4.0,3350,6169.0,2,1220000
+AB-01038,7754 Park Ave,Calgary,Aspen Woods,51.070349,-114.12924,Detached,2007.0,2024-03-22,Average,True,False,True,False,4,3.0,1141,4803.0,2,655000
+AB-01039,6623 River Ave,Calgary,Auburn Bay,51.039746,-113.999976,Townhouse,2016.0,2024-08-17,Excellent,False,False,False,True,3,2.5,1471,1432.0,0,621000
+AB-01040,8994 Maple St,Leduc,West Haven,53.262081,-113.572329,Semi-Detached,2005.0,2025-05-08,Good,False,False,True,False,3,3.0,1552,3009.0,2,435000
+AB-01041,4470 Aspen Ave,Edmonton,Rutherford,53.560035,-113.496406,Townhouse,2024.0,2025-10-16,Good,False,True,False,False,3,2.0,1860,1877.0,1,611000
+AB-01042,1197 Cedar Rd,St. Albert,Erin Ridge,53.710198,-113.681153,Semi-Detached,1996.0,2023-08-28,Average,True,False,False,False,3,2.0,1494,1920.0,1,467000
+AB-01043,9151 Maple St,Calgary,Bridgeland,51.045208,-114.127526,Duplex,1987.0,2024-08-11,Average,False,False,False,False,4,2.5,1326,3701.0,1,521000
+AB-01044,9404 Aspen Blvd,Calgary,Mahogany,51.069751,-113.964154,Semi-Detached,2009.0,2022-12-16,Good,False,True,False,False,4,2.5,1769,3630.0,1,842000
+AB-01045,4258 Cedar Ave,Edmonton,Laurel,53.559511,-113.471341,Semi-Detached,2017.0,2026-03-09,Good,False,False,False,False,3,3.0,1343,4499.0,0,442000
+AB-01046,3957 River Way,Red Deer,Timberlands,52.297082,-113.763001,Detached,2017.0,2026-01-05,Fair,False,False,False,False,5,3.5,1873,4224.0,2,497000
+AB-01047,9571 Aspen Ave,Calgary,Mahogany,51.083965,-114.080301,Condo,2025.0,2026-02-04,Excellent,True,True,True,False,2,2.0,845,,1,380000
+AB-01048,9879 Prairie Way,Edmonton,Windermere,53.536604,-113.548546,Townhouse,1963.0,2022-07-17,Average,False,False,True,True,3,2.0,1437,1970.0,0,429000
+AB-01049,4097 Prairie St,Edmonton,Laurel,53.541252,-113.512875,Detached,1997.0,2026-04-21,Excellent,False,True,False,False,3,2.0,2269,5223.0,2,948000
+AB-01050,3353 Prairie St,Calgary,Mahogany,50.997763,-114.038436,Detached,1972.0,2025-04-21,Poor,False,True,False,False,4,3.5,2421,4797.0,2,821000
+AB-01051,6488 Cedar Rd,Calgary,Inglewood,51.04398,-114.058887,Semi-Detached,2015.0,2026-05-26,Average,False,False,False,False,2,1.5,1559,4486.0,2,611000
+AB-01052,9790 Park Way,Red Deer,Timberlands,52.289433,-113.881192,Condo,2011.0,2024-12-20,Good,False,False,False,False,1,1.0,801,,0,203000
+AB-01053,7622 Maple Way,Calgary,Bridgeland,51.081001,-114.05685,Detached,2011.0,2025-03-22,Fair,False,False,False,True,3,3.0,1995,5249.0,2,957000
+AB-01054,7530 Maple Way,Calgary,Auburn Bay,51.047656,-114.120016,Duplex,2014.0,2025-05-18,Average,True,False,True,False,2,1.5,1171,2895.0,2,475000
+AB-01055,5059 Maple Way,Edmonton,Laurel,53.563776,-113.489997,Semi-Detached,1983.0,2022-11-01,Average,True,True,True,False,4,2.5,2247,3186.0,1,706000
+AB-01056,2360 Cedar Rd,Calgary,Seton,51.019998,-114.134538,Condo,1971.0,2025-12-01,Good,False,True,False,False,1,1.0,450,,0,142000
+AB-01057,2408 Aspen Blvd,Calgary,Aspen Woods,51.07582,-114.122379,Detached,1994.0,2024-10-15,Average,True,True,False,False,5,3.0,1898,4784.0,1,941000
+AB-01058,843 Park Blvd,Leduc,Black Stone,53.276959,-113.538125,Detached,1997.0,2026-01-30,Average,True,False,True,False,3,3.5,1980,6434.0,2,688000
+AB-01059,5706 Cedar Rd,Calgary,Beltline,51.008651,-114.069826,Townhouse,2011.0,2023-02-24,Average,True,False,True,False,2,2.5,1450,1900.0,0,511000
+AB-01060,1557 Cedar Way,Fort McMurray,Beacon Hill,56.815578,-111.380795,Detached,1995.0,2024-12-26,Poor,True,False,False,False,4,2.5,1986,4623.0,2,530000
+AB-01061,1179 Maple Rd,Edmonton,Rutherford,53.604668,-113.520325,Detached,2007.0,2022-08-22,Poor,False,False,True,False,5,3.0,1889,5823.0,3,558000
+AB-01062,7102 Maple St,Fort McMurray,Beacon Hill,56.711435,-111.390593,Detached,1971.0,2025-10-19,Average,False,False,False,False,4,3.5,2317,3543.0,3,667000
+AB-01063,8027 Park St,Edmonton,Glenora,53.536519,-113.494442,Detached,1961.0,2022-10-30,Poor,False,False,True,False,3,3.0,2260,4379.0,2,776000
+AB-01064,6852 Park Ave,Sherwood Park,Emerald Hills,53.570734,-113.278031,Duplex,1987.0,2025-08-27,Good,False,False,False,False,3,2.0,1477,3105.0,1,479000
+AB-01065,1258 Maple Rd,Airdrie,Hillcrest,51.293458,-113.992822,Condo,1970.0,2026-01-02,Average,True,False,False,False,3,1.0,501,,0,123000
+AB-01066,8685 River Rd,Edmonton,Westmount,53.523034,-113.519635,Condo,2006.0,2024-01-05,Average,False,True,False,False,1,2.0,697,,1,230000
+AB-01067,8979 Aspen Ave,Calgary,Inglewood,51.076479,-114.066343,Semi-Detached,1992.0,2025-12-09,Good,True,True,False,False,3,2.0,1860,2874.0,2,816000
+AB-01068,4633 Prairie St,Calgary,Aspen Woods,51.056095,-113.969488,Detached,2017.0,2025-03-06,Good,False,False,False,False,3,2.0,1854,6095.0,2,996000
+AB-01069,8183 Prairie Rd,Edmonton,Oliver,53.515675,-113.494289,Townhouse,2001.0,2024-07-26,Fair,False,True,True,False,2,1.5,1479,1535.0,2,476000
+AB-01070,4932 Prairie Blvd,Fort McMurray,Abasand,56.687144,-111.366715,Duplex,1962.0,2026-04-14,Fair,False,True,False,False,4,1.5,2267,2671.0,2,491000
+AB-01071,1454 Prairie Ave,Calgary,Bridgeland,51.072511,-114.028087,Detached,1982.0,2025-07-22,Excellent,False,False,False,False,5,2.5,1908,5219.0,3,896000
+AB-01072,3099 Park Way,Edmonton,Rutherford,53.506618,-113.479855,Duplex,2003.0,2024-08-29,Average,False,False,False,True,3,1.5,1407,2263.0,1,395000
+AB-01073,9764 Prairie Rd,Sherwood Park,Summerwood,53.560439,-113.214636,Duplex,1966.0,2025-10-15,Excellent,False,False,True,False,3,2.5,1333,2103.0,1,394000
+AB-01074,5805 River St,Edmonton,Summerside,53.541729,-113.493094,Condo,1975.0,2023-03-28,Poor,True,False,False,False,2,1.0,450,,1,104000
+AB-01075,2955 Aspen Rd,Edmonton,Terwillegar,53.558963,-113.446981,Townhouse,2003.0,2025-10-02,Good,False,False,True,True,4,3.0,1238,1699.0,2,407000
+AB-01076,7120 Aspen St,Calgary,Beltline,51.012571,-113.993997,Detached,1962.0,2025-05-08,Average,False,False,True,False,6,3.0,1783,5456.0,2,669000
+AB-01077,9443 Park Rd,Edmonton,Westmount,53.525405,-113.576896,Semi-Detached,,2025-05-21,Good,False,True,False,False,3,1.5,1537,3644.0,2,587000
+AB-01078,3581 Cedar Rd,St. Albert,Lacombe Park,53.600875,-113.583945,Detached,1961.0,2025-05-04,Fair,True,True,False,False,3,2.5,2413,4795.0,2,803000
+AB-01079,1660 Maple St,Edmonton,Oliver,53.573076,-113.386623,Townhouse,1988.0,2026-05-07,Average,False,False,False,False,3,2.5,1222,1874.0,0,379000
+AB-01080,328 River St,Edmonton,Summerside,53.510195,-113.490995,Detached,2025.0,2025-05-02,Average,False,False,False,True,5,3.0,2471,4592.0,3,1027000
+AB-01081,9366 River St,Leduc,Black Stone,53.253265,-113.531331,Condo,2017.0,2024-10-09,Average,False,False,False,False,3,1.0,612,,1,156000
+AB-01082,5895 Aspen Ave,Sherwood Park,Nottingham,53.523455,-113.318826,Townhouse,1978.0,2025-02-20,Average,False,False,False,False,4,2.5,1476,1945.0,2,386000
+AB-01083,7168 Prairie Ave,Leduc,Meadowview,53.25153,-113.591096,Detached,,2024-09-24,Average,False,True,False,False,4,2.5,2753,5216.0,2,954000
+AB-01084,1936 Aspen Blvd,St. Albert,Riverside,53.645054,-113.59859,Townhouse,1972.0,2025-05-24,Average,True,False,False,False,3,1.5,1081,1585.0,1,326000
+AB-01085,5665 River Blvd,Calgary,Auburn Bay,51.007739,-114.083463,Townhouse,1965.0,2024-06-22,Good,False,True,False,False,3,2.5,1801,2053.0,0,599000
+AB-01086,5195 Maple St,Airdrie,Hillcrest,51.242777,-113.960284,Condo,2002.0,2024-01-19,Excellent,True,False,True,True,2,1.0,1305,,1,423000
+AB-01087,1552 Park Rd,Calgary,Aspen Woods,51.015215,-114.038111,Semi-Detached,1979.0,2025-08-27,Fair,False,False,False,False,3,3.0,1801,3118.0,1,698000
+AB-01088,2173 Prairie St,St. Albert,Erin Ridge,53.609506,-113.695745,Detached,1985.0,2024-08-28,Good,True,True,False,False,6,3.0,2387,5184.0,2,1037000
+AB-01089,3277 Maple Ave,Edmonton,Oliver,53.52725,-113.514804,Detached,1973.0,2025-04-07,Average,True,True,True,False,4,3.0,2140,4041.0,3,758000
+AB-01090,6618 Aspen St,Red Deer,Clearview,52.253663,-113.844441,Detached,2018.0,2025-10-22,Average,True,True,True,False,5,2.5,1582,3839.0,2,517000
+AB-01091,769 River Way,Calgary,Inglewood,51.017434,-114.059641,Townhouse,1998.0,2024-12-12,Average,True,False,True,False,3,3.0,1855,2426.0,0,707000
+AB-01092,3426 Maple Blvd,Fort McMurray,Beacon Hill,56.764924,-111.403656,Duplex,1970.0,2025-01-11,Good,True,False,False,False,2,2.0,1783,2226.0,0,450000
+AB-01093,1478 Aspen Way,Calgary,Inglewood,51.135277,-114.125888,Semi-Detached,2010.0,2025-06-03,Excellent,True,False,True,False,3,3.0,1767,4232.0,1,890000
+AB-01094,9398 Cedar Rd,Edmonton,Glenora,53.494633,-113.550625,Semi-Detached,1984.0,2024-08-15,Good,False,True,True,False,3,3.0,1427,3826.0,2,596000
+AB-01095,2351 Prairie Rd,Calgary,Inglewood,51.022262,-114.042243,Condo,1987.0,2022-11-18,Good,False,True,True,False,1,1.0,867,,0,329000
+AB-01096,6777 River Ave,Sherwood Park,Summerwood,53.555754,-113.35046,Semi-Detached,1972.0,2024-06-10,Good,True,False,False,False,3,3.0,1729,4495.0,2,627000
+AB-01097,3158 Park St,Edmonton,Laurel,53.601181,-113.473249,Duplex,1996.0,2025-10-10,Excellent,True,True,True,False,4,2.5,1280,3437.0,2,464000
+AB-01098,6225 Prairie Rd,Sherwood Park,Emerald Hills,53.535281,-113.292119,Detached,2023.0,2025-02-15,Average,False,False,False,False,5,3.0,1536,6787.0,2,654000
+AB-01099,6006 River Blvd,Calgary,Auburn Bay,51.037397,-114.08597,Detached,2002.0,2025-02-10,Excellent,False,True,False,False,5,3.5,2263,5534.0,3,1157000
+AB-01100,4778 Park St,St. Albert,Mission,53.621494,-113.576905,Condo,1970.0,2026-05-31,Average,False,False,False,False,1,1.0,971,,0,242000
+AB-01101,6605 Park Blvd,Edmonton,Windermere,53.511844,-113.506058,Duplex,2007.0,2025-10-06,Average,True,False,True,False,2,2.0,1211,2268.0,0,490000
+AB-01102,4438 Prairie Way,St. Albert,Riverside,53.637097,-113.655151,Condo,1996.0,2025-09-28,Fair,False,True,False,True,1,1.0,672,,2,190000
+AB-01103,396 Maple Way,St. Albert,Oakmont,53.62372,-113.601287,Detached,2018.0,2026-02-04,Average,False,False,False,False,5,3.0,1270,4935.0,2,520000
+AB-01104,3526 Park Rd,Airdrie,Coopers Crossing,51.299061,-114.005472,Detached,1995.0,2025-12-10,Average,False,False,False,False,4,2.0,1410,6501.0,3,501000
+AB-01105,6832 Park Ave,Sherwood Park,Nottingham,53.557846,-113.37431,Detached,1963.0,2025-03-10,Good,False,True,False,False,4,3.0,1717,5461.0,2,624000
+AB-01106,5950 River Blvd,Calgary,Bridgeland,51.086466,-114.106628,Semi-Detached,1965.0,2024-04-05,Excellent,True,False,True,False,2,3.0,1473,3404.0,1,611000
+AB-01107,3152 Park Blvd,Fort McMurray,Timberlea,56.714548,-111.344314,Detached,1976.0,2025-11-21,Fair,True,True,True,False,3,3.5,1719,4238.0,2,508000
+AB-01108,2794 Maple Ave,Red Deer,Clearview,52.248453,-113.826027,Duplex,1971.0,2025-05-17,Average,False,False,True,False,3,2.0,1569,1608.0,2,413000
+AB-01109,6219 Aspen Rd,Edmonton,Glenora,53.476139,-113.492269,Townhouse,1991.0,2024-08-02,Average,False,False,True,False,2,2.5,1281,900.0,2,478000
+AB-01110,6057 Cedar Ave,Red Deer,Anders,52.308779,-113.835482,Detached,1982.0,2025-10-21,Poor,True,False,True,False,4,3.5,2118,5401.0,2,595000
+AB-01111,8256 Maple Way,Edmonton,Rutherford,53.482854,-113.506168,Detached,1983.0,2025-11-16,Average,True,True,False,False,3,4.0,1215,4114.0,1,429000
+AB-01112,8177 Prairie Blvd,Edmonton,Summerside,53.548266,-113.53554,Condo,1971.0,2023-09-14,Excellent,False,True,False,False,2,1.5,875,,2,273000
+AB-01113,2744 Prairie Way,Calgary,Aspen Woods,51.034073,-114.0939,Detached,1979.0,2026-02-20,Fair,False,False,False,False,3,4.0,1276,6835.0,2,626000
+AB-01114,5895 Cedar St,Fort McMurray,Beacon Hill,56.688332,-111.382054,Detached,1983.0,2024-09-14,Average,False,False,False,True,5,4.0,1390,3849.0,2,451000
+AB-01115,8157 Park St,Calgary,Auburn Bay,51.13472,-114.173124,Condo,1967.0,2026-06-02,Average,False,False,False,False,1,2.0,1012,,0,278000
+AB-01116,1039 Aspen Rd,St. Albert,Riverside,53.608808,-113.666495,Detached,2009.0,2025-10-17,Average,False,False,False,False,3,3.0,1699,4496.0,2,713000
+AB-01117,1202 Park St,Edmonton,Terwillegar,53.593386,-113.561864,Duplex,1982.0,2025-09-07,Excellent,True,False,False,False,2,2.0,1685,2816.0,1,574000
+AB-01118,7486 Aspen Blvd,Calgary,Beltline,51.050359,-114.067271,Townhouse,1987.0,2025-12-01,Average,True,False,False,True,3,2.5,805,1450.0,1,284000
+AB-01119,1571 River Rd,Edmonton,Oliver,53.554487,-113.460813,Townhouse,1977.0,2025-11-14,Good,False,False,False,False,2,3.0,997,2201.0,1,273000
+AB-01120,8027 River St,Calgary,Auburn Bay,51.030794,-114.047854,Detached,1981.0,2025-12-01,Average,True,False,False,True,4,3.0,2090,3774.0,2,831000
+AB-01121,3507 Prairie Way,Airdrie,Hillcrest,51.29192,-114.083319,Condo,2005.0,2022-06-24,Average,False,True,False,False,2,1.0,662,,1,191000
+AB-01122,2142 River St,Calgary,Aspen Woods,51.026271,-114.095461,Detached,2002.0,2024-10-16,Average,True,False,False,False,6,3.0,1857,6542.0,2,937000
+AB-01123,6995 Aspen Blvd,Calgary,Aspen Woods,51.067261,-114.08911,Townhouse,1966.0,2025-07-27,Poor,False,False,False,False,3,3.0,1569,1445.0,1,429000
+AB-01124,7089 Prairie St,Calgary,Auburn Bay,51.003431,-114.070374,Condo,2009.0,2025-07-05,Good,True,False,False,False,3,1.0,724,,1,231000
+AB-01125,7331 Maple St,Calgary,Beltline,51.038484,-114.042385,Townhouse,1983.0,2022-11-07,Excellent,False,True,False,False,3,2.0,1581,1754.0,1,651000
+AB-01126,7680 Cedar Ave,Edmonton,Laurel,53.484011,-113.524672,Townhouse,1980.0,2025-10-11,Average,False,False,False,False,3,1.5,1344,1414.0,1,347000
+AB-01127,5513 Park Rd,Calgary,Seton,51.068778,-114.099484,Townhouse,1991.0,2025-07-29,Average,False,False,False,False,3,2.0,1376,1627.0,1,407000
+AB-01128,4770 River Way,Edmonton,Summerside,53.543999,-113.520887,Duplex,1995.0,2023-04-16,Average,True,False,False,False,3,2.5,1781,3039.0,2,570000
+AB-01129,3680 Aspen Way,Calgary,Mahogany,51.071148,-114.081885,Detached,2021.0,2024-12-21,Good,False,False,True,False,4,3.0,1567,4550.0,1,689000
+AB-01130,5037 Aspen Rd,Fort McMurray,Beacon Hill,56.677457,-111.398883,Semi-Detached,1965.0,2024-09-01,Average,False,False,True,False,2,2.0,2080,3455.0,2,558000
+AB-01131,1150 River Way,Edmonton,Oliver,53.580261,-113.430823,Detached,1998.0,2026-04-14,Average,False,True,False,False,3,2.5,2717,3870.0,2,1030000
+AB-01132,9846 Cedar Ave,Edmonton,Windermere,53.538979,-113.495447,Detached,2005.0,2025-06-28,Average,False,False,False,False,5,2.5,1825,3956.0,2,789000
+AB-01133,3199 Park Rd,Calgary,Kensington,51.018517,-114.16043,Condo,2006.0,2025-10-25,Average,True,True,False,False,2,2.0,1089,,0,408000
+AB-01134,4174 River Rd,Leduc,Black Stone,53.26813,-113.564,Condo,,2025-12-03,Poor,True,True,True,False,1,1.0,914,,2,199000
+AB-01135,5241 Prairie Ave,Red Deer,Lancaster,52.255032,-113.833709,Detached,1963.0,2025-08-25,Poor,True,False,True,False,5,3.0,2631,5658.0,2,658000
+AB-01136,5318 Maple Ave,Red Deer,Anders,52.267407,-113.832904,Semi-Detached,1964.0,2025-05-29,Average,False,True,False,False,3,2.5,2041,3053.0,0,541000
+AB-01137,2286 Aspen Ave,Edmonton,Rutherford,53.548997,-113.492145,Detached,1980.0,2025-10-12,Average,True,True,True,False,4,2.5,2831,5740.0,3,899000
+AB-01138,2112 Prairie Blvd,Edmonton,Summerside,53.550796,-113.474525,Condo,2019.0,2025-05-31,Average,False,True,False,False,1,1.0,1013,,0,305000
+AB-01139,3550 Maple St,Calgary,Seton,51.080457,-114.088944,Duplex,1995.0,2023-12-14,Good,False,False,False,False,3,3.0,1342,2512.0,0,497000
+AB-01140,4949 Cedar St,Calgary,Bridgeland,51.040201,-114.101225,Detached,1965.0,2022-10-22,Fair,False,False,False,True,4,4.0,2143,3669.0,2,707000
+AB-01141,6876 Park Way,Calgary,Mahogany,51.06931,-114.047906,Condo,2007.0,2026-02-24,Fair,False,False,False,False,2,1.0,1201,,0,357000
+AB-01142,5994 Prairie Way,Sherwood Park,Nottingham,53.570662,-113.343005,Detached,1993.0,2025-03-14,Fair,True,False,False,False,5,3.0,1328,4619.0,3,404000
+AB-01143,8845 Park Rd,Leduc,Meadowview,53.264145,-113.516517,Detached,2003.0,2024-01-10,Average,False,False,False,False,4,2.0,1847,5029.0,3,621000
+AB-01144,8513 Maple Ave,St. Albert,Erin Ridge,53.577336,-113.602894,Duplex,1975.0,2024-07-04,Average,False,False,False,True,2,1.5,1522,3636.0,2,493000
+AB-01145,3795 Aspen Ave,Airdrie,Coopers Crossing,51.265592,-114.044169,Semi-Detached,1964.0,2024-10-15,Good,False,False,False,False,2,3.0,1178,1997.0,1,341000
+AB-01146,4192 River Way,Edmonton,Windermere,53.524693,-113.443462,Semi-Detached,2009.0,2025-12-23,Good,True,False,True,True,3,1.5,1365,2514.0,1,594000
+AB-01147,124 Prairie Way,Edmonton,Laurel,53.591322,-113.527513,Townhouse,1984.0,2025-11-13,Excellent,False,False,False,False,3,3.0,1305,1744.0,1,436000
+AB-01148,269 Park Way,Edmonton,Westmount,53.633632,-113.541304,Semi-Detached,1962.0,2025-01-05,Good,False,True,False,False,3,2.0,1613,3071.0,1,555000
+AB-01149,9893 Prairie Rd,St. Albert,Mission,53.689622,-113.550453,Semi-Detached,1986.0,2025-09-07,Fair,True,False,False,False,3,3.0,1180,3961.0,1,393000
+AB-01150,2292 Maple Rd,Edmonton,Laurel,53.487609,-113.402186,Townhouse,,2025-12-29,Fair,True,False,True,False,2,1.5,1300,1617.0,1,341000
+AB-01151,4103 Cedar Ave,Airdrie,Reunion,51.257653,-113.996102,Detached,2011.0,2025-12-14,Average,False,False,False,False,3,2.5,1728,6793.0,2,631000
+AB-01152,3454 Prairie St,Edmonton,Rutherford,53.495318,-113.490399,Detached,2003.0,2024-12-04,Fair,False,True,True,False,4,3.0,2237,5123.0,1,816000
+AB-01153,6196 Prairie Rd,Sherwood Park,Emerald Hills,53.504606,-113.296882,Detached,1982.0,2026-02-13,Good,False,False,False,False,4,2.5,1936,6130.0,2,703000
+AB-01154,8902 Maple Blvd,Calgary,Inglewood,51.068853,-114.022953,Detached,2001.0,2025-07-31,Average,False,False,False,True,3,3.5,2286,5237.0,1,1040000
+AB-01155,6452 Prairie Blvd,Calgary,Auburn Bay,51.044602,-114.095889,Semi-Detached,,2025-04-26,Good,False,False,True,False,3,2.0,1631,2401.0,1,607000
+AB-01156,3267 River St,Edmonton,Terwillegar,53.477593,-113.523866,Townhouse,1978.0,2026-04-04,Average,True,True,True,False,2,1.5,1256,1310.0,2,426000
+AB-01157,7415 River Blvd,Fort McMurray,Eagle Ridge,56.793209,-111.332962,Duplex,1974.0,2024-10-08,Fair,False,True,False,True,4,3.0,1072,2810.0,1,299000
+AB-01158,2854 Prairie St,Edmonton,Summerside,53.520761,-113.522795,Detached,2014.0,2025-06-17,Average,False,False,False,False,4,2.0,2126,6601.0,3,730000
+AB-01159,3949 Aspen St,Calgary,Kensington,51.025339,-114.083328,Detached,1991.0,2022-11-20,Good,False,False,False,False,4,2.5,2483,7048.0,2,1126000
+AB-01160,7593 Cedar Ave,Red Deer,Lancaster,52.207103,-113.792775,Duplex,2015.0,2023-12-10,Fair,False,False,True,False,2,2.0,1557,3587.0,1,402000
+AB-01161,1464 Aspen Rd,Calgary,Inglewood,51.038113,-114.076561,Townhouse,2012.0,2024-08-31,Excellent,False,False,False,False,4,2.0,1378,2029.0,2,587000
+AB-01162,3210 River Way,Edmonton,Westmount,53.55382,-113.550993,Detached,1960.0,2025-11-15,Excellent,False,False,True,False,4,2.5,2386,5702.0,2,979000
+AB-01163,5430 Prairie St,Sherwood Park,Emerald Hills,53.564284,-113.216207,Detached,1968.0,2025-01-31,Average,False,True,True,False,3,3.5,2354,5245.0,2,879000
+AB-01164,1329 Aspen Ave,St. Albert,Riverside,53.541126,-113.633177,Detached,1994.0,2025-03-10,Average,False,True,False,False,4,4.0,1991,4586.0,2,757000
+AB-01165,3019 Prairie St,Calgary,Inglewood,51.033487,-114.151973,Townhouse,2004.0,2024-01-06,Good,False,False,False,False,3,2.0,1447,1723.0,1,523000
+AB-01166,8410 Aspen Way,Calgary,Mahogany,51.041287,-114.057149,Townhouse,2017.0,2023-12-25,Average,True,True,True,False,3,2.5,1469,2657.0,0,619000
+AB-01167,7885 River Way,Calgary,Auburn Bay,51.018783,-114.032983,Duplex,2016.0,2024-10-12,Average,False,False,False,False,4,2.5,1222,3056.0,1,440000
+AB-01168,5866 Prairie Way,Calgary,Beltline,51.069446,-113.978088,Townhouse,2023.0,2023-08-22,Average,True,True,False,False,3,2.5,1424,1408.0,1,540000
+AB-01169,9627 Aspen Way,Sherwood Park,Clarkdale,53.568724,-113.32088,Detached,2003.0,2025-05-15,Average,True,False,True,False,4,2.5,1797,5477.0,2,607000
+AB-01170,614 River Blvd,Edmonton,Oliver,53.485097,-113.521141,Townhouse,1981.0,2025-02-24,Fair,True,False,False,False,3,2.0,1689,2180.0,0,514000
+AB-01171,8941 Aspen Way,Edmonton,Oliver,53.539936,-113.490066,Detached,1988.0,2024-07-27,Poor,False,False,True,False,5,3.0,2601,6326.0,1,830000
+AB-01172,3975 Maple Ave,Calgary,Auburn Bay,51.016497,-114.026438,Detached,2013.0,2023-03-09,Excellent,False,False,True,False,5,4.0,2457,4148.0,2,1181000
+AB-01173,383 Park Blvd,Red Deer,Anders,52.266183,-113.852709,Duplex,2005.0,2024-11-14,Good,True,False,False,False,3,2.5,1835,2329.0,2,539000
+AB-01174,8796 Cedar Ave,Red Deer,West Park,52.217831,-113.779973,Semi-Detached,1962.0,2024-08-19,Good,False,True,False,False,3,2.5,1106,2809.0,1,307000
+AB-01175,9853 Maple Blvd,Calgary,Kensington,51.13211,-114.06983,Detached,1992.0,2024-07-27,Fair,True,False,False,False,4,2.5,1171,6800.0,3,513000
+AB-01176,5739 Aspen Way,Airdrie,Kings Heights,51.292404,-114.006317,Detached,1974.0,2025-02-04,Average,True,False,False,False,3,2.0,3220,3617.0,2,1088000
+AB-01177,581 Park Blvd,Sherwood Park,Summerwood,53.507909,-113.311082,Townhouse,1997.0,2025-05-06,Average,True,False,False,False,3,2.0,1439,1550.0,1,412000
+AB-01178,8113 Maple Ave,Edmonton,Rutherford,53.493809,-113.437318,Detached,1988.0,2025-06-17,Average,True,True,False,False,3,3.5,1971,4522.0,2,698000
+AB-01179,7838 River Ave,Edmonton,Summerside,53.548493,-113.572391,Detached,1968.0,2025-02-19,Excellent,False,False,True,False,4,4.0,1379,,3,564000
+AB-01180,5101 River Rd,St. Albert,Riverside,53.648839,-113.643595,Detached,1981.0,2025-07-23,Average,True,True,False,False,4,3.0,1478,7253.0,2,583000
+AB-01181,9918 Maple Rd,Calgary,Auburn Bay,51.043808,-114.081672,Detached,1966.0,2025-07-29,Average,True,True,False,False,4,2.0,1902,5935.0,3,760000
+AB-01182,7657 Maple Rd,St. Albert,Oakmont,53.557497,-113.581782,Semi-Detached,1974.0,2024-06-19,Good,False,False,True,False,3,2.5,1368,2925.0,2,466000
+AB-01183,3667 Cedar St,Leduc,Southfork,53.262446,-113.595926,Detached,1984.0,2024-03-30,Fair,False,True,False,False,3,3.0,1601,7478.0,1,528000
+AB-01184,2952 Cedar Way,Fort McMurray,Abasand,56.74051,-111.398159,Condo,1968.0,2026-05-30,Average,True,False,True,False,2,1.0,937,,1,221000
+AB-01185,8007 Aspen St,Edmonton,Windermere,53.479427,-113.513324,Semi-Detached,2001.0,2024-11-07,Good,False,False,False,False,3,2.0,1471,3644.0,2,650000
+AB-01186,6612 Aspen St,Edmonton,Rutherford,53.530421,-113.548466,Semi-Detached,1980.0,2023-10-23,Average,True,False,False,False,3,2.0,1319,2716.0,1,339000
+AB-01187,1937 Maple Way,Leduc,Tribute,53.257562,-113.55582,Detached,1963.0,2025-06-25,Good,False,False,False,False,5,2.0,1846,5363.0,2,574000
+AB-01188,2888 Prairie Rd,Airdrie,Bayside,51.271607,-114.027051,Detached,1997.0,2024-12-29,Excellent,False,False,False,False,5,3.0,2410,4971.0,2,955000
+AB-01189,9455 Park Way,Red Deer,Anders,52.271563,-113.795974,Townhouse,2022.0,2024-12-25,Average,False,False,True,False,3,2.5,1703,1485.0,2,445000
+AB-01190,5002 Aspen Way,Calgary,Auburn Bay,50.982783,-114.055396,Duplex,1969.0,2024-09-23,Good,False,False,True,True,3,3.0,1455,1774.0,2,497000
+AB-01191,3476 Cedar Blvd,Calgary,Aspen Woods,51.044074,-114.115838,Condo,1994.0,2025-12-27,Good,False,False,False,True,1,1.0,894,,0,357000
+AB-01192,9571 River Way,St. Albert,Erin Ridge,53.583041,-113.63441,Detached,1974.0,2023-01-22,Good,False,True,False,False,4,3.5,1395,6869.0,2,544000
+AB-01193,7395 Cedar Way,Edmonton,Glenora,53.527947,-113.455406,Duplex,1981.0,2025-07-20,Good,True,False,False,False,3,3.0,1609,2567.0,2,631000
+AB-01194,7713 Prairie St,Edmonton,Laurel,53.496931,-113.488976,Detached,1962.0,2024-07-24,Good,True,True,False,False,5,2.5,2182,4022.0,2,780000
+AB-01195,7871 Park Ave,Edmonton,Summerside,53.553278,-113.566852,Duplex,1976.0,2025-07-21,Good,True,True,False,False,2,2.0,1625,2744.0,2,625000
+AB-01196,1099 River Rd,Red Deer,West Park,52.238837,-113.79734,Duplex,1965.0,2025-02-21,Average,True,True,True,False,3,3.0,1404,3288.0,2,348000
+AB-01197,8450 Prairie Way,St. Albert,Mission,53.631522,-113.594191,Detached,1987.0,2025-09-30,Good,True,True,False,False,5,2.0,2153,4772.0,2,841000
+AB-01198,4882 Cedar Ave,Calgary,Seton,51.060706,-113.97748,Condo,2006.0,2025-07-01,Good,False,False,True,False,3,2.0,699,,0,218000
+AB-01199,8424 River Blvd,Edmonton,Laurel,53.614079,-113.572425,Duplex,1965.0,2025-02-26,Good,True,True,False,False,2,2.0,1615,2725.0,0,504000
+AB-01200,4301 Maple Blvd,Red Deer,Anders,52.278511,-113.804923,Detached,2008.0,2026-02-21,Good,False,False,False,False,5,2.5,1218,2192.0,2,385000
